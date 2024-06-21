@@ -1,4 +1,4 @@
-# CODAafication
+# CODAfication
 
 
 This repo contains code and pretrained models to reproduce the results in our paper [Exploiting Dialect Identification
