@@ -1,0 +1,6 @@
+torch==1.11.0
+transformers==4.22.2
+camel-tools
+datasets==2.5.1
+sentencepiece==0.1.99
+protobuf==3.20.3
