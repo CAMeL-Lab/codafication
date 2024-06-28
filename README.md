@@ -18,3 +18,19 @@ conda activate coda
 
 pip install -r requirements.txt
 ```
+
+## Experiments and Reproducibility:
+
+
+
+## Hugging Face Integration:
+We make our CODAfication models publicly available on [Hugging Face]().
+
+
+## License:
+
+This repo is available under the MIT license. See the [LICENSE](LICENSE) for more info.
+
+## Citation
+
+If you find the code or data in this repo helpful, please cite our [paper]():
