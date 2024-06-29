@@ -1,0 +1,300 @@
+{"btec_id": "1997", "example_id": "600", "dialect": "DOH", "pred_dialect": "DOH", "raw": "هذي التكسي ببلاش؟", "coda": "هاذي التكسي ببلاش؟"}
+{"btec_id": "1998", "example_id": "601", "dialect": "DOH", "pred_dialect": "DOH", "raw": "هذي محطة القطار السريع؟", "coda": "هاذي محطة القطار السريع؟"}
+{"btec_id": "2001", "example_id": "602", "dialect": "DOH", "pred_dialect": "DOH", "raw": "الساعة كم اجي؟", "coda": "الساعة كم اجي؟"}
+{"btec_id": "2003", "example_id": "603", "dialect": "DOH", "pred_dialect": "DOH", "raw": "بغيت غرشة صغيرة واين ابيض.", "coda": "بغيت غرشة صغيرة واين ابيض."}
+{"btec_id": "2005", "example_id": "604", "dialect": "DOH", "pred_dialect": "DOH", "raw": "اه. يصير اخذ وجبتي بعدين؟ احس تعبان شوي.", "coda": "آه. يصير آخذ وجبتي بعدين؟ احس تعبان شوي."}
+{"btec_id": "2025", "example_id": "605", "dialect": "DOH", "pred_dialect": "DOH", "raw": "الصج، عندي خبر. بتزوج.", "coda": "الصدق، عندي خبر. باتزوج."}
+{"btec_id": "2033", "example_id": "606", "dialect": "DOH", "pred_dialect": "DOH", "raw": "اي بوانطلين ثانية؟", "coda": "اي بوانطلين ثانية؟"}
+{"btec_id": "2035", "example_id": "607", "dialect": "DOH", "pred_dialect": "DOH", "raw": "ممكن اخذ برنامج؟", "coda": "ممكن آخذ برنامج؟"}
+{"btec_id": "2052", "example_id": "608", "dialect": "DOH", "pred_dialect": "DOH", "raw": "احد اقتحم غرفتي البارحة فالليل.", "coda": "احد اقتحم غرفتي البارحة فالليل."}
+{"btec_id": "2055", "example_id": "609", "dialect": "DOH", "pred_dialect": "DOH", "raw": "ورني السمجة اللي شفتها اليوم في كتب الصور، لو سمحت.", "coda": "ورني السمكة اللي شفتها اليوم في كتب الصور، لو سمحت."}
+{"btec_id": "2083", "example_id": "610", "dialect": "DOH", "pred_dialect": "BEI", "raw": "شوف التعليمات على علبة الأكل المفرغة من الهوا.", "coda": "شوف التعليمات على علبة الاكل المفرغة من الهوا."}
+{"btec_id": "2086", "example_id": "611", "dialect": "DOH", "pred_dialect": "DOH", "raw": "بغيت انواط.", "coda": "بغيت انواط."}
+{"btec_id": "2119", "example_id": "612", "dialect": "DOH", "pred_dialect": "TUN", "raw": "ما عندكم دروس تجريبية؟", "coda": "ما عندكم دروس تجريبية؟"}
+{"btec_id": "2147", "example_id": "613", "dialect": "DOH", "pred_dialect": "DOH", "raw": "وين اقدر اشتري طوابع بريدية؟", "coda": "وين اقدر اشتري طوابع بريدية؟"}
+{"btec_id": "2148", "example_id": "614", "dialect": "DOH", "pred_dialect": "BEI", "raw": "انا من بريطانيا.", "coda": "انا من بريطانيا."}
+{"btec_id": "2156", "example_id": "615", "dialect": "DOH", "pred_dialect": "DOH", "raw": "لازم اجيكه مع زوجتي.", "coda": "لازم اتشيكه مع زوجتي."}
+{"btec_id": "2161", "example_id": "616", "dialect": "DOH", "pred_dialect": "DOH", "raw": "بغيتك ترجع لي فلوسي عن هذا.", "coda": "بغيتك ترجع لي فلوسي عن هذا."}
+{"btec_id": "2179", "example_id": "617", "dialect": "DOH", "pred_dialect": "DOH", "raw": "في كبينة تلفون قدام هذاك البنك.", "coda": "في كبينة تلفون قدام هاذاك البنك."}
+{"btec_id": "2180", "example_id": "618", "dialect": "DOH", "pred_dialect": "DOH", "raw": "بوصل تسعة مارس وبمشي اربعطعش.", "coda": "باوصل تسعة مارس وبامشي اربعتعش."}
+{"btec_id": "2205", "example_id": "619", "dialect": "DOH", "pred_dialect": "DOH", "raw": "هذي شوي غالي، ولا شرايك؟", "coda": "هاذي شوي غالي، ولا شرايك؟"}
+{"btec_id": "2235", "example_id": "620", "dialect": "DOH", "pred_dialect": "DOH", "raw": "عندك الرصيد؟", "coda": "عندك الرصيد؟"}
+{"btec_id": "2236", "example_id": "621", "dialect": "DOH", "pred_dialect": "DOH", "raw": "وين محطة الباص؟", "coda": "وين محطة الباص؟"}
+{"btec_id": "2238", "example_id": "622", "dialect": "DOH", "pred_dialect": "DOH", "raw": "بغيت حلو؟", "coda": "بغيت حلو؟"}
+{"btec_id": "2302", "example_id": "623", "dialect": "DOH", "pred_dialect": "DOH", "raw": "تتكلم؟", "coda": "تتكلم؟"}
+{"btec_id": "2306", "example_id": "624", "dialect": "DOH", "pred_dialect": "DOH", "raw": "نفس الشي حقي، لو سمحت.", "coda": "نفس الشي حقي، لو سمحت."}
+{"btec_id": "2318", "example_id": "625", "dialect": "DOH", "pred_dialect": "DOH", "raw": "طلبي ما وصل.", "coda": "طلبي ما وصل."}
+{"btec_id": "2324", "example_id": "626", "dialect": "DOH", "pred_dialect": "DOH", "raw": "في واجد ينابيع حارة.", "coda": "فيه واجد ينابيع حارة."}
+{"btec_id": "2329", "example_id": "627", "dialect": "DOH", "pred_dialect": "DOH", "raw": "لو سمحت حول خمسين ألف ين لي دولارات امريكية.", "coda": "لو سمحت حول خمسين الف ين لي دولارات امريكية."}
+{"btec_id": "2338", "example_id": "628", "dialect": "DOH", "pred_dialect": "DOH", "raw": "عادي عندي. الصراحة ابغي ادخن.", "coda": "عادي عندي. الصراحة ابغي ادخن."}
+{"btec_id": "2381", "example_id": "629", "dialect": "DOH", "pred_dialect": "DOH", "raw": "بغيت كاس واين احمر.", "coda": "بغيت كاس واين احمر."}
+{"btec_id": "2389", "example_id": "630", "dialect": "DOH", "pred_dialect": "DOH", "raw": "بس اذا مالك اخوي. هه، انكت.", "coda": "بس اذا مالك اخوي. هه، انكت."}
+{"btec_id": "2401", "example_id": "631", "dialect": "DOH", "pred_dialect": "DOH", "raw": "اكيد. شلون نقدر نخدمك؟", "coda": "اكيد. شلون نقدر نخدمك؟"}
+{"btec_id": "2425", "example_id": "632", "dialect": "DOH", "pred_dialect": "DOH", "raw": "هوية؟ اوه، اي. جواز اوكي؟", "coda": "هوية؟ اوه، اي. جواز اوكي؟"}
+{"btec_id": "2428", "example_id": "633", "dialect": "DOH", "pred_dialect": "DOH", "raw": "رقم غرفتي ثلاثمية وستة وعشرين. ممكن تاخذ غسيلي؟", "coda": "رقم غرفتي ثلاثمية وستة وعشرين. ممكن تاخذ غسيلي؟"}
+{"btec_id": "2440", "example_id": "634", "dialect": "DOH", "pred_dialect": "DOH", "raw": "بشوف اذا اي واحد من ذيلا يناسب.", "coda": "باشوف اذا اي واحد من ذيلا يناسب."}
+{"btec_id": "2441", "example_id": "635", "dialect": "DOH", "pred_dialect": "RAB", "raw": "بغيت غوري.", "coda": "بغيت غوري."}
+{"btec_id": "2445", "example_id": "636", "dialect": "DOH", "pred_dialect": "DOH", "raw": "جيب لي جبن مبشور.", "coda": "جيب لي جبن مبشور."}
+{"btec_id": "2462", "example_id": "637", "dialect": "DOH", "pred_dialect": "DOH", "raw": "ممكن تنظفون فانيلاتي على باجر الصبح؟", "coda": "ممكن تنظفون فانيلاتي على باكر الصبح؟"}
+{"btec_id": "2476", "example_id": "638", "dialect": "DOH", "pred_dialect": "DOH", "raw": "ممكن تخليه يرد يكلمني؟", "coda": "ممكن تخليه يرد يكلمني؟"}
+{"btec_id": "2490", "example_id": "639", "dialect": "DOH", "pred_dialect": "DOH", "raw": "ليش عيل؟", "coda": "ليش عيل؟"}
+{"btec_id": "2492", "example_id": "640", "dialect": "DOH", "pred_dialect": "DOH", "raw": "لو سمحت، في مكتبة قريب؟", "coda": "لو سمحت، فيه مكتبة قريب؟"}
+{"btec_id": "2505", "example_id": "641", "dialect": "DOH", "pred_dialect": "DOH", "raw": "الباص هناك.", "coda": "الباص هناك."}
+{"btec_id": "2516", "example_id": "642", "dialect": "DOH", "pred_dialect": "DOH", "raw": "بغيت رولتين أيزو مية، فيلم ملون، ستة وثلاثين صورة، لو سمحت.", "coda": "بغيت رولتين ايزو مية، فيلم ملون، ستة وثلاثين صورة، لو سمحت."}
+{"btec_id": "2519", "example_id": "643", "dialect": "DOH", "pred_dialect": "DOH", "raw": "بغيت اصرف هالجيك حق سبعين دولار.", "coda": "بغيت اصرف هالتشيك حق سبعين دولار."}
+{"btec_id": "2521", "example_id": "644", "dialect": "DOH", "pred_dialect": "DOH", "raw": "بغيت اشتري طوابع حق عشر بطاقات بريدية لليابان، لو سمحت.", "coda": "بغيت اشتري طوابع حق عشر بطاقات بريدية لليابان، لو سمحت."}
+{"btec_id": "2528", "example_id": "645", "dialect": "DOH", "pred_dialect": "DOH", "raw": "في بنوك يم المحطة؟", "coda": "في بنوك يم المحطة؟"}
+{"btec_id": "2531", "example_id": "646", "dialect": "DOH", "pred_dialect": "DOH", "raw": "مسامحة بس في غلط في الفاتورة.", "coda": "مسامحة بس فيه غلط في الفاتورة."}
+{"btec_id": "2557", "example_id": "647", "dialect": "DOH", "pred_dialect": "DOH", "raw": "واحد جيزبرقر تيك اوي، لو سمحت.", "coda": "واحد تشيز برجر تيك اوي، لو سمحت."}
+{"btec_id": "2591", "example_id": "648", "dialect": "DOH", "pred_dialect": "DOH", "raw": "اركض.", "coda": "اركض."}
+{"btec_id": "2601", "example_id": "649", "dialect": "DOH", "pred_dialect": "DOH", "raw": "بلوزتي فيها شق. تقدر تخيطه لي، لو سمحت؟", "coda": "بلوزتي فيها شق. تقدر تخيطه لي، لو سمحت؟"}
+{"btec_id": "2643", "example_id": "650", "dialect": "DOH", "pred_dialect": "DOH", "raw": "ممكن تعطيني جارج سيارة؟", "coda": "ممكن تعطيني تشارج سيارة؟"}
+{"btec_id": "2644", "example_id": "651", "dialect": "DOH", "pred_dialect": "DOH", "raw": "وين احصل بساط حق الساحل؟", "coda": "وين احصل بساط حق الساحل؟"}
+{"btec_id": "2676", "example_id": "652", "dialect": "DOH", "pred_dialect": "DOH", "raw": "عطني ستيك لحم الخنزير هذي، بس مابغيه متين جذي.", "coda": "عطني ستيك لحم الخنزير هاذي، بس ما ابغيه متين كذي."}
+{"btec_id": "2678", "example_id": "653", "dialect": "DOH", "pred_dialect": "DOH", "raw": "بنجي الساعة سبع.", "coda": "بنجي الساعة سبع."}
+{"btec_id": "2687", "example_id": "654", "dialect": "DOH", "pred_dialect": "DOH", "raw": "لما اشوف الاسعار نازلة جذي، احس ماله داعي اشتري اي شي من اليابان.", "coda": "لما اشوف الاسعار نازلة كذي، احس ماله داعي اشتري اي شي من اليابان."}
+{"btec_id": "2690", "example_id": "655", "dialect": "DOH", "pred_dialect": "DOH", "raw": "سجلاتي كلها انسرقت، بعد.", "coda": "سجلاتي كلها انسرقت، بعد."}
+{"btec_id": "2695", "example_id": "656", "dialect": "DOH", "pred_dialect": "DOH", "raw": "ايسكريم بسكوت على فانيلا، لو سمحت.", "coda": "ايسكريم بسكوت على فانيلا، لو سمحت."}
+{"btec_id": "2702", "example_id": "657", "dialect": "DOH", "pred_dialect": "DOH", "raw": "اوافق. لازم يصير واجد طبيعي.", "coda": "اوافق. لازم يصير واجد طبيعي."}
+{"btec_id": "2704", "example_id": "658", "dialect": "DOH", "pred_dialect": "DOH", "raw": "انتبه من الفتحة، انتبه من الفتحة، عقب يم الباب، لو سمحت.", "coda": "انتبه من الفتحة، انتبه من الفتحة، عقب يم الباب، لو سمحت."}
+{"btec_id": "2707", "example_id": "659", "dialect": "DOH", "pred_dialect": "DOH", "raw": "بحتاج كردت كارد.", "coda": "باحتاج كردت كارد."}
+{"btec_id": "2726", "example_id": "660", "dialect": "DOH", "pred_dialect": "DOH", "raw": "لو سمحت عطني تقرير حادث.", "coda": "لو سمحت عطني تقرير حادث."}
+{"btec_id": "2729", "example_id": "661", "dialect": "DOH", "pred_dialect": "BEI", "raw": "لا، شكرا بس الحين.", "coda": "لا، شكرا بس الحين."}
+{"btec_id": "2734", "example_id": "662", "dialect": "DOH", "pred_dialect": "DOH", "raw": "اوكي، خلك عالخط لو سمحت. سيد ناكاجيما، آنسة سايتو ما ترد عالمكالمة. تبيني اخليه يرن زيادة؟", "coda": "اوكي، خلك عالخط لو سمحت. سيد ناكاجيما، آنسة سايتو ما ترد عالمكالمة. تبيني اخليه يرن زيادة؟"}
+{"btec_id": "2747", "example_id": "663", "dialect": "DOH", "pred_dialect": "DOH", "raw": "شكله واجد نادر.", "coda": "شكله واجد نادر."}
+{"btec_id": "2748", "example_id": "664", "dialect": "DOH", "pred_dialect": "DOH", "raw": "وين استلام الشناط من رحلة سبعمية وثلاثة؟", "coda": "وين استلام الشناط من رحلة سبعمية وثلاثة؟"}
+{"btec_id": "2760", "example_id": "665", "dialect": "DOH", "pred_dialect": "DOH", "raw": "في شي غلط في مسكتك.", "coda": "فيه شي غلط في مسكتك."}
+{"btec_id": "2765", "example_id": "666", "dialect": "DOH", "pred_dialect": "DOH", "raw": "بيخترب هذي؟", "coda": "بيخترب هاذي؟"}
+{"btec_id": "2772", "example_id": "667", "dialect": "DOH", "pred_dialect": "DOH", "raw": "لا، مشكور. احسن لي ما اشرب بعد.", "coda": "لا، مشكور. احسن لي ما اشرب بعد."}
+{"btec_id": "2808", "example_id": "668", "dialect": "DOH", "pred_dialect": "DOH", "raw": "لو سمحت عطني شوارع زينة للتسوق.", "coda": "لو سمحت عطني شوارع زينة للتسوق."}
+{"btec_id": "2816", "example_id": "669", "dialect": "DOH", "pred_dialect": "DOH", "raw": "الحين، هالرسمة وايد مميزة. رسمها تسوروتارو كاتاووكا. هو معروف انه فنان عالمي.", "coda": "الحين، هالرسمة واجد مميزة. رسمها تسوروتارو كاتاووكا. هو معروف انه فنان عالمي."}
+{"btec_id": "2850", "example_id": "670", "dialect": "DOH", "pred_dialect": "DOH", "raw": "انا وايد اقدر الموسيقى الكلاسيكية.", "coda": "انا واجد اقدر الموسيقى الكلاسيكية."}
+{"btec_id": "2862", "example_id": "671", "dialect": "DOH", "pred_dialect": "DOH", "raw": "اوكي. شنو اسم الطرف الآخر ورقمه، اذا ممكن.", "coda": "اوكي. شنو اسم الطرف الآخر ورقمه، اذا ممكن."}
+{"btec_id": "2871", "example_id": "672", "dialect": "DOH", "pred_dialect": "DOH", "raw": "لو سمحت. خلني اطلع.", "coda": "لو سمحت. خلني اطلع."}
+{"btec_id": "2878", "example_id": "673", "dialect": "DOH", "pred_dialect": "DOH", "raw": "ممكن تتصل تطلب طاقم عمل يتكلم ياباني؟", "coda": "ممكن تتصل تطلب طاقم عمل يتكلم ياباني؟"}
+{"btec_id": "2898", "example_id": "674", "dialect": "DOH", "pred_dialect": "DOH", "raw": "احنا نزور اهلنا واجد.", "coda": "احنا نزور اهلنا واجد."}
+{"btec_id": "2939", "example_id": "675", "dialect": "DOH", "pred_dialect": "DOH", "raw": "ميكي هاياكاوا. هذي غرفة سبعمية واثنين.", "coda": "ميكي هاياكاوا. هاذي غرفة سبعمية واثنين."}
+{"btec_id": "2945", "example_id": "676", "dialect": "DOH", "pred_dialect": "DOH", "raw": "لازم ايلس هني الليلة، صح؟ تقدر تساعدني احجز غرفة في فندق؟", "coda": "لازم اجلس هني الليلة، صح؟ تقدر تساعدني احجز غرفة في فندق؟"}
+{"btec_id": "2947", "example_id": "677", "dialect": "DOH", "pred_dialect": "DOH", "raw": "المفروض ما ياخذ وايد. خمسطعش دقيقة مشي.", "coda": "المفروض ما ياخذ واجد. خمستعش دقيقة مشي."}
+{"btec_id": "2960", "example_id": "678", "dialect": "DOH", "pred_dialect": "DOH", "raw": "ممكن تقول لي كم تكلفة هالمكالمة؟", "coda": "ممكن تقول لي كم تكلفة هالمكالمة؟"}
+{"btec_id": "2964", "example_id": "679", "dialect": "DOH", "pred_dialect": "DOH", "raw": "انزين، ممكن تقول لها اني اتصلت، لو سمحت؟ بتصل لها مرة ثانية بعدين.", "coda": "انزين، ممكن تقول لها اني اتصلت، لو سمحت؟ باتصل لها مرة ثانية بعدين."}
+{"btec_id": "2973", "example_id": "680", "dialect": "DOH", "pred_dialect": "DOH", "raw": "في جولات صباحية؟", "coda": "فيه جولات صباحية؟"}
+{"btec_id": "2982", "example_id": "681", "dialect": "DOH", "pred_dialect": "DOH", "raw": "تحول عملات اجنبية؟", "coda": "تحول عملات اجنبية؟"}
+{"btec_id": "2990", "example_id": "682", "dialect": "DOH", "pred_dialect": "DOH", "raw": "وين اقدر اشتري فلم؟", "coda": "وين اقدر اشتري فلم؟"}
+{"btec_id": "2995", "example_id": "683", "dialect": "DOH", "pred_dialect": "DOH", "raw": "عندك بير ياباني؟", "coda": "عندك بير ياباني؟"}
+{"btec_id": "3016", "example_id": "684", "dialect": "DOH", "pred_dialect": "DOH", "raw": "بغيت اسجل شناطي.", "coda": "بغيت اسجل شناطي."}
+{"btec_id": "3029", "example_id": "685", "dialect": "DOH", "pred_dialect": "DOH", "raw": "معاك آنسة كاوازو من غرفة الف وستمية واحدعش.", "coda": "معاك آنسة كاوازو من غرفة الف وستمية وحدعش."}
+{"btec_id": "3030", "example_id": "686", "dialect": "DOH", "pred_dialect": "DOH", "raw": "العفو.", "coda": "العفو."}
+{"btec_id": "3040", "example_id": "687", "dialect": "DOH", "pred_dialect": "DOH", "raw": "شنو الاهم بالنسبة لكم انتوا اليابانيين؟ يوم راس السنة او الكرسمس؟", "coda": "شنو الاهم بالنسبة لكم انتوا اليابانيين؟ يوم راس السنة او الكرسمس؟"}
+{"btec_id": "3073", "example_id": "688", "dialect": "DOH", "pred_dialect": "DOH", "raw": "بس دقيقة، لو سمحت.", "coda": "بس دقيقة، لو سمحت."}
+{"btec_id": "3109", "example_id": "689", "dialect": "DOH", "pred_dialect": "DOH", "raw": "لو سمحت ملي تقرير فقدان.", "coda": "لو سمحت ملي تقرير فقدان."}
+{"btec_id": "3120", "example_id": "690", "dialect": "DOH", "pred_dialect": "DOH", "raw": "من امس.", "coda": "من امس."}
+{"btec_id": "3129", "example_id": "691", "dialect": "DOH", "pred_dialect": "DOH", "raw": "يشمل تأمين ضد التصادم وتأمين المسؤولية القانونية.", "coda": "يشمل تأمين ضد التصادم وتأمين المسؤولية القانونية."}
+{"btec_id": "3152", "example_id": "692", "dialect": "DOH", "pred_dialect": "BEI", "raw": "عندك بروشات بتصاميم حلوة؟", "coda": "عندك بروشات بتصاميم حلوة؟"}
+{"btec_id": "3155", "example_id": "693", "dialect": "DOH", "pred_dialect": "DOH", "raw": "اكلمك من كبينة عامة في ميسيز.", "coda": "اكلمك من كبينة عامة في ميسيز."}
+{"btec_id": "3176", "example_id": "694", "dialect": "DOH", "pred_dialect": "DOH", "raw": "كم رسوم الموقف في في الساعة؟", "coda": "كم رسوم الموقف في الساعة؟"}
+{"btec_id": "3179", "example_id": "695", "dialect": "DOH", "pred_dialect": "DOH", "raw": "سيداتي وسادتي، في رحلتنا اليوم، عندنا مضيفين يتكلمون ياباني وممكن التعرف عليهم من دبابيس الأعلام اللي يلبسونها. اذا تعرف احد يحتاج مساعدة في اللغة، خبرنا.", "coda": "سيداتي وسادتي، في رحلتنا اليوم، عندنا مضيفين يتكلمون ياباني وممكن التعرف عليهم من دبابيس الاعلام اللي يلبسونها. اذا تعرف احد يحتاج مساعدة في اللغة، خبرنا."}
+{"btec_id": "3182", "example_id": "696", "dialect": "DOH", "pred_dialect": "DOH", "raw": "في حقبة معينة للفن انت تفضلها؟", "coda": "فيه حقبة معينة للفن انت تفضلها؟"}
+{"btec_id": "3185", "example_id": "697", "dialect": "DOH", "pred_dialect": "DOH", "raw": "لو سمحت جيكه مرة ثانية.", "coda": "لو سمحت تشيكه مرة ثانية."}
+{"btec_id": "3195", "example_id": "698", "dialect": "DOH", "pred_dialect": "DOH", "raw": "امش مع النهر سيدة نص ميل. بتوصل الحديقة.", "coda": "امش مع النهر سيدا نص ميل. بتوصل الحديقة."}
+{"btec_id": "3207", "example_id": "699", "dialect": "DOH", "pred_dialect": "DOH", "raw": "اوكي، بطرشه لاس فيغاس حقك.", "coda": "اوكي، باطرشه لاس فيغاس حقك."}
+{"btec_id": "3209", "example_id": "700", "dialect": "DOH", "pred_dialect": "DOH", "raw": "بغيت فانيلات للركض.", "coda": "بغيت فانيلات للركض."}
+{"btec_id": "3220", "example_id": "701", "dialect": "DOH", "pred_dialect": "DOH", "raw": "بغيت شي تشربه من البار؟", "coda": "بغيت شي تشربه من البار؟"}
+{"btec_id": "3238", "example_id": "702", "dialect": "DOH", "pred_dialect": "DOH", "raw": "احسن لك تاخذ قطار الثمان ونص.", "coda": "احسن لك تاخذ قطار الثمان ونص."}
+{"btec_id": "3269", "example_id": "703", "dialect": "DOH", "pred_dialect": "DOH", "raw": "الحين موسم المحار، يعني بيكونون زينين.", "coda": "الحين موسم المحار، يعني بيكونون زينين."}
+{"btec_id": "3279", "example_id": "704", "dialect": "DOH", "pred_dialect": "DOH", "raw": "بغيت مع ساعة يد ثانية.", "coda": "بغيت مع ساعة يد ثانية."}
+{"btec_id": "3284", "example_id": "705", "dialect": "DOH", "pred_dialect": "DOH", "raw": "بسوي جيك ان على الساعة تسع المسا.", "coda": "باسوي تشيك ان على الساعة تسع المسا."}
+{"btec_id": "3285", "example_id": "706", "dialect": "DOH", "pred_dialect": "DOH", "raw": "الوقت قاعد يتأخر. لازم امشي.", "coda": "الوقت قاعد يتأخر. لازم امشي."}
+{"btec_id": "3289", "example_id": "707", "dialect": "DOH", "pred_dialect": "DOH", "raw": "انا ما استخدمت خدمتكم للغسيل. ممكن تجيك هذي مرة ثانية؟", "coda": "انا ما استخدمت خدمتكم للغسيل. ممكن تشيك هاذي مرة ثانية؟"}
+{"btec_id": "3292", "example_id": "708", "dialect": "DOH", "pred_dialect": "DOH", "raw": "بغيت شاهي، لو سمحت.", "coda": "بغيت شاهي، لو سمحت."}
+{"btec_id": "3295", "example_id": "709", "dialect": "DOH", "pred_dialect": "DOH", "raw": "لا، مافي.", "coda": "لا، مافيه."}
+{"btec_id": "3304", "example_id": "710", "dialect": "DOH", "pred_dialect": "DOH", "raw": "هذي آخر محطة؟", "coda": "هاذي آخر محطة؟"}
+{"btec_id": "3318", "example_id": "711", "dialect": "DOH", "pred_dialect": "DOH", "raw": "خل نتصل له.", "coda": "خل نتصل له."}
+{"btec_id": "3323", "example_id": "712", "dialect": "DOH", "pred_dialect": "DOH", "raw": "هذي حار فلفل؟", "coda": "هاذي حار فلفل؟"}
+{"btec_id": "3334", "example_id": "713", "dialect": "DOH", "pred_dialect": "DOH", "raw": "وين اقدر احصل باص سياحي؟", "coda": "وين اقدر احصل باص سياحي؟"}
+{"btec_id": "3335", "example_id": "714", "dialect": "DOH", "pred_dialect": "DOH", "raw": "اي، ابغي اشوف المعالم السياحية في المدينة.", "coda": "اي، ابغي اشوف المعالم السياحية في المدينة."}
+{"btec_id": "3359", "example_id": "715", "dialect": "DOH", "pred_dialect": "RAB", "raw": "شكرا على الضيافة.", "coda": "شكرا على الضيافة."}
+{"btec_id": "3375", "example_id": "716", "dialect": "DOH", "pred_dialect": "DOH", "raw": "مافي احسن من الصدق.", "coda": "مافيه احسن من الصدق."}
+{"btec_id": "3385", "example_id": "717", "dialect": "DOH", "pred_dialect": "DOH", "raw": "ممكن تقعدني الساعة ست، لو سمحت؟", "coda": "ممكن تقعدني الساعة ست، لو سمحت؟"}
+{"btec_id": "3392", "example_id": "718", "dialect": "DOH", "pred_dialect": "DOH", "raw": "كم تكلف حق نص يوم؟", "coda": "كم تكلف حق نص يوم؟"}
+{"btec_id": "3397", "example_id": "719", "dialect": "DOH", "pred_dialect": "CAI", "raw": "انا كينجي.", "coda": "انا كنجي."}
+{"btec_id": "3402", "example_id": "720", "dialect": "DOH", "pred_dialect": "DOH", "raw": "تعرف اماكن حلوة نشوفها في شيكاغو؟", "coda": "تعرف اماكن حلوة نشوفها في شيكاغو؟"}
+{"btec_id": "3404", "example_id": "721", "dialect": "DOH", "pred_dialect": "DOH", "raw": "والله، اذا انتوا الاثنين مصرين، بجي معاكم.", "coda": "والله، اذا انتوا الاثنين مصرين، باجي معاكم."}
+{"btec_id": "3446", "example_id": "722", "dialect": "DOH", "pred_dialect": "DOH", "raw": "بغيت اسوي حجز الساعة ثلاث ونص العصر.", "coda": "بغيت اسوي حجز الساعة ثلاث ونص العصر."}
+{"btec_id": "3489", "example_id": "723", "dialect": "DOH", "pred_dialect": "DOH", "raw": "صندوق الامانات، لو سمحت.", "coda": "صندوق الامانات، لو سمحت."}
+{"btec_id": "3502", "example_id": "724", "dialect": "DOH", "pred_dialect": "DOH", "raw": "لو سمحت اختار واين مناسب.", "coda": "لو سمحت اختار واين مناسب."}
+{"btec_id": "3522", "example_id": "725", "dialect": "DOH", "pred_dialect": "DOH", "raw": "لازم ادفع حق البترول؟", "coda": "لازم ادفع حق البترول؟"}
+{"btec_id": "3557", "example_id": "726", "dialect": "DOH", "pred_dialect": "DOH", "raw": "بايق. صيدوه.", "coda": "بايق. صيدوه."}
+{"btec_id": "3572", "example_id": "727", "dialect": "DOH", "pred_dialect": "DOH", "raw": "لو سمحت عطني خردة.", "coda": "لو سمحت عطني خردة."}
+{"btec_id": "3628", "example_id": "728", "dialect": "DOH", "pred_dialect": "DOH", "raw": "هي صغيرة وكيوت.", "coda": "هي صغيرة وكيوت."}
+{"btec_id": "3640", "example_id": "729", "dialect": "DOH", "pred_dialect": "DOH", "raw": "مقلي، لو سمحت.", "coda": "مقلي، لو سمحت."}
+{"btec_id": "3644", "example_id": "730", "dialect": "DOH", "pred_dialect": "DOH", "raw": "غسيلي ما رجع للحين.", "coda": "غسيلي ما رجع للحين."}
+{"btec_id": "3649", "example_id": "731", "dialect": "DOH", "pred_dialect": "CAI", "raw": "بالمناسبة، انت فاضي السبت الجاي؟", "coda": "بالمناسبة، انت فاضي السبت الجاي؟"}
+{"btec_id": "3667", "example_id": "732", "dialect": "DOH", "pred_dialect": "DOH", "raw": "عيل، يمكن نتفاهم مع بعض.", "coda": "عيل، يمكن نتفاهم مع بعض."}
+{"btec_id": "3669", "example_id": "733", "dialect": "DOH", "pred_dialect": "DOH", "raw": "عاملتني جني طرار.", "coda": "عاملتني كني طرار."}
+{"btec_id": "3683", "example_id": "734", "dialect": "DOH", "pred_dialect": "DOH", "raw": "فهمت. وبعد، ممكن تساعدني في مشكلة ثانية؟", "coda": "فهمت. وبعد، ممكن تساعدني في مشكلة ثانية؟"}
+{"btec_id": "3685", "example_id": "735", "dialect": "DOH", "pred_dialect": "DOH", "raw": "ممكن تحط لي العدسات الموصوفة في هالنظارة الشمسية؟", "coda": "ممكن تحط لي العدسات الموصوفة في هالنظارة الشمسية؟"}
+{"btec_id": "3705", "example_id": "736", "dialect": "DOH", "pred_dialect": "DOH", "raw": "كيوت الكلب. شنو فصيلته؟", "coda": "كيوت الكلب. شنو فصيلته؟"}
+{"btec_id": "3721", "example_id": "737", "dialect": "DOH", "pred_dialect": "DOH", "raw": "طيحت شوكتي. لو سمحت جيب لي وحدة ثانية.", "coda": "طيحت شوكتي. لو سمحت جيب لي واحدة ثانية."}
+{"btec_id": "3742", "example_id": "738", "dialect": "DOH", "pred_dialect": "DOH", "raw": "كان وناسة.", "coda": "كان وناسة."}
+{"btec_id": "3747", "example_id": "739", "dialect": "DOH", "pred_dialect": "DOH", "raw": "اكيد. روح سيدة وخذ ثالث لفة يمين. بتحصله على يمينك.", "coda": "اكيد. روح سيدا وخذ ثالث لفة يمين. بتحصله على يمينك."}
+{"btec_id": "3780", "example_id": "740", "dialect": "DOH", "pred_dialect": "DOH", "raw": "تعرف كاثي؟ بكرة حفلة عيد ميلادها.", "coda": "تعرف كاثي؟ بكرة حفلة عيد ميلادها."}
+{"btec_id": "3789", "example_id": "741", "dialect": "DOH", "pred_dialect": "DOH", "raw": "عندك جدول للألوان؟", "coda": "عندك جدول للالوان؟"}
+{"btec_id": "3806", "example_id": "742", "dialect": "DOH", "pred_dialect": "DOH", "raw": "بس، هو، رجال، شلون اعرف ان هذي هو الشي الصجي؟", "coda": "بس، هو، رجال، شلون اعرف ان هاذي هو الشي الصدقي؟"}
+{"btec_id": "3825", "example_id": "743", "dialect": "DOH", "pred_dialect": "DOH", "raw": "ممكن اخذه بدون ضرايب؟", "coda": "ممكن آخذه بدون ضرايب؟"}
+{"btec_id": "3829", "example_id": "744", "dialect": "DOH", "pred_dialect": "DOH", "raw": "ماقدر احط شناطي تحت الكرسي. ممكن تخليها عندك حقي، لو سمحت؟", "coda": "ما اقدر احط شناطي تحت الكرسي. ممكن تخليها عندك حقي، لو سمحت؟"}
+{"btec_id": "3835", "example_id": "745", "dialect": "DOH", "pred_dialect": "DOH", "raw": "ممكن تحط هالشنطة في الدبة؟", "coda": "ممكن تحط هالشنطة في الدبة؟"}
+{"btec_id": "3847", "example_id": "746", "dialect": "DOH", "pred_dialect": "DOH", "raw": "انا بطلع الحين، باخذه.", "coda": "انا بطلع الحين، باخذه."}
+{"btec_id": "3856", "example_id": "747", "dialect": "DOH", "pred_dialect": "DOH", "raw": "لو سمحت طرش احد فوق حق شناطي الساعة ست ونص.", "coda": "لو سمحت طرش احد فوق حق شناطي الساعة ست ونص."}
+{"btec_id": "3859", "example_id": "748", "dialect": "DOH", "pred_dialect": "DOH", "raw": "اي نوع من الخبز عندك؟", "coda": "اي نوع من الخبز عندك؟"}
+{"btec_id": "3860", "example_id": "749", "dialect": "DOH", "pred_dialect": "DOH", "raw": "وين اللفت؟", "coda": "وين اللفت؟"}
+{"btec_id": "3861", "example_id": "750", "dialect": "DOH", "pred_dialect": "DOH", "raw": "في احد يعرف يعزف بيانو؟", "coda": "فيه احد يعرف يعزف بيانو؟"}
+{"btec_id": "3892", "example_id": "751", "dialect": "DOH", "pred_dialect": "DOH", "raw": "مشكور، بس ما اظن عندي وقت اقعد ليلتين. ممكن تحجز غرفة مزدوجة في ذاك الفندق بس حق اثنعش مارس؟", "coda": "مشكور، بس ما اظن عندي وقت اقعد ليلتين. ممكن تحجز غرفة مزدوجة في ذاك الفندق بس حق اثنعش مارس؟"}
+{"btec_id": "3920", "example_id": "752", "dialect": "DOH", "pred_dialect": "DOH", "raw": "ما قررنا للحين.", "coda": "ما قررنا للحين."}
+{"btec_id": "3928", "example_id": "753", "dialect": "DOH", "pred_dialect": "DOH", "raw": "رفيجي تحنقل ولوى كاحله.", "coda": "رفيقي تحنقل ولوى كاحله."}
+{"btec_id": "3936", "example_id": "754", "dialect": "DOH", "pred_dialect": "DOH", "raw": "بجرب شربت.", "coda": "باجرب شربت."}
+{"btec_id": "3961", "example_id": "755", "dialect": "DOH", "pred_dialect": "DOH", "raw": "في مطعم تايلندي قريب؟", "coda": "فيه مطعم تايلندي قريب؟"}
+{"btec_id": "3972", "example_id": "756", "dialect": "DOH", "pred_dialect": "DOH", "raw": "هو يم ذاك المبنى العالي. يعني ارجع من نفس الطريق اللي جيت منه لين توصل الاشارة. بعدها، لف يسار.", "coda": "هو يم ذاك المبنى العالي. يعني ارجع من نفس الطريق اللي جيت منه لين توصل الاشارة. بعدها، لف يسار."}
+{"btec_id": "3974", "example_id": "757", "dialect": "DOH", "pred_dialect": "CAI", "raw": "لازم اركب طيارة للوس انجلوس بكرة الصبح من وقت.", "coda": "لازم اركب طيارة للوس انجلوس بكرة الصبح من وقت."}
+{"btec_id": "3988", "example_id": "758", "dialect": "DOH", "pred_dialect": "DOH", "raw": "\"\"\"عيل اكيد اقترح عليك \"\"\"\"جولة مدينة سان فرانسيسكو\"\"\"\". هذي بتعطيك فكرة عن سان فرانسيسكو.\"\"\"", "coda": "\"\"\"عيل اكيد اقترح عليك \"\"\"\"جولة مدينة سان فرانسيسكو\"\"\"\". هاذي بتعطيك فكرة عن سان فرانسيسكو.\"\"\""}
+{"btec_id": "3991", "example_id": "759", "dialect": "DOH", "pred_dialect": "DOH", "raw": "ابغي اسوي تأمين.", "coda": "ابغي اسوي تأمين."}
+{"btec_id": "4013", "example_id": "760", "dialect": "DOH", "pred_dialect": "DOH", "raw": "هي تبغي تشتري فستان.", "coda": "هي تبغي تشتري فستان."}
+{"btec_id": "4016", "example_id": "761", "dialect": "DOH", "pred_dialect": "DOH", "raw": "كم يكلف التكسي لهالفندق؟", "coda": "كم يكلف التكسي لهالفندق؟"}
+{"btec_id": "4017", "example_id": "762", "dialect": "DOH", "pred_dialect": "DOH", "raw": "وين الحمام؟", "coda": "وين الحمام؟"}
+{"btec_id": "4034", "example_id": "763", "dialect": "DOH", "pred_dialect": "DOH", "raw": "تكلف شي دخلة هالمبنى؟", "coda": "تكلف شي دخلة هالمبنى؟"}
+{"btec_id": "4036", "example_id": "764", "dialect": "DOH", "pred_dialect": "BEI", "raw": "كيفك.", "coda": "كيفك."}
+{"btec_id": "4104", "example_id": "765", "dialect": "DOH", "pred_dialect": "DOH", "raw": "الدريشة مشيرة.", "coda": "الدريشة مشيرة."}
+{"btec_id": "4119", "example_id": "766", "dialect": "DOH", "pred_dialect": "DOH", "raw": "نص اونصه شانيل رقم خمسة، لو سمحت.", "coda": "نص اونصة شانيل رقم خمسة، لو سمحت."}
+{"btec_id": "4129", "example_id": "767", "dialect": "DOH", "pred_dialect": "DOH", "raw": "شرايك بقهوة؟", "coda": "شرايك بقهوة؟"}
+{"btec_id": "4143", "example_id": "768", "dialect": "DOH", "pred_dialect": "DOH", "raw": "احتاج تذكرة؟", "coda": "احتاج تذكرة؟"}
+{"btec_id": "4182", "example_id": "769", "dialect": "DOH", "pred_dialect": "DOH", "raw": "كم رسوم الخدمة تقريبا؟", "coda": "كم رسوم الخدمة تقريبا؟"}
+{"btec_id": "4185", "example_id": "770", "dialect": "DOH", "pred_dialect": "DOH", "raw": "شكثر من هني؟", "coda": "شكثر من هني؟"}
+{"btec_id": "4187", "example_id": "771", "dialect": "DOH", "pred_dialect": "TUN", "raw": "كريمة وسكر؟", "coda": "كريمة وسكر؟"}
+{"btec_id": "4193", "example_id": "772", "dialect": "DOH", "pred_dialect": "DOH", "raw": "عندك نسبة تخفيض حق الأعضاء؟", "coda": "عندك نسبة تخفيض حق الاعضاء؟"}
+{"btec_id": "4219", "example_id": "773", "dialect": "DOH", "pred_dialect": "DOH", "raw": "في قطار سريع الساعة تسع ونص؟", "coda": "فيه قطار سريع الساعة تسع ونص؟"}
+{"btec_id": "4221", "example_id": "774", "dialect": "DOH", "pred_dialect": "DOH", "raw": "خلني اجيك آيل البريك والمكينة. مكينتك شكلها خلاص كلش بتوقف.", "coda": "خلني اشيك آيل البريك والمكينة. مكينتك شكلها خلاص كلش بيتوقف."}
+{"btec_id": "4224", "example_id": "775", "dialect": "DOH", "pred_dialect": "BEI", "raw": "ما كانت غلطتي.", "coda": "ما كانت غلطتي."}
+{"btec_id": "4262", "example_id": "776", "dialect": "DOH", "pred_dialect": "DOH", "raw": "مافي كهربا.", "coda": "مافيه كهربا."}
+{"btec_id": "4263", "example_id": "777", "dialect": "DOH", "pred_dialect": "DOH", "raw": "ببلغ عن هالشي عند الشرطة.", "coda": "ببلغ عن هالشي عند الشرطة."}
+{"btec_id": "4269", "example_id": "778", "dialect": "DOH", "pred_dialect": "DOH", "raw": "كل واحد لازم يدفع حق مشروباته؟", "coda": "كل واحد لازم يدفع حق مشروباته؟"}
+{"btec_id": "4275", "example_id": "779", "dialect": "DOH", "pred_dialect": "DOH", "raw": "اي مكان من ثلاثين لي خمسين دولار حق الليلة.", "coda": "اي مكان من ثلاثين لخمسين دولار حق الليلة."}
+{"btec_id": "4278", "example_id": "780", "dialect": "DOH", "pred_dialect": "DOH", "raw": "لو سمحت صلح هذي.", "coda": "لو سمحت صلح هاذي."}
+{"btec_id": "4284", "example_id": "781", "dialect": "DOH", "pred_dialect": "DOH", "raw": "في يوم راس السنة. وفي المناسبات الخاصة مثل استقبالات الاعراس، وحفلات الجوائز والجنازات.", "coda": "في يوم راس السنة. وفي المناسبات الخاصة مثل استقبالات الاعراس، وحفلات الجوائز والجنازات."}
+{"btec_id": "4305", "example_id": "782", "dialect": "DOH", "pred_dialect": "DOH", "raw": "ليش ما تعطيها هدية؟", "coda": "ليش ما تعطيها هدية؟"}
+{"btec_id": "4326", "example_id": "783", "dialect": "DOH", "pred_dialect": "DOH", "raw": "هي دشت علي من الجانب.", "coda": "هي دشت علي من الجانب."}
+{"btec_id": "4335", "example_id": "784", "dialect": "DOH", "pred_dialect": "DOH", "raw": "اقدر اجي عندك الساعة ثنتين.", "coda": "اقدر اجي عندك الساعة ثنتين."}
+{"btec_id": "4341", "example_id": "785", "dialect": "DOH", "pred_dialect": "DOH", "raw": "هذي الأمتعة من رحلة جيه إيه إل صفر واحد؟", "coda": "هاذي الامتعة من رحلة جاي اي ال صفر واحد؟"}
+{"btec_id": "4346", "example_id": "786", "dialect": "DOH", "pred_dialect": "DOH", "raw": "هذي اول رحلة لي لباريس.", "coda": "هاذي اول رحلة لي لباريس."}
+{"btec_id": "4348", "example_id": "787", "dialect": "DOH", "pred_dialect": "DOH", "raw": "ممكن تقدر السعر قبل ما تبتدي تشتغل فيه؟", "coda": "ممكن تقدر السعر قبل ما تبتدي تشتغل فيه؟"}
+{"btec_id": "4358", "example_id": "788", "dialect": "DOH", "pred_dialect": "DOH", "raw": "حياك.", "coda": "حياك."}
+{"btec_id": "4365", "example_id": "789", "dialect": "DOH", "pred_dialect": "DOH", "raw": "وين نركب القارب؟", "coda": "وين نركب القارب؟"}
+{"btec_id": "4373", "example_id": "790", "dialect": "DOH", "pred_dialect": "DOH", "raw": "ما عندنا شنطة حق هالكمية فبخليه في هالكيس البلاستيكي الكبير.", "coda": "ما عندنا شنطة حق هالكمية فبخليه في هالكيس البلاستيكي الكبير."}
+{"btec_id": "4374", "example_id": "791", "dialect": "DOH", "pred_dialect": "DOH", "raw": "بغيت العب تنس.", "coda": "بغيت العب تنس."}
+{"btec_id": "4375", "example_id": "792", "dialect": "DOH", "pred_dialect": "DOH", "raw": "في عصير اناناس، وبرتقال وطماط.", "coda": "فيه عصير اناناس، وبرتقال وطماط."}
+{"btec_id": "4377", "example_id": "793", "dialect": "DOH", "pred_dialect": "DOH", "raw": "الجهة اليسار من هالطابق، يم اللفت.", "coda": "الجهة اليسار من هالطابق، يم اللفت."}
+{"btec_id": "4409", "example_id": "794", "dialect": "DOH", "pred_dialect": "DOH", "raw": "ما تبغي تشوف فلم ثاني احسن؟", "coda": "ما تبغي تشوف فلم ثاني احسن؟"}
+{"btec_id": "4418", "example_id": "795", "dialect": "DOH", "pred_dialect": "DOH", "raw": "لو سمحت اصرف لي هالجيك السياحي خله كاش.", "coda": "لو سمحت اصرف لي هالتشيك السياحي خله كاش."}
+{"btec_id": "4450", "example_id": "796", "dialect": "DOH", "pred_dialect": "DOH", "raw": "اقدر اعطيك جواب احسن بعد كم عرض.", "coda": "اقدر اعطيك جواب احسن بعد كم عرض."}
+{"btec_id": "4464", "example_id": "797", "dialect": "DOH", "pred_dialect": "DOH", "raw": "شنو المسرحيات الموسيقية اللي تنعرض الحين؟", "coda": "شنو المسرحيات الموسيقية اللي تنعرض الحين؟"}
+{"btec_id": "4475", "example_id": "798", "dialect": "DOH", "pred_dialect": "DOH", "raw": "عندك منظرة؟", "coda": "عندك منظرة؟"}
+{"btec_id": "4479", "example_id": "799", "dialect": "DOH", "pred_dialect": "DOH", "raw": "باخذ هذي، لو سمحت.", "coda": "بآخذ هاذي، لو سمحت."}
+{"btec_id": "9945", "example_id": "800", "dialect": "DOH", "pred_dialect": "DOH", "raw": "متأكد ان المجرم قريب.", "coda": "متأكد ان المجرم قريب."}
+{"btec_id": "9948", "example_id": "801", "dialect": "DOH", "pred_dialect": "DOH", "raw": "عشر طوابع لو سمحت.", "coda": "عشر طوابع لو سمحت."}
+{"btec_id": "9949", "example_id": "802", "dialect": "DOH", "pred_dialect": "DOH", "raw": "بلاعيمي ملتهبة.", "coda": "بلاعيمي ملتهبة."}
+{"btec_id": "9955", "example_id": "803", "dialect": "DOH", "pred_dialect": "DOH", "raw": "بغيت هدايا من نيويورك.", "coda": "بغيت هدايا من نيويورك."}
+{"btec_id": "9969", "example_id": "804", "dialect": "DOH", "pred_dialect": "DOH", "raw": "انا بسوي جيك اوت. ممكن تطرش حامل الشنط؟", "coda": "انا باسوي تشيك اوت. ممكن تطرش حامل الشنط؟"}
+{"btec_id": "9979", "example_id": "805", "dialect": "DOH", "pred_dialect": "CAI", "raw": "ساعتي وقفت.", "coda": "ساعتي وقفت."}
+{"btec_id": "9983", "example_id": "806", "dialect": "DOH", "pred_dialect": "DOH", "raw": "اوه، صج؟ شلون يعجبك؟", "coda": "اوه، صدق؟ شلون يعجبك؟"}
+{"btec_id": "10006", "example_id": "807", "dialect": "DOH", "pred_dialect": "DOH", "raw": "احنا فاتحين الساعة تسع الصبح.", "coda": "احنا فاتحين الساعة تسع الصبح."}
+{"btec_id": "10032", "example_id": "808", "dialect": "DOH", "pred_dialect": "DOH", "raw": "بغيت دفتر تلوين.", "coda": "بغيت دفتر تلوين."}
+{"btec_id": "10037", "example_id": "809", "dialect": "DOH", "pred_dialect": "DOH", "raw": "احس فيني دوار الجو.", "coda": "احس فيني دوار الجو."}
+{"btec_id": "10043", "example_id": "810", "dialect": "DOH", "pred_dialect": "DOH", "raw": "لازم اروح بنك ياباني؟", "coda": "لازم اروح بنك ياباني؟"}
+{"btec_id": "10045", "example_id": "811", "dialect": "DOH", "pred_dialect": "CAI", "raw": "لازم تصرف الفلوس في البنك.", "coda": "لازم تصرف الفلوس في البنك."}
+{"btec_id": "10065", "example_id": "812", "dialect": "DOH", "pred_dialect": "DOH", "raw": "في وقت كفاية حق نسوي جيك اوت؟", "coda": "فيه وقت كفاية حق نسوي تشيك اوت؟"}
+{"btec_id": "10069", "example_id": "813", "dialect": "DOH", "pred_dialect": "DOH", "raw": "زوجج واحد من افضل العملاء عندنا.", "coda": "زوجج واحد من افضل العملاء عندنا."}
+{"btec_id": "10078", "example_id": "814", "dialect": "DOH", "pred_dialect": "DOH", "raw": "تعرف دكتور اسنان زين؟", "coda": "تعرف دكتور اسنان زين؟"}
+{"btec_id": "10084", "example_id": "815", "dialect": "DOH", "pred_dialect": "DOH", "raw": "اوه، لازم تخبر القنصلية الحين.", "coda": "اوه، لازم تخبر القنصلية الحين."}
+{"btec_id": "10091", "example_id": "816", "dialect": "DOH", "pred_dialect": "DOH", "raw": "مرجوج، مو مخلوط.", "coda": "مرجوج، مو مخلوط."}
+{"btec_id": "10102", "example_id": "817", "dialect": "DOH", "pred_dialect": "DOH", "raw": "واجد ناس يروحون الساحل في هالفترة.", "coda": "واجد ناس يروحون الساحل في هالفترة."}
+{"btec_id": "10107", "example_id": "818", "dialect": "DOH", "pred_dialect": "DOH", "raw": "وزني تقريبا مية وخمسين باوند.", "coda": "وزني تقريبا مية وخمسين باوند."}
+{"btec_id": "10111", "example_id": "819", "dialect": "DOH", "pred_dialect": "DOH", "raw": "وين احول؟", "coda": "وين احول؟"}
+{"btec_id": "10114", "example_id": "820", "dialect": "DOH", "pred_dialect": "BEI", "raw": "وين مكتب المفقودات؟", "coda": "وين مكتب المفقودات؟"}
+{"btec_id": "10116", "example_id": "821", "dialect": "DOH", "pred_dialect": "DOH", "raw": "في باص يروح هناك سيدة؟", "coda": "فيه باص يروح هناك سيدا؟"}
+{"btec_id": "10125", "example_id": "822", "dialect": "DOH", "pred_dialect": "DOH", "raw": "احتاج معاملة خاصة؟", "coda": "احتاج معاملة خاصة؟"}
+{"btec_id": "10129", "example_id": "823", "dialect": "DOH", "pred_dialect": "DOH", "raw": "بتدفع كاش او شحن؟", "coda": "بتدفع كاش او شحن؟"}
+{"btec_id": "10155", "example_id": "824", "dialect": "DOH", "pred_dialect": "DOH", "raw": "شكثر ياخذ وقت لين تسوون تأشيرتي؟", "coda": "شكثر ياخذ وقت لين تسوون تأشيرتي؟"}
+{"btec_id": "10156", "example_id": "825", "dialect": "DOH", "pred_dialect": "DOH", "raw": "وين الحمامات؟", "coda": "وين الحمامات؟"}
+{"btec_id": "10160", "example_id": "826", "dialect": "DOH", "pred_dialect": "DOH", "raw": "المبلغ الكلي يصير ميتين وثلاثة واربعين جنيه، اختي.", "coda": "المبلغ الكلي يصير ميتين وثلاثة واربعين جنيه، اختي."}
+{"btec_id": "10164", "example_id": "827", "dialect": "DOH", "pred_dialect": "DOH", "raw": "هذي هدية. ممكن تغلفه بجلادة حلوة؟", "coda": "هاذي هدية. ممكن تغلفه بجلادة حلوة؟"}
+{"btec_id": "10182", "example_id": "828", "dialect": "DOH", "pred_dialect": "DOH", "raw": "شهالمنظر. الطريق واجد حلو.", "coda": "شهالمنظر. الطريق واجد حلو."}
+{"btec_id": "10224", "example_id": "829", "dialect": "DOH", "pred_dialect": "DOH", "raw": "اي، عندنا حجز لك.", "coda": "اي، عندنا حجز لك."}
+{"btec_id": "10238", "example_id": "830", "dialect": "DOH", "pred_dialect": "DOH", "raw": "اسمح لي، بس ابغي اروح فندقي في المدينة بالباص. وين اقدر احصل واحد؟", "coda": "اسمح لي، بس ابغي اروح فندقي في المدينة بالباص. وين اقدر احصل واحد؟"}
+{"btec_id": "10257", "example_id": "831", "dialect": "DOH", "pred_dialect": "DOH", "raw": "معاك من غرفة ميتين وواحد. بغيت اطلب الريوق حق بكرة.", "coda": "معاك من غرفة ميتين وواحد. بغيت اطلب الريوق حق بكرة."}
+{"btec_id": "10354", "example_id": "832", "dialect": "DOH", "pred_dialect": "DOH", "raw": "خل نحط حشوة داخل.", "coda": "خل نحط حشوة داخل."}
+{"btec_id": "10372", "example_id": "833", "dialect": "DOH", "pred_dialect": "DOH", "raw": "شلون تبغي شعرك اليوم؟", "coda": "شلون تبغي شعرك اليوم؟"}
+{"btec_id": "10403", "example_id": "834", "dialect": "DOH", "pred_dialect": "DOH", "raw": "تقدر تقوله بكلمات ثانية؟", "coda": "تقدر تقوله بكلمات ثانية؟"}
+{"btec_id": "10408", "example_id": "835", "dialect": "DOH", "pred_dialect": "DOH", "raw": "بستخدم أي شي عندك.", "coda": "باستخدم اي شي عندك."}
+{"btec_id": "10411", "example_id": "836", "dialect": "DOH", "pred_dialect": "DOH", "raw": "بغينا طاولة يم المسرح.", "coda": "بغينا طاولة يم المسرح."}
+{"btec_id": "10416", "example_id": "837", "dialect": "DOH", "pred_dialect": "CAI", "raw": "انا بخير. انزين، انت رايح مكان؟", "coda": "انا بخير. انزين، انت رايح مكان؟"}
+{"btec_id": "10433", "example_id": "838", "dialect": "DOH", "pred_dialect": "DOH", "raw": "ارتفاعه الفين واربعمية متر.", "coda": "ارتفاعه الفين واربعمية متر."}
+{"btec_id": "10435", "example_id": "839", "dialect": "DOH", "pred_dialect": "DOH", "raw": "حياك. لو سمحت خله على الطاولة هناك.", "coda": "حياك. لو سمحت خله على الطاولة هناك."}
+{"btec_id": "10440", "example_id": "840", "dialect": "DOH", "pred_dialect": "DOH", "raw": "لو سمحت ألغي رقم بطاقتي.", "coda": "لو سمحت الغي رقم بطاقتي."}
+{"btec_id": "10468", "example_id": "841", "dialect": "DOH", "pred_dialect": "DOH", "raw": "مسامحة، كلهم انباعوا، بس بيتوفرون عندنا بعد كم يوم.", "coda": "مسامحة، كلهم انباعوا، بس بيتوفرون عندنا بعد كم يوم."}
+{"btec_id": "10477", "example_id": "842", "dialect": "DOH", "pred_dialect": "DOH", "raw": "ما عندي موعد، بس الموضوع ضروري.", "coda": "ما عندي موعد، بس الموضوع ضروري."}
+{"btec_id": "10479", "example_id": "843", "dialect": "DOH", "pred_dialect": "DOH", "raw": "هذي قرمبع.", "coda": "هاذي قرمبع."}
+{"btec_id": "10480", "example_id": "844", "dialect": "DOH", "pred_dialect": "DOH", "raw": "وين اللفت؟", "coda": "وين اللفت؟"}
+{"btec_id": "10497", "example_id": "845", "dialect": "DOH", "pred_dialect": "DOH", "raw": "عندك منشور حق الفعاليات؟", "coda": "عندك منشور حق الفعاليات؟"}
+{"btec_id": "10500", "example_id": "846", "dialect": "DOH", "pred_dialect": "DOH", "raw": "وين مدخل المترو؟", "coda": "وين مدخل المترو؟"}
+{"btec_id": "10504", "example_id": "847", "dialect": "DOH", "pred_dialect": "DOH", "raw": "ضيعت تذكرة الطيارة.", "coda": "ضيعت تذكرة الطيارة."}
+{"btec_id": "10559", "example_id": "848", "dialect": "DOH", "pred_dialect": "DOH", "raw": "ما تقدر تقعد هني في الاجازة؟", "coda": "ما تقدر تقعد هني في الاجازة؟"}
+{"btec_id": "10562", "example_id": "849", "dialect": "DOH", "pred_dialect": "DOH", "raw": "اوه، مسامحة على الازعاج.", "coda": "اوه، مسامحة على الازعاج."}
+{"btec_id": "10565", "example_id": "850", "dialect": "DOH", "pred_dialect": "DOH", "raw": "في حمام عام قريب من هني؟", "coda": "فيه حمام عام قريب من هني؟"}
+{"btec_id": "10590", "example_id": "851", "dialect": "DOH", "pred_dialect": "DOH", "raw": "كم كامل؟", "coda": "كم كامل؟"}
+{"btec_id": "10593", "example_id": "852", "dialect": "DOH", "pred_dialect": "DOH", "raw": "واجد زين. الحين حق الأسئلة، لو سمحت.", "coda": "واجد زين. الحين حق الاسئلة، لو سمحت."}
+{"btec_id": "10599", "example_id": "853", "dialect": "DOH", "pred_dialect": "DOH", "raw": "عندك خردة حق عداد البارك؟", "coda": "عندك خردة حق عداد البارك؟"}
+{"btec_id": "10645", "example_id": "854", "dialect": "DOH", "pred_dialect": "DOH", "raw": "الف يسار؟", "coda": "الف يسار؟"}
+{"btec_id": "10670", "example_id": "855", "dialect": "DOH", "pred_dialect": "DOH", "raw": "سعر زين، صح؟", "coda": "سعر زين، صح؟"}
+{"btec_id": "10680", "example_id": "856", "dialect": "DOH", "pred_dialect": "DOH", "raw": "لازم تاخذه تسعة وتسعين مرة في اليوم، قبل الاكل.", "coda": "لازم تاخذه تسعة وتسعين مرة في اليوم، قبل الاكل."}
+{"btec_id": "10707", "example_id": "857", "dialect": "DOH", "pred_dialect": "DOH", "raw": "انا احبه.", "coda": "انا احبه."}
+{"btec_id": "10733", "example_id": "858", "dialect": "DOH", "pred_dialect": "DOH", "raw": "بغيت ترايبود.", "coda": "بغيت ترايبود."}
+{"btec_id": "10756", "example_id": "859", "dialect": "DOH", "pred_dialect": "DOH", "raw": "عجيب. كنت ادور تكسي، بس هذي احسن.", "coda": "عجيب. كنت ادور تاكسي، بس هاذي احسن."}
+{"btec_id": "10760", "example_id": "860", "dialect": "DOH", "pred_dialect": "DOH", "raw": "كوت ممتاز. هذي صناعة بريطانية؟", "coda": "كوت ممتاز. هاذي صناعة بريطانية؟"}
+{"btec_id": "10778", "example_id": "861", "dialect": "DOH", "pred_dialect": "DOH", "raw": "ابغي اروح مركز هارفرد. ممكن تدليني شلون؟", "coda": "ابغي اروح مركز هارفرد. ممكن تدليني شلون؟"}
+{"btec_id": "10790", "example_id": "862", "dialect": "DOH", "pred_dialect": "DOH", "raw": "بالغين وطفلين، لو سمحت.", "coda": "بالغين وطفلين، لو سمحت."}
+{"btec_id": "10817", "example_id": "863", "dialect": "DOH", "pred_dialect": "DOH", "raw": "كم السعر؟", "coda": "كم السعر؟"}
+{"btec_id": "10824", "example_id": "864", "dialect": "DOH", "pred_dialect": "DOH", "raw": "ستار وورز كان حقق اكبر نجاح في ألف وتسعمية وأربعة وثمانين.", "coda": "ستار وورز كان حقق اكبر نجاح في الف وتسعمية واربعة وثمانين."}
+{"btec_id": "10830", "example_id": "865", "dialect": "DOH", "pred_dialect": "DOH", "raw": "وين قسم الغير مدخنين؟", "coda": "وين قسم الغير مدخنين؟"}
+{"btec_id": "10831", "example_id": "866", "dialect": "DOH", "pred_dialect": "DOH", "raw": "\"\"\"هذي \"\"\"\"ت\"\"\"\" مثل \"\"\"\"توم\"\"\"\"، اي هني، يا تارو.\"\"\"", "coda": "\"\"\"هاذي \"\"\"\"ت\"\"\"\" مثل \"\"\"\"توم\"\"\"\"، اي هني، يا تارو.\"\"\""}
+{"btec_id": "10869", "example_id": "867", "dialect": "DOH", "pred_dialect": "DOH", "raw": "هذي حق شنو؟", "coda": "هاذي حق شنو؟"}
+{"btec_id": "10882", "example_id": "868", "dialect": "DOH", "pred_dialect": "DOH", "raw": "اي نوع من البطاقات الإئتمانية تاخذون؟", "coda": "اي نوع من البطاقات الائتمانية تاخذون؟"}
+{"btec_id": "10922", "example_id": "869", "dialect": "DOH", "pred_dialect": "DOH", "raw": "عندي وقت واجد.", "coda": "عندي وقت واجد."}
+{"btec_id": "10930", "example_id": "870", "dialect": "DOH", "pred_dialect": "DOH", "raw": "والله، الحين وقت الغدا. تبغي نناقشه على الغدا؟", "coda": "والله، الحين وقت الغدا. تبغي نناقشه على الغدا؟"}
+{"btec_id": "10950", "example_id": "871", "dialect": "DOH", "pred_dialect": "DOH", "raw": "مرحبا، اسمي اودا. عندي حجز الليلة، بس بتأخر. يعني، لو سمحت خل حجزي.", "coda": "مرحبا، اسمي اودا. عندي حجز الليلة، بس باتأخر. يعني، لو سمحت خل حجزي."}
+{"btec_id": "10953", "example_id": "872", "dialect": "DOH", "pred_dialect": "DOH", "raw": "هالجواتي قوية؟", "coda": "هالجواتي قوية؟"}
+{"btec_id": "10964", "example_id": "873", "dialect": "DOH", "pred_dialect": "DOH", "raw": "يقولون ان الزكام منتشر هناك.", "coda": "يقولون ان الزكام منتشر هناك."}
+{"btec_id": "10973", "example_id": "874", "dialect": "DOH", "pred_dialect": "DOH", "raw": "في الداخل.", "coda": "في الداخل."}
+{"btec_id": "10975", "example_id": "875", "dialect": "DOH", "pred_dialect": "DOH", "raw": "مسامحة. متروسين بكرة في الليل.", "coda": "مسامحة. متروسين بكرة في الليل."}
+{"btec_id": "10976", "example_id": "876", "dialect": "DOH", "pred_dialect": "DOH", "raw": "انا مع ربعي.", "coda": "انا مع ربعي."}
+{"btec_id": "10985", "example_id": "877", "dialect": "DOH", "pred_dialect": "DOH", "raw": "قورو يقول، ان سيد يامادا عنده ولدين.", "coda": "غورو يقول، ان سيد يامادا عنده ولدين."}
+{"btec_id": "10997", "example_id": "878", "dialect": "DOH", "pred_dialect": "DOH", "raw": "ابغي الف وارجع برج لندن.", "coda": "ابغي الف وارجع برج لندن."}
+{"btec_id": "11019", "example_id": "879", "dialect": "DOH", "pred_dialect": "CAI", "raw": "لو سمحت اربط حزامك.", "coda": "لو سمحت اربط حزامك."}
+{"btec_id": "11046", "example_id": "880", "dialect": "DOH", "pred_dialect": "DOH", "raw": "مشغول.", "coda": "مشغول."}
+{"btec_id": "11054", "example_id": "881", "dialect": "DOH", "pred_dialect": "DOH", "raw": "عندكم مأكولات بحرية؟", "coda": "عندكم مأكولات بحرية؟"}
+{"btec_id": "11057", "example_id": "882", "dialect": "DOH", "pred_dialect": "DOH", "raw": "هذي واجد غالي.", "coda": "هاذي واجد غالي."}
+{"btec_id": "11058", "example_id": "883", "dialect": "DOH", "pred_dialect": "DOH", "raw": "والله ودي، مسامحة بس ماقدر اسويه هالوقت.", "coda": "والله ودي، مسامحة بس ما اقدر اسويه هالوقت."}
+{"btec_id": "11064", "example_id": "884", "dialect": "DOH", "pred_dialect": "DOH", "raw": "والله، مادري للحين، بس بحاول اكيد.", "coda": "والله، ما ادري للحين، بس باحاول اكيد."}
+{"btec_id": "11082", "example_id": "885", "dialect": "DOH", "pred_dialect": "DOH", "raw": "لو سمحت استخدم غرفة القياس هناك.", "coda": "لو سمحت استخدم غرفة القياس هناك."}
+{"btec_id": "11100", "example_id": "886", "dialect": "DOH", "pred_dialect": "DOH", "raw": "تسعين دولار حق تذكرة روحة. كاش او بطاقة؟", "coda": "تسعين دولار حق تذكرة روحة. كاش او بطاقة؟"}
+{"btec_id": "11123", "example_id": "887", "dialect": "DOH", "pred_dialect": "DOH", "raw": "شلون الآباء اليابانيين يربون عيالهم؟ يكونون شداد؟", "coda": "شلون الآباء اليابانيين يربون عيالهم؟ يكونون شداد؟"}
+{"btec_id": "11126", "example_id": "888", "dialect": "DOH", "pred_dialect": "DOH", "raw": "ممكن تقول لي متى ساعات العمل؟", "coda": "ممكن تقول لي متى ساعات العمل؟"}
+{"btec_id": "11161", "example_id": "889", "dialect": "DOH", "pred_dialect": "DOH", "raw": "معدتي ثقيلة.", "coda": "معدتي ثقيلة."}
+{"btec_id": "11174", "example_id": "890", "dialect": "DOH", "pred_dialect": "DOH", "raw": "يصير نبتدي لعب لما يخلصون؟", "coda": "يصير نبتدي لعب لما يخلصون؟"}
+{"btec_id": "11190", "example_id": "891", "dialect": "DOH", "pred_dialect": "DOH", "raw": "عدد السكان في اليابان مية وعشرين مليون تقريبا.", "coda": "عدد السكان في اليابان مية وعشرين مليون تقريبا."}
+{"btec_id": "11197", "example_id": "892", "dialect": "DOH", "pred_dialect": "DOH", "raw": "سجل هالأغراض في بطاقة التسجيل.", "coda": "سجل هالاغراض في بطاقة التسجيل."}
+{"btec_id": "11199", "example_id": "893", "dialect": "DOH", "pred_dialect": "DOH", "raw": "ممكن آخذ أغراضي؟", "coda": "ممكن آخذ اغراضي؟"}
+{"btec_id": "11240", "example_id": "894", "dialect": "DOH", "pred_dialect": "DOH", "raw": "عندك شالات حرير؟ ابغي هدية حق زوجتي.", "coda": "عندك شالات حرير؟ ابغي هدية حق زوجتي."}
+{"btec_id": "11246", "example_id": "895", "dialect": "DOH", "pred_dialect": "DOH", "raw": "بنجيبه الحين. كم رقم غرفتك؟", "coda": "بنجيبه الحين. كم رقم غرفتك؟"}
+{"btec_id": "11267", "example_id": "896", "dialect": "DOH", "pred_dialect": "DOH", "raw": "ابغي اسافر من شنغهاي لي هاواي بالسفينة.", "coda": "ابغي اسافر من شانغهاي لهاواي بالسفينة."}
+{"btec_id": "11282", "example_id": "897", "dialect": "DOH", "pred_dialect": "DOH", "raw": "ممكن تجهزه على خمس العصر بكرة؟", "coda": "ممكن تجهزه على خمس العصر بكرة؟"}
+{"btec_id": "11302", "example_id": "898", "dialect": "DOH", "pred_dialect": "DOH", "raw": "ياخذ عشر دقايق مشي.", "coda": "ياخذ عشر دقايق مشي."}
+{"btec_id": "11316", "example_id": "899", "dialect": "DOH", "pred_dialect": "DOH", "raw": "قبل ما نوقف، ممكن تعطيني شوية وقت؟", "coda": "قبل ما نوقف، ممكن تعطيني شوية وقت؟"}
