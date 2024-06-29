@@ -8,7 +8,7 @@ def read_data(preds_path, refs_path):
         preds = [x.strip() for x in f_pred.readlines()]
 
         if refs_path.endswith('json'):
-            refs = [json.loads(x.strip())['tgt'] for x in f_ref.readlines()]
+            refs = [json.loads(x.strip())['coda'] for x in f_ref.readlines()]
         else:
             refs = [x.strip() for x in f_ref.readlines()]
 
