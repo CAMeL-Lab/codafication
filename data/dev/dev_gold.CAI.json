@@ -1,0 +1,300 @@
+{"btec_id": "5", "example_id": "300", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ده قدامك هناك، يادوبك قدام مكتب استعلامات السياحة .", "coda": "ده قدامك هناك، يادوبك قدام مكتب استعلامات السياحة."}
+{"btec_id": "9", "example_id": "301", "dialect": "CAI", "pred_dialect": "CAI", "raw": "عمري ما سمعت عن العنوان ده هنا .", "coda": "عمري ما سمعت عن العنوان ده هنا."}
+{"btec_id": "11", "example_id": "302", "dialect": "CAI", "pred_dialect": "CAI", "raw": "أمشي علطول لحد ما تلقي صيدلية.", "coda": "امشي على طول لحد ما تلقي صيدلية."}
+{"btec_id": "26", "example_id": "303", "dialect": "CAI", "pred_dialect": "CAI", "raw": "بكام الفطار؟", "coda": "بكام الفطار؟"}
+{"btec_id": "27", "example_id": "304", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ازاي أقدر اساعدك؟", "coda": "ازاي اقدر اساعدك؟"}
+{"btec_id": "30", "example_id": "305", "dialect": "CAI", "pred_dialect": "CAI", "raw": "احود شمال عند الناصية التالته.", "coda": "احود شمال عند الناصية الثالثة."}
+{"btec_id": "50", "example_id": "306", "dialect": "CAI", "pred_dialect": "TUN", "raw": "تحب كريمة و سكر في قهوتك؟", "coda": "تحب كريمة وسكر في قهوتك؟"}
+{"btec_id": "64", "example_id": "307", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ممكن تصرفلي شيك بميتين دولار؟", "coda": "ممكن تصرف لي شيك بميتين دولار؟"}
+{"btec_id": "74", "example_id": "308", "dialect": "CAI", "pred_dialect": "CAI", "raw": "لو لازم يظهر، لو سمحت كلمني .", "coda": "لو لازم يظهر، لو سمحت كلمني."}
+{"btec_id": "86", "example_id": "309", "dialect": "CAI", "pred_dialect": "CAI", "raw": "فين القهوة؟", "coda": "فين القهوة؟"}
+{"btec_id": "87", "example_id": "310", "dialect": "CAI", "pred_dialect": "CAI", "raw": "عايز بلوفر اطفال.", "coda": "عايز بلوفر اطفال."}
+{"btec_id": "91", "example_id": "311", "dialect": "CAI", "pred_dialect": "CAI", "raw": "اوكيه . ده بيكلف خمسه و تمانين سنت للبريد العادي أو زيادة تلات دولارات بالظبط للبريد المخصوص.", "coda": "اوكيه. ده بيكلف خمسة وثمانين سنت للبريد العادي او زيادة ثلاث دولارات بالظبط للبريد المخصوص."}
+{"btec_id": "120", "example_id": "312", "dialect": "CAI", "pred_dialect": "CAI", "raw": "لو كنت مكانك كنت صدقت.", "coda": "لو كنت مكانك كنت صدقت."}
+{"btec_id": "129", "example_id": "313", "dialect": "CAI", "pred_dialect": "CAI", "raw": "حالاقي مشاكل مع الجمارك؟", "coda": "حالاقي مشاكل مع الجمارك؟"}
+{"btec_id": "130", "example_id": "314", "dialect": "CAI", "pred_dialect": "CAI", "raw": "عندك جزم رسمي واسعه من قدام؟", "coda": "عندك جزم رسمي واسعة من قدام؟"}
+{"btec_id": "140", "example_id": "315", "dialect": "CAI", "pred_dialect": "CAI", "raw": "لأ . ممكن انصح اوضة بسريرين يقعد فيها واحد بس؟ احنا عندنا واحده .", "coda": "لأ. ممكن انصح اوضة بسريرين يقعد فيها واحد بس؟ احنا عندنا واحدة."}
+{"btec_id": "143", "example_id": "316", "dialect": "CAI", "pred_dialect": "CAI", "raw": "عاوز كيرلي جامد، لو سمحت.", "coda": "عاوز كيرلي جامد، لو سمحت."}
+{"btec_id": "145", "example_id": "317", "dialect": "CAI", "pred_dialect": "CAI", "raw": "نفسها في بيرة.", "coda": "نفسها في بيرة."}
+{"btec_id": "157", "example_id": "318", "dialect": "CAI", "pred_dialect": "CAI", "raw": "صباح الخير . عامل ايه؟", "coda": "صباح الخير. عامل ايه؟"}
+{"btec_id": "158", "example_id": "319", "dialect": "CAI", "pred_dialect": "CAI", "raw": "متأسف بس محتاج أشوف أى مستند اثبات شخصية .", "coda": "متأسف بس محتاج اشوف اي مستند اثبات شخصية."}
+{"btec_id": "169", "example_id": "320", "dialect": "CAI", "pred_dialect": "CAI", "raw": "أى نوع صوص؟", "coda": "اي نوع صوص؟"}
+{"btec_id": "170", "example_id": "321", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ده ساقع شوية . ممكن تدفيه؟", "coda": "ده ساقع شوية. ممكن تدفيه؟"}
+{"btec_id": "173", "example_id": "322", "dialect": "CAI", "pred_dialect": "CAI", "raw": "اسف، المكان ده متاخد.", "coda": "آسف، المكان ده متاخذ."}
+{"btec_id": "176", "example_id": "323", "dialect": "CAI", "pred_dialect": "CAI", "raw": "انا كويس جدا. .بس ممكن من غير مؤاخذه تكلم صاحبي؟", "coda": "انا كويس جدا. بس ممكن من غير مؤاخذه تكلم صاحبي؟"}
+{"btec_id": "177", "example_id": "324", "dialect": "CAI", "pred_dialect": "CAI", "raw": "شكرا ليك، ده كفاية .", "coda": "شكرا ليك، ده كفاية."}
+{"btec_id": "184", "example_id": "325", "dialect": "CAI", "pred_dialect": "CAI", "raw": "مين أقرب صديق ليك؟", "coda": "مين اقرب صديق ليك؟"}
+{"btec_id": "187", "example_id": "326", "dialect": "CAI", "pred_dialect": "CAI", "raw": "يوم الصحة والرياضة في عشرة اكتوبر معمول علشان يحسن صحة الناس .", "coda": "يوم الصحة والرياضة في عشرة اكتوبر معمول علشان يحسن صحة الناس."}
+{"btec_id": "192", "example_id": "327", "dialect": "CAI", "pred_dialect": "CAI", "raw": "عايزني ابص تحت الكبوت؟", "coda": "عايزني ابص تحت الكبوت؟"}
+{"btec_id": "206", "example_id": "328", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ممكن تساعدني الاقي شنطتي؟", "coda": "ممكن تساعدني الاقي شنطتي؟"}
+{"btec_id": "221", "example_id": "329", "dialect": "CAI", "pred_dialect": "DOH", "raw": "ممكن مقدما نجهز الترتيبات؟", "coda": "ممكن مقدما نجهز الترتيبات؟"}
+{"btec_id": "238", "example_id": "330", "dialect": "CAI", "pred_dialect": "CAI", "raw": "فيه حد بيساعدني. شكرا .", "coda": "فيه حد بيساعدني. شكرا."}
+{"btec_id": "261", "example_id": "331", "dialect": "CAI", "pred_dialect": "CAI", "raw": "لما توصل هناك، اسأل واحد تاني، من فضلك .", "coda": "لما توصل هناك، اسأل واحد ثاني، من فضلك."}
+{"btec_id": "280", "example_id": "332", "dialect": "CAI", "pred_dialect": "CAI", "raw": "من فضلك عايز امد حجزي للغرفة، اربعه و عشرين ساعه كمان.", "coda": "من فضلك عايز امد حجزي للغرفة، اربعة وعشرين ساعة كمان."}
+{"btec_id": "285", "example_id": "333", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ادي دولارين. خللي الباقي عشانك.", "coda": "ادي دولارين. خلي الباقي عشانك."}
+{"btec_id": "315", "example_id": "334", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ممكن واحد هامبرجر وواحد شيز برجر.", "coda": "ممكن واحد هامبرجر وواحد شيز برجر."}
+{"btec_id": "319", "example_id": "335", "dialect": "CAI", "pred_dialect": "CAI", "raw": "بتاخد كام في العملية؟", "coda": "بتاخد كام في العملية؟"}
+{"btec_id": "320", "example_id": "336", "dialect": "CAI", "pred_dialect": "TUN", "raw": "نحب ندفع تمن اكلنا .", "coda": "نحب ندفع ثمن اكلنا."}
+{"btec_id": "326", "example_id": "337", "dialect": "CAI", "pred_dialect": "CAI", "raw": "المكان كان على كرسي في الطرقة.", "coda": "المكان كان على كرسي في الطرقة."}
+{"btec_id": "333", "example_id": "338", "dialect": "CAI", "pred_dialect": "CAI", "raw": "من فضلك غيرلي الين اللي معايا بجنيهات.", "coda": "من فضلك غير لي الين اللي معاي بجنيهات."}
+{"btec_id": "346", "example_id": "339", "dialect": "CAI", "pred_dialect": "CAI", "raw": "عايز قاموس جيب صغير، ،لو سمحت .", "coda": "عايز قاموس جيب صغير، لو سمحت."}
+{"btec_id": "360", "example_id": "340", "dialect": "CAI", "pred_dialect": "BEI", "raw": "لشخصين الساعة سبعة . الاسم واتانابي.", "coda": "لشخصين الساعة سبعة. الاسم واتانابي."}
+{"btec_id": "368", "example_id": "341", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ساعتي كانت سايكو رقميه.", "coda": "ساعتي كانت سايكو رقمية."}
+{"btec_id": "370", "example_id": "342", "dialect": "CAI", "pred_dialect": "CAI", "raw": "يسعدنا نقدم ليكم المشروب اللي تختاروة، بعد الاكل . حتلاقو لسته كاملة بأنواع المشروبات اللي بنقدمها في رحلتنا موجوده في دليل المعلومات في مجلتنا.", "coda": "يسعدنا نقدم ليكم المشروب اللي تختاروه، بعد الاكل. حتلاقوا لستة كاملة بانواع المشروبات اللي بنقدمها في رحلتنا موجودة في دليل المعلومات في مجلتنا."}
+{"btec_id": "373", "example_id": "343", "dialect": "CAI", "pred_dialect": "CAI", "raw": "انت عايش قريب من هنا؟", "coda": "انت عايش قريب من هنا؟"}
+{"btec_id": "375", "example_id": "344", "dialect": "CAI", "pred_dialect": "CAI", "raw": "فين محل الهدايا؟", "coda": "فين محل الهدايا؟"}
+{"btec_id": "386", "example_id": "345", "dialect": "CAI", "pred_dialect": "CAI", "raw": "انا عالطريق السريع جنب خليج مورو.", "coda": "انا عالطريق السريع جنب خليج مورو."}
+{"btec_id": "391", "example_id": "346", "dialect": "CAI", "pred_dialect": "CAI", "raw": "من فضلك عايز منبه .", "coda": "من فضلك عايز منبه."}
+{"btec_id": "398", "example_id": "347", "dialect": "CAI", "pred_dialect": "TUN", "raw": "بالمناسبه، اسمي هيوشي ايجيما .", "coda": "بالمناسبه، اسمي هيوشي ايجيما."}
+{"btec_id": "401", "example_id": "348", "dialect": "CAI", "pred_dialect": "CAI", "raw": "القطر ده بيقف في محطة لاك فورست، مش كده؟", "coda": "القطر ده بيقف في محطة ليك فورست، مش كده؟"}
+{"btec_id": "408", "example_id": "349", "dialect": "CAI", "pred_dialect": "CAI", "raw": "معظم اليابانيين بياكلوا اخطبوط و سبيط .", "coda": "معظم اليابانيين بياكلوا اخطبوط وسبيط."}
+{"btec_id": "416", "example_id": "350", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ممكن من فضلك تذكرتين درجة تانية لشيكاجو؟", "coda": "ممكن من فضلك تذكرتين درجة ثانية لشيكاغو؟"}
+{"btec_id": "419", "example_id": "351", "dialect": "CAI", "pred_dialect": "DOH", "raw": "انا رجت نيويورك .", "coda": "انا رحت نيويورك."}
+{"btec_id": "423", "example_id": "352", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ايه رقم الرحلة؟", "coda": "ايه رقم الرحلة؟"}
+{"btec_id": "442", "example_id": "353", "dialect": "CAI", "pred_dialect": "CAI", "raw": "تذكرة لنيويورك من فضلك .", "coda": "تذكرة لنيويورك من فضلك."}
+{"btec_id": "446", "example_id": "354", "dialect": "CAI", "pred_dialect": "CAI", "raw": "حوالي ايام قليله .", "coda": "حوالي ايام قليله."}
+{"btec_id": "447", "example_id": "355", "dialect": "CAI", "pred_dialect": "BEI", "raw": "التاني عالشمال .", "coda": "الثاني عالشمال."}
+{"btec_id": "471", "example_id": "356", "dialect": "CAI", "pred_dialect": "CAI", "raw": "الكارت اهوه . .تمام كده؟", "coda": "الكارت اهو.. تمام كده؟"}
+{"btec_id": "488", "example_id": "357", "dialect": "CAI", "pred_dialect": "CAI", "raw": "هو ده مكتب الاستقبال؟ ما فيش عيادة قريبه؟", "coda": "هو ده مكتب الاستقبال؟ مفيش عيادة قريبة؟"}
+{"btec_id": "493", "example_id": "358", "dialect": "CAI", "pred_dialect": "CAI", "raw": "حيكفي عشر دولارات للتاكسي؟", "coda": "حيكفي عشر دولارات للتاكسي؟"}
+{"btec_id": "503", "example_id": "359", "dialect": "CAI", "pred_dialect": "CAI", "raw": "طعمة غريب .", "coda": "طعمة غريب."}
+{"btec_id": "512", "example_id": "360", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ايوه . استنى انا جبت واحد ليك .", "coda": "ايوه. استنى انا جبت واحد ليك."}
+{"btec_id": "516", "example_id": "361", "dialect": "CAI", "pred_dialect": "CAI", "raw": "نص قزازة، من فضلك .", "coda": "نص قزازة، من فضلك."}
+{"btec_id": "540", "example_id": "362", "dialect": "CAI", "pred_dialect": "CAI", "raw": "مش بالظبط . حاجه بس ماتكونش غاليه .", "coda": "مش بالظبط. حاجة بس متكونش غالية."}
+{"btec_id": "548", "example_id": "363", "dialect": "CAI", "pred_dialect": "CAI", "raw": "بتدور على حاجه؟", "coda": "بتدور على حاجة؟"}
+{"btec_id": "551", "example_id": "364", "dialect": "CAI", "pred_dialect": "DOH", "raw": "اربع ليالي .", "coda": "اربع ليالي."}
+{"btec_id": "553", "example_id": "365", "dialect": "CAI", "pred_dialect": "CAI", "raw": "عايز شويه شرابات .", "coda": "عايز شوية شرابات."}
+{"btec_id": "565", "example_id": "366", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ممكن تبيعه أرخص علشان هناك شويه بقع؟", "coda": "ممكن تبيعه ارخص علشان هناك شوية بقع؟"}
+{"btec_id": "571", "example_id": "367", "dialect": "CAI", "pred_dialect": "CAI", "raw": "راجل خبطني . و يعد كده اخدت بالي ان المحفظة راحت .", "coda": "راجل خبطني. وبعد كده اخذت بالي ان المحفظة راحت."}
+{"btec_id": "599", "example_id": "368", "dialect": "CAI", "pred_dialect": "CAI", "raw": "انا مش متأكد اني حطيت في الشنطة لبس يكفيني تلات تيام .", "coda": "انا مش متأكد اني حطيت في الشنطة لبس يكفيني ثلاث ايام."}
+{"btec_id": "612", "example_id": "369", "dialect": "CAI", "pred_dialect": "TUN", "raw": "تمام، نحب نجرب النبيت الابيض .", "coda": "تمام، نحب نجرب النبيت الابيض."}
+{"btec_id": "631", "example_id": "370", "dialect": "CAI", "pred_dialect": "CAI", "raw": "لو حد سال عني، قله اني حأكون موجود عالقهوة .", "coda": "لو حد سأل عني، قول له اني حاكون موجود عالقهوة."}
+{"btec_id": "632", "example_id": "371", "dialect": "CAI", "pred_dialect": "CAI", "raw": "انا متأكد ان كان معايا في الجيب الجواني بتاع البالطو بتاعي .", "coda": "انا متأكد ان كان معاي في الجيب الجواني بتاع البالطو بتاعي."}
+{"btec_id": "641", "example_id": "372", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ممكن أعرف أسم و رقم الشخص اللي هتكلمه؟", "coda": "ممكن اعرف اسم ورقم الشخص اللي هتكلمه؟"}
+{"btec_id": "643", "example_id": "373", "dialect": "CAI", "pred_dialect": "CAI", "raw": "هى الخطوط الجوية حتدفعلي علشان اشتري حاجات شخصية اسايه؟", "coda": "هي الخطوط الجوية حتدفع لي علشان اشتري حاجات شخصية اساسية؟"}
+{"btec_id": "650", "example_id": "374", "dialect": "CAI", "pred_dialect": "CAI", "raw": "عايز اوضه بحمام .", "coda": "عايز اوضة بحمام."}
+{"btec_id": "652", "example_id": "375", "dialect": "CAI", "pred_dialect": "CAI", "raw": "مافيش حاجة بتخرج من المكنه ؟", "coda": "مفيش حاجة بتخرج من المكنة ؟"}
+{"btec_id": "667", "example_id": "376", "dialect": "CAI", "pred_dialect": "CAI", "raw": "انت كان المفروض تاخد الرحلة تمانية اتنين صفر، اللي اقلعت من خمستاشر دقيقة . على الى حال انا اقدر ارتب رحلة جديدة عشانك .", "coda": "انت كان المفروض تاخذ الرحلة ثمانية اثنين صفر، اللي اقلعت من خمستعشر دقيقة. على اى حال انا اقدر ارتب رحلة جديدة عشانك."}
+{"btec_id": "673", "example_id": "377", "dialect": "CAI", "pred_dialect": "CAI", "raw": "فيه واحد فتح الطرد بتاعي .", "coda": "فيه واحد فتح الطرد بتاعي."}
+{"btec_id": "679", "example_id": "378", "dialect": "CAI", "pred_dialect": "CAI", "raw": "أوة، لا ولا حاجه . المهم انك هنا، على اى حال .", "coda": "اوه، لا ولا حاجة. المهم انك هنا، على اي حال."}
+{"btec_id": "680", "example_id": "379", "dialect": "CAI", "pred_dialect": "CAI", "raw": "الخطوط الجوية اليابانيه، رحلة رقم ميه تلاته و عشرين .", "coda": "الخطوط الجوية اليابانية، رحلة رقم مية ثلاثة وعشرين ."}
+{"btec_id": "681", "example_id": "380", "dialect": "CAI", "pred_dialect": "CAI", "raw": "عايز اشتري شامبو .", "coda": "عايز اشتري شامبو."}
+{"btec_id": "683", "example_id": "381", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ممكن تقوللي لما نوصل لمركز الخدمات المدنية؟", "coda": "ممكن تقول لي لما نوصل لمركز الخدمات المدنية؟"}
+{"btec_id": "688", "example_id": "382", "dialect": "CAI", "pred_dialect": "CAI", "raw": "فين أقرب جزار؟", "coda": "فين اقرب جزار؟"}
+{"btec_id": "703", "example_id": "383", "dialect": "CAI", "pred_dialect": "CAI", "raw": "عايزين نحجز اربع ليالي من اول اغسطس .", "coda": "عايزين نحجز اربع ليالي من اول اغسطس."}
+{"btec_id": "708", "example_id": "384", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ايه اسم الورده ديه؟", "coda": "ايه اسم الوردة دية؟"}
+{"btec_id": "719", "example_id": "385", "dialect": "CAI", "pred_dialect": "CAI", "raw": "يوم خمستاشر سبتمبر بيكون يوم احترام العواجيز .", "coda": "يوم خمستعشر سبتمبر بيكون يوم احترام العواجيز."}
+{"btec_id": "723", "example_id": "386", "dialect": "CAI", "pred_dialect": "CAI", "raw": "مافيش شوربه في أوضتي .", "coda": "مفيش شوربة في اوضتي."}
+{"btec_id": "741", "example_id": "387", "dialect": "CAI", "pred_dialect": "CAI", "raw": "فيه اى حاجه ممكن اخدها علشان الطفح الجلدي؟", "coda": "فيه اي حاجة ممكن آخذها علشان الطفح الجلدي؟"}
+{"btec_id": "742", "example_id": "388", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ممكن تغير الصيقة للي انتي لسه قايله دلوقتي؟", "coda": "ممكن تغير الصيغة للي انتي لسه قايلة دلوقتي؟"}
+{"btec_id": "761", "example_id": "389", "dialect": "CAI", "pred_dialect": "CAI", "raw": "بياخد وقت اد ايه علشان اطلب حاجه؟", "coda": "بياخذ وقت قد ايه علشان اطلب حاجة؟"}
+{"btec_id": "773", "example_id": "390", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ممكن من فضلك تتكلم بصوت أعلى؟", "coda": "ممكن من فضلك تتكلم بصوت اعلى؟"}
+{"btec_id": "777", "example_id": "391", "dialect": "CAI", "pred_dialect": "CAI", "raw": "حياخد وقت اد ايه قبل ما يخرج؟", "coda": "حياخذ وقت قد ايه قبل ما يخرج؟"}
+{"btec_id": "786", "example_id": "392", "dialect": "CAI", "pred_dialect": "CAI", "raw": "فين معلومات الرياضة؟", "coda": "فين معلومات الرياضة؟"}
+{"btec_id": "787", "example_id": "393", "dialect": "CAI", "pred_dialect": "CAI", "raw": "الحجم ده . اللي انتي بتقول عليها الحجم العادي . .يؤدي الغرض .", "coda": "الحجم ده. اللي انت بتقول عليها الحجم العادي.. يؤدي الغرض."}
+{"btec_id": "793", "example_id": "394", "dialect": "CAI", "pred_dialect": "CAI", "raw": "امتى حتنتهي الرحلة، و فين؟", "coda": "امتى حتنتهي الرحلة، و فين؟"}
+{"btec_id": "848", "example_id": "395", "dialect": "CAI", "pred_dialect": "CAI", "raw": "منين اقدر اغير القطر علشان اوصل ادنبرة ؟", "coda": "منين اقدر اغير القطر علشان اوصل ادنبرة ؟"}
+{"btec_id": "855", "example_id": "396", "dialect": "CAI", "pred_dialect": "CAI", "raw": "عايز احطه في صندوق ايداع امن .", "coda": "عايز احطه في صندوق ايداع امن."}
+{"btec_id": "859", "example_id": "397", "dialect": "CAI", "pred_dialect": "CAI", "raw": "فين أقدر اغير فلوسي؟", "coda": "فين اقدر اغير فلوسي؟"}
+{"btec_id": "897", "example_id": "398", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ينفع نسيب حاجتنا في الاتوبيس، ماعدا الحاجات المهمه؟", "coda": "ينفع نسيب حاجتنا في الاتوبيس، ماعدا الحاجات المهمة؟"}
+{"btec_id": "902", "example_id": "399", "dialect": "CAI", "pred_dialect": "CAI", "raw": "انا بأتسائل عن التكلفة ديه اللي في الفاتورة علشان ايه.", "coda": "انا باتسائل عن التكلفة دية اللي في الفاتورة علشان ايه."}
+{"btec_id": "917", "example_id": "400", "dialect": "CAI", "pred_dialect": "CAI", "raw": "حأدفع خمسين دولار .", "coda": "حادفع خمسين دولار."}
+{"btec_id": "941", "example_id": "401", "dialect": "CAI", "pred_dialect": "CAI", "raw": "دلوقتي عارف ان الموضوع كان غلط .", "coda": "دلوقتي عارف ان الموضوع كان غلط."}
+{"btec_id": "957", "example_id": "402", "dialect": "CAI", "pred_dialect": "CAI", "raw": "انا ايكيدا اللي بيكلمك. انا حاجز ترابيزة الساعة سته و نص الليله ديه . بس اسف حاتأخر نص ساعة.", "coda": "انا ايكيدا اللي بيكلمك. انا حاجز ترابيزة الساعة ستة ونص الليلة دية. بس آسف حاتأخر نص ساعة."}
+{"btec_id": "1003", "example_id": "403", "dialect": "CAI", "pred_dialect": "CAI", "raw": "اقدر اشتري كام أوقية بارفان ماعليهاش جمارك؟", "coda": "اقدر اشتري كام اوقية بارفان معليهاش جمارك؟"}
+{"btec_id": "1007", "example_id": "404", "dialect": "CAI", "pred_dialect": "CAI", "raw": "مجرد سياحة .", "coda": "مجرد سياحة."}
+{"btec_id": "1010", "example_id": "405", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ده كويس، من فضلك أمضيهم . عاوزه ازاي؟", "coda": "ده كويس، من فضلك امضيهم. عاوزة ازاي؟"}
+{"btec_id": "1023", "example_id": "406", "dialect": "CAI", "pred_dialect": "CAI", "raw": "لسه فيه كراسي لمسرحية الليله؟", "coda": "لسه فيه كراسي لمسرحية الليلة؟"}
+{"btec_id": "1036", "example_id": "407", "dialect": "CAI", "pred_dialect": "CAI", "raw": "انا حابب الكبير .", "coda": "انا حابب الكبير."}
+{"btec_id": "1037", "example_id": "408", "dialect": "CAI", "pred_dialect": "CAI", "raw": "نمت لغاية ما المنبة رن الساعة سته و نص .", "coda": "نمت لغاية ما المنبه رن الساعة ستة ونص."}
+{"btec_id": "1038", "example_id": "409", "dialect": "CAI", "pred_dialect": "TUN", "raw": "أنا مصوراتي حر.", "coda": "انا مصوراتي حر."}
+{"btec_id": "1047", "example_id": "410", "dialect": "CAI", "pred_dialect": "RAB", "raw": "اللي بيوزعو الورق يقدرو يبدلو دولاراتك بقواشيط الكازينو . نروح؟", "coda": "اللي بيوزعوا الورق يقدروا يبدلوا دولاراتك بقواشيط الكازينو. نروح؟"}
+{"btec_id": "1056", "example_id": "411", "dialect": "CAI", "pred_dialect": "CAI", "raw": "عندنا حوالي تلاتين نوع من زيوت الحمام .", "coda": "عندنا حوالي ثلاثين نوع من زيوت الحمام."}
+{"btec_id": "1062", "example_id": "412", "dialect": "CAI", "pred_dialect": "CAI", "raw": "حيكون معايا العرض بتاعك الاسبوع الجاي .", "coda": "حيكون معاي العرض بتاعك الاسبوع الجاي."}
+{"btec_id": "1074", "example_id": "413", "dialect": "CAI", "pred_dialect": "CAI", "raw": "أشكرك . بكام الجوانتي ده؟", "coda": "اشكرك. بكام الجوانتي ده؟"}
+{"btec_id": "1098", "example_id": "414", "dialect": "CAI", "pred_dialect": "CAI", "raw": "لازم أمشي . حأكلمك بعدين .", "coda": "لازم امشي. حاكلمك بعدين."}
+{"btec_id": "1100", "example_id": "415", "dialect": "CAI", "pred_dialect": "CAI", "raw": "عايز بمبرز استعمال مره واحدة .", "coda": "عايز بمبرز استعمال مرة واحدة."}
+{"btec_id": "1122", "example_id": "416", "dialect": "CAI", "pred_dialect": "CAI", "raw": "فين بلد سمك الفراشه ده؟", "coda": "فين بلد سمك الفراشة ده؟"}
+{"btec_id": "1124", "example_id": "417", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ممكن تغيرهم لدولارات، لو سمحت؟", "coda": "ممكن تغيرهم لدولارات، لو سمحت؟"}
+{"btec_id": "1139", "example_id": "418", "dialect": "CAI", "pred_dialect": "CAI", "raw": "أحنا محظوظين . عندهم واحد مقاس أربعة في محل الا موانا .", "coda": "احنا محظوظين. عندهم واحد مقاس اربعة في محل الا موانا."}
+{"btec_id": "1146", "example_id": "419", "dialect": "CAI", "pred_dialect": "CAI", "raw": "الاقي ليموزين؟", "coda": "الاقي ليموزين؟"}
+{"btec_id": "1163", "example_id": "420", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ممكن تصحوني بالتليفون بكرة خمسه و نص الصبح؟", "coda": "ممكن تصحوني بالتليفون بكرة خمسة ونص الصبح؟"}
+{"btec_id": "1165", "example_id": "421", "dialect": "CAI", "pred_dialect": "CAI", "raw": "بأفضل أوضه هادية .", "coda": "بافضل اوضة هادية."}
+{"btec_id": "1167", "example_id": "422", "dialect": "CAI", "pred_dialect": "CAI", "raw": "عايز مزيل مونيكير .", "coda": "عايز مزيل منكير."}
+{"btec_id": "1183", "example_id": "423", "dialect": "CAI", "pred_dialect": "CAI", "raw": "عايز بطارية .", "coda": "عايز بطارية."}
+{"btec_id": "1193", "example_id": "424", "dialect": "CAI", "pred_dialect": "CAI", "raw": "فيه فرقة موسيقية لايف أو ديجيه؟", "coda": "فيه فرقة موسيقية لايف او ديجي؟"}
+{"btec_id": "1194", "example_id": "425", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ممكن أجر معدات غطس؟", "coda": "ممكن اأجر معدات غطس؟"}
+{"btec_id": "1199", "example_id": "426", "dialect": "CAI", "pred_dialect": "CAI", "raw": "عايز أحجز أوضة أربع ليال من أول اتنين و عشرين ديسمبر .", "coda": "عايز احجز اوضة اربع ليال من اول اثنين وعشرين ديسمبر."}
+{"btec_id": "1212", "example_id": "427", "dialect": "CAI", "pred_dialect": "CAI", "raw": "الشنطة ديه تستحمل كل أنواع الطقس؟", "coda": "الشنطة دية تستحمل كل انواع الطقس؟"}
+{"btec_id": "1213", "example_id": "428", "dialect": "CAI", "pred_dialect": "CAI", "raw": "عايز كحك دونات، من فضلك .", "coda": "عايز كحك دونات، من فضلك."}
+{"btec_id": "1218", "example_id": "429", "dialect": "CAI", "pred_dialect": "CAI", "raw": "عايز أأجر عربية أوتامتيك ليومين .", "coda": "عايز اأجر عربية اوتوماتك ليومين."}
+{"btec_id": "1224", "example_id": "430", "dialect": "CAI", "pred_dialect": "CAI", "raw": "فاتتني الرحلة رقم عشرين لسان فرانسيسكو.", "coda": "فاتتني الرحلة رقم عشرين لسان فرانسيسكو."}
+{"btec_id": "1234", "example_id": "431", "dialect": "CAI", "pred_dialect": "CAI", "raw": "بكام للمطار؟", "coda": "بكام للمطار؟"}
+{"btec_id": "1235", "example_id": "432", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ده كويس . امتى يكون؟", "coda": "ده كويس. امتى يكون؟"}
+{"btec_id": "1276", "example_id": "433", "dialect": "CAI", "pred_dialect": "CAI", "raw": "بنتك أد ايه؟", "coda": "بنتك قد ايه؟"}
+{"btec_id": "1312", "example_id": "434", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ممكن تقولي عن فندق نضيف و رخيص؟", "coda": "ممكن تقول لي عن فندق نضيف ورخيص؟"}
+{"btec_id": "1321", "example_id": "435", "dialect": "CAI", "pred_dialect": "CAI", "raw": "نقدر نحجزلك أوضه مريحة في القلعة القديمة جنب نادي جولف مشهور .", "coda": "نقدر نحجز لك اوضة مريحة في القلعة القديمة جنب نادي غولف مشهور."}
+{"btec_id": "1329", "example_id": "436", "dialect": "CAI", "pred_dialect": "CAI", "raw": "بأنصح بده لأنه مصنوع ميه بالميه من المكونات الطبيعية .", "coda": "بانصح بده لانه مصنوع مية بالمية من المكونات الطبيعية."}
+{"btec_id": "1361", "example_id": "437", "dialect": "CAI", "pred_dialect": "CAI", "raw": "القطر بيقف في بريتون؟", "coda": "القطر بيقف في برايتون؟"}
+{"btec_id": "1369", "example_id": "438", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ممكن تقوللي منين أخد تاكسي؟", "coda": "ممكن تقول لي منين آخذ تاكسي؟"}
+{"btec_id": "1375", "example_id": "439", "dialect": "CAI", "pred_dialect": "CAI", "raw": "تذكرتين درجة تانيه، من فضلك .", "coda": "تذكرتين درجة ثانية، من فضلك."}
+{"btec_id": "1384", "example_id": "440", "dialect": "CAI", "pred_dialect": "CAI", "raw": "عايز ابعت فاكس .", "coda": "عايز ابعث فاكس."}
+{"btec_id": "1394", "example_id": "441", "dialect": "CAI", "pred_dialect": "CAI", "raw": "محتاج مكوة سفر .", "coda": "محتاج مكوة سفر."}
+{"btec_id": "1396", "example_id": "442", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ممكن أقدملك اى حاجة؟", "coda": "ممكن اقدم لك اي حاجة؟"}
+{"btec_id": "1404", "example_id": "443", "dialect": "CAI", "pred_dialect": "CAI", "raw": "يومي؟ انا خايف اسأل، لكن انت تقصد ايه؟", "coda": "يومي؟ انا خايف اسأل، لكن انت تقصد ايه؟"}
+{"btec_id": "1418", "example_id": "444", "dialect": "CAI", "pred_dialect": "CAI", "raw": "عايزة واحده تقدر تشيل ورق بحجم ورق الجوابات من غير ما يكونوا مطويين .", "coda": "عايزة واحدة تقدر تشيل ورق بحجم ورق الجوابات من غير ما يكونوا مطويين."}
+{"btec_id": "1433", "example_id": "445", "dialect": "CAI", "pred_dialect": "CAI", "raw": "أيوة، بس ما يكونش جامد جدا .", "coda": "ايوة، بس ما يكونش جامد جدا."}
+{"btec_id": "1434", "example_id": "446", "dialect": "CAI", "pred_dialect": "CAI", "raw": "عندي حساسيه من القطط .", "coda": "عندي حساسية من القطط."}
+{"btec_id": "1436", "example_id": "447", "dialect": "CAI", "pred_dialect": "CAI", "raw": "أيوة، لازم يكون عندك رخصة سواقة، اه، يكون عندك رخصه من لجنة التاكسي و الليموزين .", "coda": "ايوة، لازم يكون عندك رخصة سواقة، اه، يكون عندك رخصة من لجنة التاكسي والليموزين."}
+{"btec_id": "1462", "example_id": "448", "dialect": "CAI", "pred_dialect": "CAI", "raw": "اتفضل، يا استاذ .", "coda": "اتفضل، يا استاذ."}
+{"btec_id": "1465", "example_id": "449", "dialect": "CAI", "pred_dialect": "CAI", "raw": "شكلي مش حيوصلي ميه سخنه .", "coda": "شكلي مش حيوصلي مية سخنة."}
+{"btec_id": "1474", "example_id": "450", "dialect": "CAI", "pred_dialect": "CAI", "raw": "عايز أحجر أوده الليله ديه .", "coda": "عايز احجز اوضة الليلة دية."}
+{"btec_id": "1492", "example_id": "451", "dialect": "CAI", "pred_dialect": "CAI", "raw": "لأ، ده مستثنى من الضرايب و مصارف الخدمة .", "coda": "لأ، ده مستثنى من الضرايب ومصارف الخدمة."}
+{"btec_id": "1506", "example_id": "452", "dialect": "CAI", "pred_dialect": "CAI", "raw": "تحب نروح تتسوق معايا بعد الضهر؟", "coda": "تحب نروح تتسوق معاي بعد الضهر؟"}
+{"btec_id": "1508", "example_id": "453", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ازيك، ده حقيقي فستان جميل.", "coda": "ازيك، ده حقيقي فستان جميل."}
+{"btec_id": "1519", "example_id": "454", "dialect": "CAI", "pred_dialect": "CAI", "raw": "دلوقتي، مكالمتك اشتغلت . اتفضل لو سمحت .", "coda": "دلوقتي، مكالمتك اشتغلت. اتفضل لو سمحت."}
+{"btec_id": "1525", "example_id": "455", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ايه رقم البوابه؟", "coda": "ايه رقم البوابة؟"}
+{"btec_id": "1539", "example_id": "456", "dialect": "CAI", "pred_dialect": "CAI", "raw": "اى تذكار أقدر اخده و ينفع هديه من هاواي؟", "coda": "اي تذكار اقدر اخذه وينفع هدية من هاواي؟"}
+{"btec_id": "1556", "example_id": "457", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ممكن أوصلة بالمترو؟", "coda": "ممكن اوصل له بالمترو؟"}
+{"btec_id": "1560", "example_id": "458", "dialect": "CAI", "pred_dialect": "CAI", "raw": "عايز سيشوار.", "coda": "عايز سشوار."}
+{"btec_id": "1562", "example_id": "459", "dialect": "CAI", "pred_dialect": "CAI", "raw": "الكلام ده حيخلينا ننجح؟", "coda": "الكلام ده حيخلينا ننجح؟"}
+{"btec_id": "1585", "example_id": "460", "dialect": "CAI", "pred_dialect": "BEI", "raw": "جاي من النرويج .", "coda": "جاي من النرويج."}
+{"btec_id": "1603", "example_id": "461", "dialect": "CAI", "pred_dialect": "CAI", "raw": "أذا سمحت من عشرة لتناشر .", "coda": "اذا سمحت من عشرة لاثنعشر."}
+{"btec_id": "1619", "example_id": "462", "dialect": "CAI", "pred_dialect": "CAI", "raw": "اكيد . خليني أشوف . الصخور المرجانية عورتك، متهيألي.", "coda": "اكيد. خليني اشوف. الصخور المرجانية عورتك، متهيأ لي."}
+{"btec_id": "1620", "example_id": "463", "dialect": "CAI", "pred_dialect": "CAI", "raw": "أحتياطي، خلي معايا رقم الشخص المسئول .", "coda": "احتياطي، خلي معاي رقم الشخص المسئول."}
+{"btec_id": "1622", "example_id": "464", "dialect": "CAI", "pred_dialect": "CAI", "raw": "فيه أوتوستراد؟", "coda": "فيه اوتوستراد؟"}
+{"btec_id": "1630", "example_id": "465", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ليه ماجاش الحفلة امبارح؟", "coda": "ليه ما جاش الحفلة امبارح؟"}
+{"btec_id": "1637", "example_id": "466", "dialect": "CAI", "pred_dialect": "CAI", "raw": "فيه حادثة .", "coda": "فيه حادثة."}
+{"btec_id": "1650", "example_id": "467", "dialect": "CAI", "pred_dialect": "CAI", "raw": "أسف، طلبت الرقم غلط .", "coda": "آسف، طلبت الرقم غلط."}
+{"btec_id": "1653", "example_id": "468", "dialect": "CAI", "pred_dialect": "DOH", "raw": "لو سمحت دخل رقمك السري .", "coda": "لو سمحت دخل رقمك السري."}
+{"btec_id": "1663", "example_id": "469", "dialect": "CAI", "pred_dialect": "CAI", "raw": "مش قادر أظبط الصورة .", "coda": "مش قادر اظبط الصورة."}
+{"btec_id": "1668", "example_id": "470", "dialect": "CAI", "pred_dialect": "CAI", "raw": "واحد هامبرج بالجنبة و عصير برتقان، إذا سمحت .", "coda": "واحد هامبرجر بالجنبة وعصير برتقان، اذا سمحت."}
+{"btec_id": "1670", "example_id": "471", "dialect": "CAI", "pred_dialect": "CAI", "raw": "اهوه باسبوري .", "coda": "اهو باسبوري."}
+{"btec_id": "1682", "example_id": "472", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ليه؟ اشكرك كتير . اوه، ممكن أكلم الريس؟", "coda": "ليه؟ اشكرك كثير. اوه، ممكن اكلم الريس؟"}
+{"btec_id": "1702", "example_id": "473", "dialect": "CAI", "pred_dialect": "DOH", "raw": "ممكن تذكرتين للحفلة الموسيقيه الجمعة الجاية؟", "coda": "ممكن تذكرتين للحفلة الموسيقية الجمعة الجاية؟"}
+{"btec_id": "1718", "example_id": "474", "dialect": "CAI", "pred_dialect": "CAI", "raw": "فيه راكب تاني هناك قال انه ممكن يبدل الكرسي معاك .", "coda": "فيه راكب ثاني هناك قال انه ممكن يبدل الكرسي معاك."}
+{"btec_id": "1754", "example_id": "475", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ممكن اطول أقامتي؟", "coda": "ممكن اطول اقامتي؟"}
+{"btec_id": "1766", "example_id": "476", "dialect": "CAI", "pred_dialect": "CAI", "raw": "مثلا، تعرف أى حاجه تستاهل تتشاف قريبه من هنا؟", "coda": "مثلا، تعرف اي حاجة تستاهل تتشاف قريبة من هنا؟"}
+{"btec_id": "1768", "example_id": "477", "dialect": "CAI", "pred_dialect": "CAI", "raw": "لأ، عايز أأجر نص مجموعة من المضارب وجزمة .", "coda": "لأ، عايز اأجر نص مجموعة من المضارب وجزمة."}
+{"btec_id": "1782", "example_id": "478", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ممكن تبلغني لما تلاقي شنطتك الضايعة ؟", "coda": "ممكن تبلغني لما تلاقي شنطتك الضايعة؟"}
+{"btec_id": "1788", "example_id": "479", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ايه أسم الجنينة العامة ديه؟", "coda": "ايه اسم الجنينة العامة دية؟"}
+{"btec_id": "1791", "example_id": "480", "dialect": "CAI", "pred_dialect": "RAB", "raw": "أتجرحت .", "coda": "اتجرحت."}
+{"btec_id": "1792", "example_id": "481", "dialect": "CAI", "pred_dialect": "CAI", "raw": "فين مكان كويس للسياحة؟", "coda": "فين مكان كويس للسياحة؟"}
+{"btec_id": "1800", "example_id": "482", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ممكن شوية فاكهة؟", "coda": "ممكن شوية فاكهة؟"}
+{"btec_id": "1834", "example_id": "483", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ممكن اتغدى دلوقتي؟", "coda": "ممكن اتغدى دلوقتي؟"}
+{"btec_id": "1837", "example_id": "484", "dialect": "CAI", "pred_dialect": "CAI", "raw": "عايز اغير الدولارات ديه .", "coda": "عايز اغير الدولارات دية."}
+{"btec_id": "1867", "example_id": "485", "dialect": "CAI", "pred_dialect": "CAI", "raw": "محتاج تاكسي . انا في ساوث مين وليبرتي .", "coda": "محتاج تاكسي. انا في ساوث مين وليبرتي."}
+{"btec_id": "1876", "example_id": "486", "dialect": "CAI", "pred_dialect": "CAI", "raw": "مؤكد، عايز كيرلي؟", "coda": "مؤكد، عايز كيرلي؟"}
+{"btec_id": "1878", "example_id": "487", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ديه مش تفاحة ديه خوحة .", "coda": "دي مش تفاحة دي خوخة."}
+{"btec_id": "1903", "example_id": "488", "dialect": "CAI", "pred_dialect": "CAI", "raw": "حاديلك روشتة . خدها للصيدلية .", "coda": "حادي لك روشتة. خذها للصيدلية."}
+{"btec_id": "1927", "example_id": "489", "dialect": "CAI", "pred_dialect": "CAI", "raw": "بنسافر تلات مرات في الاسبوع، في التلات، الجمعه، و السبت .", "coda": "بنسافر ثلاث مرات في الاسبوع، في الثلاث، الجمعة، والسبت."}
+{"btec_id": "1931", "example_id": "490", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ده غالي، مش كده؟", "coda": "ده غالي، مش كده؟"}
+{"btec_id": "1948", "example_id": "491", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ايوه، عندنا . حنجهزهالك .", "coda": "ايوه، عندنا. حنجهزها لك."}
+{"btec_id": "1950", "example_id": "492", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ممكن تخلي عندك شنطتي لحد الساعة تلاته؟", "coda": "ممكن تخلي عندك شنطتي لحد الساعة ثلاثة؟"}
+{"btec_id": "1951", "example_id": "493", "dialect": "CAI", "pred_dialect": "CAI", "raw": "لأ، انا بس حأعدي مش حأطول .", "coda": "لأ، انا بس حاعدي مش حاطول."}
+{"btec_id": "1954", "example_id": "494", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ممكن احجز اجر-عربية هنا؟", "coda": "ممكن احجز اجر-عربية هنا؟"}
+{"btec_id": "1968", "example_id": "495", "dialect": "CAI", "pred_dialect": "CAI", "raw": "انت اميركي؟", "coda": "انت اميركي؟"}
+{"btec_id": "1980", "example_id": "496", "dialect": "CAI", "pred_dialect": "CAI", "raw": "للمكان ده، إذا سمحت .", "coda": "للمكان ده، اذا سمحت."}
+{"btec_id": "1985", "example_id": "497", "dialect": "CAI", "pred_dialect": "CAI", "raw": "عربيتي وقفت.", "coda": "عربيتي وقفت."}
+{"btec_id": "1988", "example_id": "498", "dialect": "CAI", "pred_dialect": "CAI", "raw": "فين الاى شادو؟", "coda": "فين الاي شادو؟"}
+{"btec_id": "1993", "example_id": "499", "dialect": "CAI", "pred_dialect": "CAI", "raw": "محتاجين ركن هادي، إن أمكن .", "coda": "محتاجين ركن هادي، ان امكن."}
+{"btec_id": "11342", "example_id": "500", "dialect": "CAI", "pred_dialect": "CAI", "raw": "سكوتش و ميه، من فضلك . و عندك أى اكلة خفيفة؟", "coda": "سكوتش ومية، من فضلك. وعندك اي اكلة خفيفة؟"}
+{"btec_id": "11343", "example_id": "501", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ازاي اقدر أطفي النور ده؟", "coda": "ازاي اقدر اطفي النور ده؟"}
+{"btec_id": "11360", "example_id": "502", "dialect": "CAI", "pred_dialect": "CAI", "raw": "هو مشغول جدا النهاردة؟", "coda": "هو مشغول جدا النهار ده؟"}
+{"btec_id": "11374", "example_id": "503", "dialect": "CAI", "pred_dialect": "CAI", "raw": "عايز خيط .", "coda": "عايز خيط."}
+{"btec_id": "11375", "example_id": "504", "dialect": "CAI", "pred_dialect": "CAI", "raw": "اديني شهاده طبية، من فضلك .", "coda": "اديني شهادة طبية، من فضلك."}
+{"btec_id": "11378", "example_id": "505", "dialect": "CAI", "pred_dialect": "CAI", "raw": "عايز أخليه إينش أقصر هنا.", "coda": "عايز اخليه انش اقصر هنا."}
+{"btec_id": "11392", "example_id": "506", "dialect": "CAI", "pred_dialect": "CAI", "raw": "مش حاسس اني كويس . من فضلك اديني دوا .", "coda": "مش حاسس اني كويس. من فضلك اديني دوا."}
+{"btec_id": "11403", "example_id": "507", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ممكن جرنان ياباني، من فضلك؟", "coda": "ممكن جرنان ياباني، من فضلك؟"}
+{"btec_id": "11404", "example_id": "508", "dialect": "CAI", "pred_dialect": "CAI", "raw": "اوكي . ينفع أسيب العربية في أى مكان؟ و تكلفه ده كام؟", "coda": "اوكي. ينفع اسيب العربية في اي مكان؟ وتكلفة ده كام؟"}
+{"btec_id": "11412", "example_id": "509", "dialect": "CAI", "pred_dialect": "CAI", "raw": "اى اوتوبيس يوديني نص البلد؟", "coda": "اي اوتوبيس يوديني نص البلد؟"}
+{"btec_id": "11420", "example_id": "510", "dialect": "CAI", "pred_dialect": "CAI", "raw": "فيه اكسبريس لبوسطون؟", "coda": "فيه اكسبريس لبوسطون؟"}
+{"btec_id": "11435", "example_id": "511", "dialect": "CAI", "pred_dialect": "CAI", "raw": "من فضلك خليط صديق المراسله بتاعي .", "coda": "من فضلك خليط صديق المراسله بتاعي."}
+{"btec_id": "11442", "example_id": "512", "dialect": "CAI", "pred_dialect": "CAI", "raw": "انا متحمس جدا، مش قادر اقعد ساكت .", "coda": "انا متحمس جدا، مش قادر اقعد ساكت."}
+{"btec_id": "11449", "example_id": "513", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ممكن أنزل عند فندق هيلتون؟", "coda": "ممكن انزل عند فندق هيلتون؟"}
+{"btec_id": "11450", "example_id": "514", "dialect": "CAI", "pred_dialect": "CAI", "raw": "عايزك انت تشيله.", "coda": "عايزك انت تشيله."}
+{"btec_id": "11457", "example_id": "515", "dialect": "CAI", "pred_dialect": "CAI", "raw": "احود شمال الشارع ده و خد اول يمين .", "coda": "احود شمال الشارع ده وخذ اول يمين."}
+{"btec_id": "11462", "example_id": "516", "dialect": "CAI", "pred_dialect": "CAI", "raw": "عايز أعرف لو ممكن مجموعة الاطباق ديه تتشحن لطوكيو.", "coda": "عايز اعرف لو ممكن مجموعة الاطباق دي تتشحن لطوكيو."}
+{"btec_id": "11467", "example_id": "517", "dialect": "CAI", "pred_dialect": "CAI", "raw": "عايز بودرة تلك.", "coda": "عايز بودرة تلك."}
+{"btec_id": "11478", "example_id": "518", "dialect": "CAI", "pred_dialect": "CAI", "raw": "فيه عندك اكل مش حراق او مشطشط؟", "coda": "فيه عندك اكل مش حراق او مشطشط؟"}
+{"btec_id": "11479", "example_id": "519", "dialect": "CAI", "pred_dialect": "CAI", "raw": "هو قريب شويه نقدر نمشي له؟", "coda": "هو قريب شوية نقدر نمشي له؟"}
+{"btec_id": "11493", "example_id": "520", "dialect": "CAI", "pred_dialect": "DOH", "raw": "ممكن تناولني الملح؟", "coda": "ممكن تناولني الملح؟"}
+{"btec_id": "11500", "example_id": "521", "dialect": "CAI", "pred_dialect": "CAI", "raw": "عايز اروح لول ستريت . أزاي أوصل هناك؟", "coda": "عايز اروح لوول ستريت. ازاي اوصل هناك؟"}
+{"btec_id": "11541", "example_id": "522", "dialect": "CAI", "pred_dialect": "CAI", "raw": "تمارين كتيره جدا حتأذيك .", "coda": "تمارين كثيرة جدا حتأذيك."}
+{"btec_id": "11544", "example_id": "523", "dialect": "CAI", "pred_dialect": "CAI", "raw": "شامل الفطار، الضريبة، و رسوم الخدمة . حيكون خمسه و اربعين دولار للبني ادم الواحد في الليله .", "coda": "شامل الفطار، الضريبة، ورسوم الخدمة. حيكون خمسة واربعين دولار للبني آدم الواحد في الليلة."}
+{"btec_id": "11550", "example_id": "524", "dialect": "CAI", "pred_dialect": "RAB", "raw": "تقدر تصلح ده؟", "coda": "تقدر تصلح ده؟"}
+{"btec_id": "11574", "example_id": "525", "dialect": "CAI", "pred_dialect": "CAI", "raw": "مساء الخير . أزيك .", "coda": "مساء الخير. ازيك."}
+{"btec_id": "11576", "example_id": "526", "dialect": "CAI", "pred_dialect": "CAI", "raw": "مش لاقي شنطك .", "coda": "مش لاقي شنطك."}
+{"btec_id": "11595", "example_id": "527", "dialect": "CAI", "pred_dialect": "CAI", "raw": "أمشي علطول، من فضلك .", "coda": "امشي على طول، من فضلك."}
+{"btec_id": "11600", "example_id": "528", "dialect": "CAI", "pred_dialect": "CAI", "raw": "الميه هنا ينفع تنشرب؟", "coda": "المية هنا ينفع تنشرب؟"}
+{"btec_id": "11622", "example_id": "529", "dialect": "CAI", "pred_dialect": "CAI", "raw": "اهاه، ياللا . دولارين بس .", "coda": "اهاه، يلا. دولارين بس."}
+{"btec_id": "11626", "example_id": "530", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ممكن لو تكرمت تغيرلي الفستان ده بواحد مقاس أكبر؟", "coda": "ممكن لو تكرمت تغير لي الفستان ده بواحد مقاس اكبر؟"}
+{"btec_id": "11631", "example_id": "531", "dialect": "CAI", "pred_dialect": "CAI", "raw": "حاضر، يالا بينا . انا اقدر اساعدك في حل الواجب بتاعتك بعد ما ناكل بيتزا .", "coda": "حاضر، يالله بينا. انا اقدر اساعدك في حل الواجب بتاعتك بعد ما ناكل بيتزا."}
+{"btec_id": "11633", "example_id": "532", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ايوه، مستر . تاناكا . فيه رسالتين ليك .", "coda": "ايوه، مستر. تاناكا. فيه رسالتين ليك."}
+{"btec_id": "11643", "example_id": "533", "dialect": "CAI", "pred_dialect": "CAI", "raw": "مش على مقاسي .", "coda": "مش على مقاسي."}
+{"btec_id": "11646", "example_id": "534", "dialect": "CAI", "pred_dialect": "CAI", "raw": "بكره يوم تاني.", "coda": "بكرة يوم ثاني."}
+{"btec_id": "11663", "example_id": "535", "dialect": "CAI", "pred_dialect": "CAI", "raw": "يمكن اقدر اساعدك . عايز فيتامين سي؟", "coda": "يمكن اقدر اساعدك. عايز فيتامين سي؟"}
+{"btec_id": "11689", "example_id": "536", "dialect": "CAI", "pred_dialect": "CAI", "raw": "محفظتي اتنشلت في القطر .", "coda": "محفظتي اتنشلت في القطر."}
+{"btec_id": "11704", "example_id": "537", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ده بعيد قوي . الاحسن اخد تاكسي .", "coda": "ده بعيد قوي. الاحسن آخذ تاكسي."}
+{"btec_id": "11708", "example_id": "538", "dialect": "CAI", "pred_dialect": "CAI", "raw": "عايظ كرسي جنب الممر، من فضلك .", "coda": "عايز كرسي جنب الممر، من فضلك."}
+{"btec_id": "11709", "example_id": "539", "dialect": "CAI", "pred_dialect": "CAI", "raw": "انا عايش في شقة ايجارها الشهري تمانين الف ين .", "coda": "انا عايش في شقة ايجارها الشهري ثمانين الف ين."}
+{"btec_id": "11714", "example_id": "540", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ممكن اقطع كلامكم؟", "coda": "ممكن اقطع كلامكم؟"}
+{"btec_id": "11734", "example_id": "541", "dialect": "CAI", "pred_dialect": "CAI", "raw": "لو سمحت. ممكن نبدل الكراسي؟", "coda": "لو سمحت. ممكن نبدل الكراسي؟"}
+{"btec_id": "11746", "example_id": "542", "dialect": "CAI", "pred_dialect": "CAI", "raw": "آه، طبعا.", "coda": "آه، طبعا."}
+{"btec_id": "11751", "example_id": "543", "dialect": "CAI", "pred_dialect": "CAI", "raw": "انزل عند الناصية وادخل شمال عند إشارة المرور.", "coda": "انزل عند الناصية وادخل شمال عند اشارة المرور."}
+{"btec_id": "11800", "example_id": "544", "dialect": "CAI", "pred_dialect": "CAI", "raw": "عايز أحط حاجتي القيمة في خزنة الأوتيل.", "coda": "عايز احط حاجتي القيمة في خزنة الاوتيل."}
+{"btec_id": "11821", "example_id": "545", "dialect": "CAI", "pred_dialect": "CAI", "raw": "آه، بس إتأكد إن تذكرتك معاك.", "coda": "آه، بس اتأكد ان تذكرتك معاك."}
+{"btec_id": "11862", "example_id": "546", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ناس قليلين اللي هايكونوا في الجولة الاختياري.", "coda": "ناس قليلين اللي هيكونوا في الجولة الاختياري."}
+{"btec_id": "11872", "example_id": "547", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ولا يهمك. عموما، وصلني جوة الحي الصيني. أنا هحاول أكتشف مع نفسي.", "coda": "ولا يهمك. عموما، وصلني جوا الحي الصيني. انا هاحاول اكتشف مع نفسي."}
+{"btec_id": "11879", "example_id": "548", "dialect": "CAI", "pred_dialect": "DOH", "raw": "الناس الجديدة بتتعين في ابريل.", "coda": "الناس الجديدة بتتعين في ابريل."}
+{"btec_id": "11880", "example_id": "549", "dialect": "CAI", "pred_dialect": "CAI", "raw": "أتمنى.", "coda": "اتمنى."}
+{"btec_id": "11885", "example_id": "550", "dialect": "CAI", "pred_dialect": "CAI", "raw": "إتنين سكوتش ومية، من فضلك.", "coda": "اتنين سكوتش ومية، من فضلك."}
+{"btec_id": "11901", "example_id": "551", "dialect": "CAI", "pred_dialect": "CAI", "raw": "مين بيلعب؟", "coda": "مين بيلعب؟"}
+{"btec_id": "11916", "example_id": "552", "dialect": "CAI", "pred_dialect": "DOH", "raw": "شمال، لو سمحت.", "coda": "شمال، لو سمحت."}
+{"btec_id": "11949", "example_id": "553", "dialect": "CAI", "pred_dialect": "CAI", "raw": "السنة اللي قدام دي بتوجعني.", "coda": "السنة اللي قدام دي بتوجعني."}
+{"btec_id": "11959", "example_id": "554", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ايه أحدث لعبة كمبيوتر تناسب عمر خمستاشر سنة؟", "coda": "ايه احدث لعبة كمبيوتر تناسب عمر خمستعشر سنة؟"}
+{"btec_id": "11972", "example_id": "555", "dialect": "CAI", "pred_dialect": "CAI", "raw": "هانشوفك بكره.", "coda": "هنشوفك بكرة."}
+{"btec_id": "11975", "example_id": "556", "dialect": "CAI", "pred_dialect": "BEI", "raw": "لأ، بس شكرا. أنا أحسن.", "coda": "لأ، بس شكرا. انا احسن."}
+{"btec_id": "11976", "example_id": "557", "dialect": "CAI", "pred_dialect": "DOH", "raw": "عندك عيش؟", "coda": "عندك عيش؟"}
+{"btec_id": "11977", "example_id": "558", "dialect": "CAI", "pred_dialect": "CAI", "raw": "مستواك ايه في الكمانجة؟", "coda": "مستواك ايه في الكمانجة؟"}
+{"btec_id": "11990", "example_id": "559", "dialect": "CAI", "pred_dialect": "CAI", "raw": "صاحبي اتزحلق وقع في الحمام.", "coda": "صاحبي اتزحلق ووقع في الحمام."}
+{"btec_id": "11991", "example_id": "560", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ممكن طفاية سجاير؟", "coda": "ممكن طفاية سجاير؟"}
+{"btec_id": "11997", "example_id": "561", "dialect": "CAI", "pred_dialect": "CAI", "raw": "المسيحية كانت ممنوعة والبلد كانت منغزلة عن بقيتة العالم.", "coda": "المسيحية كانت ممنوعة والبلد كانت منعزلة عن بقية العالم."}
+{"btec_id": "12005", "example_id": "562", "dialect": "CAI", "pred_dialect": "CAI", "raw": "عايز اد إيه؟", "coda": "عايز قد ايه؟"}
+{"btec_id": "12012", "example_id": "563", "dialect": "CAI", "pred_dialect": "CAI", "raw": "كوكتيل الجمبري ليها وواحد ليا.", "coda": "كوكتيل الجمبري ليها وواحد لي."}
+{"btec_id": "12033", "example_id": "564", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ممكن أخليك توقع هنا؟ و لو سمحت أول حرف من اسمك هنا.", "coda": "ممكن اخليك توقع هنا؟ ولو سمحت اول حرف من اسمك هنا."}
+{"btec_id": "12035", "example_id": "565", "dialect": "CAI", "pred_dialect": "CAI", "raw": "من دواعي سروري اني أزور مكاتب الإدارة و اشترك في نقاش مهم معاك. اشكرك جدا لتعاونك.", "coda": "من دواعي سروري اني ازور مكاتب الادارة واشترك في نقاش مهم معاك. اشكرك جدا لتعاونك."}
+{"btec_id": "12054", "example_id": "566", "dialect": "CAI", "pred_dialect": "DOH", "raw": "شخيرك مزعج.", "coda": "شخيرك مزعج."}
+{"btec_id": "12056", "example_id": "567", "dialect": "CAI", "pred_dialect": "CAI", "raw": "انا مش عاجبني اللون برده. ممكن أرجعه؟", "coda": "انا مش عاجبني اللون بردو. ممكن ارجعه؟"}
+{"btec_id": "12069", "example_id": "568", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ممكن آخد شوية فلفل اسود؟", "coda": "ممكن آخذ شوية فلفل اسود؟"}
+{"btec_id": "12101", "example_id": "569", "dialect": "CAI", "pred_dialect": "CAI", "raw": "أنا أستاذ تاكاهاشي ف غرفة خمسة تسعة واربعين. ممكن تبعتلي اربع ازايز بيرة بادوايزر، لوسمحت؟", "coda": "انا استاذ تاكاهاشي فغرفة خمسة تسعة واربعين. ممكن تبعث لي اربع ازايز بيرة بدوايزر، لو سمحت؟"}
+{"btec_id": "12131", "example_id": "570", "dialect": "CAI", "pred_dialect": "CAI", "raw": "دول سبعين دولار.", "coda": "دول سبعين دولار."}
+{"btec_id": "12140", "example_id": "571", "dialect": "CAI", "pred_dialect": "CAI", "raw": "من فضلك كلمني في الفندق لما تلاقي شنطي.", "coda": "من فضلك كلمني في الفندق لما تلاقي شنطي."}
+{"btec_id": "12150", "example_id": "572", "dialect": "CAI", "pred_dialect": "CAI", "raw": "أنا عايز مكالمة تصحيني بكرة الصبح على تمانية ونص، من فضلك.", "coda": "انا عايز مكالمة تصحيني بكرة الصبح على ثمانية ونص، من فضلك."}
+{"btec_id": "12167", "example_id": "573", "dialect": "CAI", "pred_dialect": "CAI", "raw": "آه، بس ده كتير وانا أساسا شبعان.", "coda": "آه، بس ده كثير وانا اساسا شبعان."}
+{"btec_id": "12172", "example_id": "574", "dialect": "CAI", "pred_dialect": "CAI", "raw": "أنا عايز غسول للبؤ.", "coda": "انا عايز غسول للبق."}
+{"btec_id": "12173", "example_id": "575", "dialect": "CAI", "pred_dialect": "CAI", "raw": "انا مش حاسس إني كويس.", "coda": "انا مش حاسس اني كويس."}
+{"btec_id": "12182", "example_id": "576", "dialect": "CAI", "pred_dialect": "CAI", "raw": "هل انت بتدي خصومات كبيرة؟", "coda": "هل انت بتدي خصومات كبيرة؟"}
+{"btec_id": "12193", "example_id": "577", "dialect": "CAI", "pred_dialect": "CAI", "raw": "طوكيو زيرو تلاتة أربع تسعات أربعة خمسة ستة سبعة.", "coda": "طوكيو زيرو ثلاثة اربع تسعات اربعة خمسة ستة سبعة."}
+{"btec_id": "12240", "example_id": "578", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ممكن تساعدني ألاقي حديقة الحيوان؟", "coda": "ممكن تساعدني الاقي حديقة الحيوان؟"}
+{"btec_id": "12246", "example_id": "579", "dialect": "CAI", "pred_dialect": "CAI", "raw": "هتقولي أظبطه إزاي؟", "coda": "هتقول لي اظبطه ازاي؟"}
+{"btec_id": "12247", "example_id": "580", "dialect": "CAI", "pred_dialect": "CAI", "raw": "لفة الباص تخلص ع الساعة كام؟", "coda": "لفة الباص تخلص عالساعة كام؟"}
+{"btec_id": "12254", "example_id": "581", "dialect": "CAI", "pred_dialect": "CAI", "raw": "هو انت تعرف إزاي نستخدم التليفون؟", "coda": "هو انت تعرف ازاي نستخدم التلفون؟"}
+{"btec_id": "12259", "example_id": "582", "dialect": "CAI", "pred_dialect": "CAI", "raw": "أكيد. عندنا فواصل للكتب من نوع أمريكي أصلي جميلة أوي.", "coda": "اكيد. عندنا فواصل للكتب من نوع امريكي اصلي جميلة قوي."}
+{"btec_id": "12298", "example_id": "583", "dialect": "CAI", "pred_dialect": "CAI", "raw": "مشغل مكالمات بيتكلم يباني، من فضلك.", "coda": "مشغل مكالمات بيتكلم ياباني، من فضلك."}
+{"btec_id": "12331", "example_id": "584", "dialect": "CAI", "pred_dialect": "CAI", "raw": "احنا بنحب مجال الفاشون.", "coda": "احنا بنحب مجال الفاشن."}
+{"btec_id": "12333", "example_id": "585", "dialect": "CAI", "pred_dialect": "DOH", "raw": "ممكن تسحب معايا؟", "coda": "ممكن تسحب معاي؟"}
+{"btec_id": "12345", "example_id": "586", "dialect": "CAI", "pred_dialect": "CAI", "raw": "دي عيادة إف؟", "coda": "دي عيادة اف؟"}
+{"btec_id": "12364", "example_id": "587", "dialect": "CAI", "pred_dialect": "CAI", "raw": "أهلا، أستاذ ياماجوتشي؟ الطرف التاني ع الخط. اتصال حضرتك اتقبل. اتفضلي، لو سمحتي.", "coda": "اهلا، استاذ ياماغوتشي؟ الطرف الثاني عالخط. اتصال حضرتك اتقبل. اتفضلي، لو سمحتي."}
+{"btec_id": "12396", "example_id": "588", "dialect": "CAI", "pred_dialect": "CAI", "raw": "هانوصل لوس انجلوس الساعة كام؟", "coda": "هنوصل لوس انجلوس الساعة كام؟"}
+{"btec_id": "12403", "example_id": "589", "dialect": "CAI", "pred_dialect": "CAI", "raw": "أمشي على طول حوالي خمسة دقايق، وادخل شمال.", "coda": "امشي على طول حوالي خمسة دقايق، وادخل شمال."}
+{"btec_id": "12416", "example_id": "590", "dialect": "CAI", "pred_dialect": "CAI", "raw": "هو ده الطريق اللي بيودي للبحر.", "coda": "هو ده الطريق اللي بيودي للبحر."}
+{"btec_id": "12420", "example_id": "591", "dialect": "CAI", "pred_dialect": "CAI", "raw": "شاي الأعشاب ده بيساعد الجسم يستعيد حيويته.", "coda": "شاي الاعشاب ده بيساعد الجسم يستعيد حيويته."}
+{"btec_id": "12421", "example_id": "592", "dialect": "CAI", "pred_dialect": "CAI", "raw": "الحاجات دي مش مصنوعة في اليابان، مش كدة؟", "coda": "الحاجات دي مش مصنوعة في اليابان، مش كدة؟"}
+{"btec_id": "12443", "example_id": "593", "dialect": "CAI", "pred_dialect": "CAI", "raw": "تمام. من هنا لو سمحت. هاوريك أوضتك فين.", "coda": "تمام. من هنا لو سمحت. هاوريك اوضتك فين."}
+{"btec_id": "12479", "example_id": "594", "dialect": "CAI", "pred_dialect": "CAI", "raw": "لازم أسيب الأوتيل قبل الضهر.", "coda": "لازم اسيب الاوتيل قبل الظهر."}
+{"btec_id": "12495", "example_id": "595", "dialect": "CAI", "pred_dialect": "CAI", "raw": "اتنين هامبورجر واتنين قهوة، لو سمحت. عايزهم تيك اواي.", "coda": "اثنين هامبرجر واثنين قهوة، لو سمحت. عايزهم تيك اوي."}
+{"btec_id": "12510", "example_id": "596", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ممكن آخد الشنتطتين دول معايا؟", "coda": "ممكن آخذ الشنتطتين دول معاي؟"}
+{"btec_id": "12527", "example_id": "597", "dialect": "CAI", "pred_dialect": "CAI", "raw": "أنا طلبت لحمة، مش سمك. ممكن تغيرلي ده؟", "coda": "انا طلبت لحمة، مش سمك. ممكن تغير لي ده؟"}
+{"btec_id": "12546", "example_id": "598", "dialect": "CAI", "pred_dialect": "CAI", "raw": "ابني محطم تماما.", "coda": "ابني محطم تماما."}
+{"btec_id": "12551", "example_id": "599", "dialect": "CAI", "pred_dialect": "CAI", "raw": "عايز أرجع.", "coda": "عايز ارجع."}

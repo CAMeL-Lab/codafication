@@ -1,0 +1,300 @@
+{"btec_id": "5", "example_id": "0", "dialect": "BEI", "pred_dialect": "DOH", "raw": "صار هونيك، بالظبط قدام مكتب استعلامات السياح.", "coda": "صار هونيك، بالظبط قدام مكتب استعلامات السياح."}
+{"btec_id": "9", "example_id": "1", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بعمري ما سمعت بهالعنوان هون .", "coda": "بعمري ما سمعت بهالعنوان هون."}
+{"btec_id": "11", "example_id": "2", "dialect": "BEI", "pred_dialect": "BEI", "raw": "روح دغري لحتى تشوف صيدلية.", "coda": "روح دغري لحتى تشوف صيدلية."}
+{"btec_id": "26", "example_id": "3", "dialect": "BEI", "pred_dialect": "BEI", "raw": "أدي حق الترويقة؟", "coda": "قديه حق الترويقة؟"}
+{"btec_id": "27", "example_id": "4", "dialect": "BEI", "pred_dialect": "BEI", "raw": "كيف فيني ساعدك؟", "coda": "كيف فيني ساعدك؟"}
+{"btec_id": "30", "example_id": "5", "dialect": "BEI", "pred_dialect": "BEI", "raw": "روح شمال عالزاوية التالتة.", "coda": "روح شمال عالزاوية الثالثة."}
+{"btec_id": "50", "example_id": "6", "dialect": "BEI", "pred_dialect": "BEI", "raw": "عبالك كريمة و سكر بقهوتك؟", "coda": "عبالك كريمة وسكر بقهوتك؟"}
+{"btec_id": "64", "example_id": "7", "dialect": "BEI", "pred_dialect": "BEI", "raw": "فيك تصرفلي الشيك تبعي تبع المتين دولار؟", "coda": "فيك تصرف لي الشيك تبعي تبع الميتين دولار؟"}
+{"btec_id": "74", "example_id": "8", "dialect": "BEI", "pred_dialect": "BEI", "raw": "إذا لازم يبين، عمل معروف دقلي.", "coda": "اذا لازم يبين، اعمل معروف دق لي."}
+{"btec_id": "86", "example_id": "9", "dialect": "BEI", "pred_dialect": "DOH", "raw": "وين القهوة؟", "coda": "وين القهوة؟"}
+{"btec_id": "87", "example_id": "10", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بدي كنزة للولاد.", "coda": "بدي كنزة للاولاد."}
+{"btec_id": "91", "example_id": "11", "dialect": "BEI", "pred_dialect": "BEI", "raw": "أوك، بيكلف خمس و تمانين سنت للإيميل العادي و تلاتي دولار بالظبط زيادة للتوصيل الخاص.", "coda": "اوك، بيكلف خمس وثمانين سنت للايميل العادي وثلاثين دولار بالظبط زيادة للتوصيل الخاص."}
+{"btec_id": "120", "example_id": "12", "dialect": "BEI", "pred_dialect": "BEI", "raw": "كنت بشتري هيدا إذا أنا كنت محلك.", "coda": "كنت باشتري هيدا اذا انا كنت محلك."}
+{"btec_id": "129", "example_id": "13", "dialect": "BEI", "pred_dialect": "BEI", "raw": "رح يكون في شي صعوبات مع الجمارك؟", "coda": "رح يكون فيه شي صعوبات مع الجمارك؟"}
+{"btec_id": "130", "example_id": "14", "dialect": "BEI", "pred_dialect": "BEI", "raw": "عندك صبابط رسمي تبع الأصابيع العراض؟", "coda": "عندك صبابط رسمي تبع الاصابيع العراض؟"}
+{"btec_id": "140", "example_id": "15", "dialect": "BEI", "pred_dialect": "BEI", "raw": "لاء . بد هيك فيي إقترح أوضة بتختين لإستخدام شخص؟ عنا واحدة.", "coda": "لاء. بدي هيك فيي اقترح اوضة بتختين لاستخدام شخص؟ عننا واحدة."}
+{"btec_id": "143", "example_id": "16", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بدي كيرلي ضيق، إذا بتريد.", "coda": "بدي كيرلي ضيق، اذا بتريد."}
+{"btec_id": "145", "example_id": "17", "dialect": "BEI", "pred_dialect": "TUN", "raw": "بدا بيرة .", "coda": "بدها بيرة."}
+{"btec_id": "157", "example_id": "18", "dialect": "BEI", "pred_dialect": "BEI", "raw": "صباحو . كيفك؟", "coda": "صباحو. كيفك؟"}
+{"btec_id": "158", "example_id": "19", "dialect": "BEI", "pred_dialect": "CAI", "raw": "للأسف محتاج اشوف أي اثبات شخصية.", "coda": "للاسف محتاج اشوف اي اثبات شخصية."}
+{"btec_id": "169", "example_id": "20", "dialect": "BEI", "pred_dialect": "BEI", "raw": "أي نوع صوص؟", "coda": "اي نوع صوص؟"}
+{"btec_id": "170", "example_id": "21", "dialect": "BEI", "pred_dialect": "BEI", "raw": "هيدا شوي بارد. فيك تسخنو؟", "coda": "هيدا شوي بارد. فيك تسخنه؟"}
+{"btec_id": "173", "example_id": "22", "dialect": "BEI", "pred_dialect": "CAI", "raw": "بعتذر محتاج أشوف أي بطاقة اثبات هوية.", "coda": "باعتذر محتاج اشوف اي بطاقة اثبات هوية."}
+{"btec_id": "176", "example_id": "23", "dialect": "BEI", "pred_dialect": "BEI", "raw": "انا منيح. بس فيك تدق لرفيقي؟", "coda": "انا منيح. بس فيك تدق لرفيقي؟"}
+{"btec_id": "177", "example_id": "24", "dialect": "BEI", "pred_dialect": "BEI", "raw": "يسلمو، بيكفي.", "coda": "يسلموا، بيكفي."}
+{"btec_id": "184", "example_id": "25", "dialect": "BEI", "pred_dialect": "CAI", "raw": "مين صاحبك المفضل؟", "coda": "مين صاحبك المفضل؟"}
+{"btec_id": "187", "example_id": "26", "dialect": "BEI", "pred_dialect": "BEI", "raw": "يوم الصحة و الرياضة بعشرة تشرين الأول هوي نهار عطلة عالمي بيهدف لتعزيز صحة البشر.", "coda": "يوم الصحة والرياضة بعشرة تشرين الاول هو نهار عطلة عالمي بيهدف لتعزيز صحة البشر."}
+{"btec_id": "192", "example_id": "27", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بدك مني نبص تحت غطا السيارة؟", "coda": "بدك مني نبص تحت غطا السيارة؟"}
+{"btec_id": "206", "example_id": "28", "dialect": "BEI", "pred_dialect": "BEI", "raw": "فيك تساعدني لاقي شنطتي؟", "coda": "فيك تساعدني لاقي شنطتي؟"}
+{"btec_id": "221", "example_id": "29", "dialect": "BEI", "pred_dialect": "BEI", "raw": "فيك تعمل الترتيبات من قبل؟", "coda": "فيك تعمل الترتيبات من قبل؟"}
+{"btec_id": "238", "example_id": "30", "dialect": "BEI", "pred_dialect": "BEI", "raw": "في حدا بيساعدني. يسلمو.", "coda": "فيه حدا بيساعدني. يسلموا."}
+{"btec_id": "261", "example_id": "31", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بس توصل لهونيك، سأل حدا تاني، عمول معروف.", "coda": "بس توصل لهونيك، اسأل حدا ثاني، اعمول معروف."}
+{"btec_id": "280", "example_id": "32", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بدي مقسم أربعة و عشرين، عمول معروف.", "coda": "بدي مقسم اربعة وعشرين، اعمول معروف."}
+{"btec_id": "285", "example_id": "33", "dialect": "BEI", "pred_dialect": "BEI", "raw": "هودي دولارين. خلي الباقي.", "coda": "هودي دولارين. خلي الباقي."}
+{"btec_id": "315", "example_id": "34", "dialect": "BEI", "pred_dialect": "BEI", "raw": "وحدة هامبرغر و وحدة برغر بالجبنة، عمول معروف.", "coda": "واحدة هامبرغر وواحدة برغر بالجبنة، اعمول معروف."}
+{"btec_id": "319", "example_id": "35", "dialect": "BEI", "pred_dialect": "BEI", "raw": "أدي بتاخد في العملية؟", "coda": "قديه بتاخذ في العملية؟"}
+{"btec_id": "320", "example_id": "36", "dialect": "BEI", "pred_dialect": "BEI", "raw": "كل حدا فينا بيحب يدفع عن أكلو.", "coda": "كل حدا فينا بيحب يدفع عن اكله."}
+{"btec_id": "326", "example_id": "37", "dialect": "BEI", "pred_dialect": "CAI", "raw": "الموقع كان عالكرسي بالردهة.", "coda": "الموقع كان عالكرسي بالردهة."}
+{"btec_id": "333", "example_id": "38", "dialect": "BEI", "pred_dialect": "BEI", "raw": "عمول معروف صرفلي هال ين لجنيهات.", "coda": "اعمول معروف اصرف لي هال ين لجنيهات."}
+{"btec_id": "346", "example_id": "39", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بدي قاموس جيبة، عمول معروف.", "coda": "بدي قاموس جيبة، اعمول معروف."}
+{"btec_id": "360", "example_id": "40", "dialect": "BEI", "pred_dialect": "BEI", "raw": "لشخصين عالسبعة. الإسم هوي واتنابي.", "coda": "لشخصين عالسبعة. الاسم هو واتنابي."}
+{"btec_id": "368", "example_id": "41", "dialect": "BEI", "pred_dialect": "BEI", "raw": "ساعتي. كانت سايكو رقمية.", "coda": "ساعتي. كانت سايكو رقمية."}
+{"btec_id": "370", "example_id": "42", "dialect": "BEI", "pred_dialect": "BEI", "raw": "من دواعي سرورنا نقدملك مشروب من إختيارك، بيتبعو عشا. كتيب كامل عن المشروبات منقدمو على هالرحلة موجود بدليل المعلومات بالمجلة تبعنا.", "coda": "من دواعي سرورنا نقدم لك مشروب من اختيارك، بيتبعه عشا. كتيب كامل عن المشروبات منقدمه على هالرحلة موجود بدليل المعلومات بالمجلة تبعنا."}
+{"btec_id": "373", "example_id": "43", "dialect": "BEI", "pred_dialect": "BEI", "raw": "عايش قريب من هون؟", "coda": "عايش قريب من هون؟"}
+{"btec_id": "375", "example_id": "44", "dialect": "BEI", "pred_dialect": "BEI", "raw": "وين محل الهدايا؟", "coda": "وين محل الهدايا؟"}
+{"btec_id": "386", "example_id": "45", "dialect": "BEI", "pred_dialect": "CAI", "raw": "أنا على أوتوستراد واحد حد خليج مورو.", "coda": "انا على اوتوستراد واحد حد خليج مورو."}
+{"btec_id": "391", "example_id": "46", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بدي ساعة منبه، عمول معروف.", "coda": "بدي ساعة منبه، اعمول معروف."}
+{"btec_id": "398", "example_id": "47", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بالمناسبة، إسمي هيروشي ايجيما.", "coda": "بالمناسبة، اسمي هيروشي ايجيما."}
+{"btec_id": "401", "example_id": "48", "dialect": "BEI", "pred_dialect": "BEI", "raw": "هيدا التران بيوقف بلايك فورست، ما هيك؟", "coda": "هيدا التران بيوقف بلايك فورست، ما هيك؟"}
+{"btec_id": "408", "example_id": "49", "dialect": "BEI", "pred_dialect": "BEI", "raw": "أغلبية اليابانية بياكلوا أخطبوط و حبار.", "coda": "اغلبية اليابانية بياكلوا اخطبوط وحبار."}
+{"btec_id": "416", "example_id": "50", "dialect": "BEI", "pred_dialect": "BEI", "raw": "فيي أخد بطاقتين من الدرجة التانبة عشيكاغو . عمول معروف؟", "coda": "فيي آخذ بطاقتين من الدرجة الثانية عشيكاغو. اعمول معروف؟"}
+{"btec_id": "419", "example_id": "51", "dialect": "BEI", "pred_dialect": "BEI", "raw": "رحت عنيويورك.", "coda": "رحت عنيويورك."}
+{"btec_id": "423", "example_id": "52", "dialect": "BEI", "pred_dialect": "BEI", "raw": "شو هوي رقم الرحلة؟", "coda": "شو هو رقم الرحلة؟"}
+{"btec_id": "442", "example_id": "53", "dialect": "BEI", "pred_dialect": "BEI", "raw": "واحد لنيويورك، عمول معروف.", "coda": "واحد لنيويورك، اعمول معروف."}
+{"btec_id": "446", "example_id": "54", "dialect": "BEI", "pred_dialect": "DOH", "raw": "لبعض كم يوم.", "coda": "لبعض كم يوم."}
+{"btec_id": "447", "example_id": "55", "dialect": "BEI", "pred_dialect": "BEI", "raw": "التاني عالشمال.", "coda": "الثاني عالشمال."}
+{"btec_id": "471", "example_id": "56", "dialect": "BEI", "pred_dialect": "BEI", "raw": "هالبطاقة، تمام؟", "coda": "هالبطاقة، تمام؟"}
+{"btec_id": "488", "example_id": "57", "dialect": "BEI", "pred_dialect": "BEI", "raw": "هيدا مكتب الإستقبال؟ في عيادة قريبة؟", "coda": "هيدا مكتب الاستقبال؟ فيه عيادة قريبة؟"}
+{"btec_id": "493", "example_id": "58", "dialect": "BEI", "pred_dialect": "BEI", "raw": "عشرة دولار بتكفي لتاكسي؟", "coda": "عشرة دولار بتكفي لتاكسي؟"}
+{"btec_id": "503", "example_id": "59", "dialect": "BEI", "pred_dialect": "BEI", "raw": "طعمتو غريبة.", "coda": "طعمته غريبة."}
+{"btec_id": "512", "example_id": "60", "dialect": "BEI", "pred_dialect": "BEI", "raw": "إيه. نعم، رح جيب واحد كرمالك.", "coda": "ايه. نعم، رح جيب واحد كرمالك."}
+{"btec_id": "516", "example_id": "61", "dialect": "BEI", "pred_dialect": "BEI", "raw": "نص قنيتة، عمول معروف.", "coda": "نص قنينة، اعمول معروف."}
+{"btec_id": "540", "example_id": "62", "dialect": "BEI", "pred_dialect": "BEI", "raw": "مش صحيح . بس شي مش غالي.", "coda": "مش صحيح. بس شي مش غالي."}
+{"btec_id": "548", "example_id": "63", "dialect": "BEI", "pred_dialect": "BEI", "raw": "عمتنبش عشي؟", "coda": "عم تنبش عشي؟"}
+{"btec_id": "551", "example_id": "64", "dialect": "BEI", "pred_dialect": "BEI", "raw": "أربع ليالي.", "coda": "اربع ليالي."}
+{"btec_id": "553", "example_id": "65", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بدي كلسات.", "coda": "بدي كلسات."}
+{"btec_id": "565", "example_id": "66", "dialect": "BEI", "pred_dialect": "BEI", "raw": "فيك تعملو أرخص لأنو في شوية؟", "coda": "فيك تعمله ارخص لانه فيه شوية؟"}
+{"btec_id": "571", "example_id": "67", "dialect": "BEI", "pred_dialect": "BEI", "raw": "زلمي شبق فيي. بعدين لاحظت إنو محفظتي راحت.", "coda": "زلمي شبق فيي. بعدين لاحظت انه محفظتي راحت."}
+{"btec_id": "599", "example_id": "68", "dialect": "BEI", "pred_dialect": "BEI", "raw": "مني مأكد إنو ضبيت كفاية تياب لرحلة مدتها تلات أسابيع.", "coda": "ماني مأكد انه ضبيت كفاية ثياب لرحلة مدتها ثلاث اسابيع."}
+{"btec_id": "612", "example_id": "69", "dialect": "BEI", "pred_dialect": "BEI", "raw": "طيب، حابين نجرب نبيد أبيض.", "coda": "طيب، حابين نجرب نبيذ ابيض."}
+{"btec_id": "631", "example_id": "70", "dialect": "BEI", "pred_dialect": "BEI", "raw": "إذا حدا سأل عني، قلن إنو رح كون بالقهوة.", "coda": "اذا حدا سأل عني، قلهن انه رح كون بالقهوة."}
+{"btec_id": "632", "example_id": "71", "dialect": "BEI", "pred_dialect": "BEI", "raw": "أنا مأكد إنو عندي ياه بالجيبة الجوانية تبع كبوتي.", "coda": "انا مأكد انه عندي اياه بالجيبة الجوانية تبع كبوتي."}
+{"btec_id": "641", "example_id": "72", "dialect": "BEI", "pred_dialect": "BEI", "raw": "فيي أخد إسم و رقم الشخص يلي عمبتدقله؟", "coda": "فيي آخذ اسم ورقم الشخص ياللي عم بتدق له؟"}
+{"btec_id": "643", "example_id": "73", "dialect": "BEI", "pred_dialect": "BEI", "raw": "شركة الطيران رح يدفعولي لإشتري شوية غراض شخصية؟", "coda": "شركة الطيران رح يدفعوا لي لاشتري شوية اغراض شخصية؟"}
+{"btec_id": "650", "example_id": "74", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بدي أوضة مع دوش.", "coda": "بدي اوضة مع دوش."}
+{"btec_id": "652", "example_id": "75", "dialect": "BEI", "pred_dialect": "BEI", "raw": "ما في شي طلع من المكنة؟", "coda": "ما في شي طلع من المكنة؟"}
+{"btec_id": "667", "example_id": "76", "dialect": "BEI", "pred_dialect": "BEI", "raw": "كان المفروض إنك تاخد الرحلة تمانة تنين صفر، يلي مشيت من خمستعشر ديقة. تمام. فيي دبرلك رحلة تانية.", "coda": "كان المفروض انك تاخذ الرحلة ثمانة اثنين صفر، ياللي مشيت من خمستعشر دقيقة. تمام. فيي دبر لك رحلة ثانية."}
+{"btec_id": "673", "example_id": "77", "dialect": "BEI", "pred_dialect": "BEI", "raw": "في حدا فضالي الطرد.", "coda": "فيه حدا فضى لي الطرد."}
+{"btec_id": "679", "example_id": "78", "dialect": "BEI", "pred_dialect": "BEI", "raw": "اوه، و لا شي هيدا. إنت هون، عكل حال .", "coda": "اوه، ولا شي هيدا. انت هون، عكل حال."}
+{"btec_id": "680", "example_id": "79", "dialect": "BEI", "pred_dialect": "BEI", "raw": "طيران اليابان، الرحلة رقم واحد تنين تلاتة.", "coda": "طيران اليابان، الرحلة رقم واحد اثنين ثلاثة."}
+{"btec_id": "681", "example_id": "80", "dialect": "BEI", "pred_dialect": "BEI", "raw": "لازم إشتري شامبو.", "coda": "لازم اشتري شامبو."}
+{"btec_id": "683", "example_id": "81", "dialect": "BEI", "pred_dialect": "BEI", "raw": "فيك تقلي بس نوصل على سنتر السيفيك؟", "coda": "فيك تقول لي بس نوصل على سنتر السيفيك؟"}
+{"btec_id": "688", "example_id": "82", "dialect": "BEI", "pred_dialect": "TUN", "raw": "وين أقرب لحام؟", "coda": "وين اقرب لحام؟"}
+{"btec_id": "703", "example_id": "83", "dialect": "BEI", "pred_dialect": "BEI", "raw": "حابين نبقى لأربع ليالي من أول آب.", "coda": "حابين نبقى لاربع ليالي من اول آب."}
+{"btec_id": "708", "example_id": "84", "dialect": "BEI", "pred_dialect": "BEI", "raw": "شو إسم هالزهرة؟", "coda": "شو اسم هالزهرة؟"}
+{"btec_id": "719", "example_id": "85", "dialect": "BEI", "pred_dialect": "BEI", "raw": "خمستعش أيلول هوي يوم لإحترام المسنين.", "coda": "خمستعش ايلول هو يوم لاحترام المسنين."}
+{"btec_id": "723", "example_id": "86", "dialect": "BEI", "pred_dialect": "BEI", "raw": "ما في صابون بأوضتي.", "coda": "ما في صابون باوضتي."}
+{"btec_id": "741", "example_id": "87", "dialect": "BEI", "pred_dialect": "BEI", "raw": "أي شي فيي أخدو كرمال هالطفح الجلدي؟", "coda": "اي شي فيي آخذه كرمال هالطفح الجلدي؟"}
+{"btec_id": "742", "example_id": "88", "dialect": "BEI", "pred_dialect": "BEI", "raw": "فيك تغير الصياغة للشي يلي قلتو؟", "coda": "فيك تغير الصياغة للشي ياللي قلته؟"}
+{"btec_id": "761", "example_id": "89", "dialect": "BEI", "pred_dialect": "BEI", "raw": "أدي من الوقت رح ياخد ليطلب؟", "coda": "قديه من الوقت رح ياخذ ليطلب؟"}
+{"btec_id": "773", "example_id": "90", "dialect": "BEI", "pred_dialect": "BEI", "raw": "فيك تحكي إنت و معلي صوتك، عمول معروف؟", "coda": "فيك تحكي انت ومعلي صوتك، اعمول معروف؟"}
+{"btec_id": "777", "example_id": "91", "dialect": "BEI", "pred_dialect": "BEI", "raw": "أدي وقت رح يصير قبل ما يطلع؟", "coda": "قديه وقت رح يصير قبل ما يطلع؟"}
+{"btec_id": "786", "example_id": "92", "dialect": "BEI", "pred_dialect": "TUN", "raw": "وين معلومات الرياضة؟", "coda": "وين معلومات الرياضة؟"}
+{"btec_id": "787", "example_id": "93", "dialect": "BEI", "pred_dialect": "BEI", "raw": "هالحجم هون، اللي بتسمي حجم عادي، بيمشي .", "coda": "هالحجم هون، اللي بتسميه حجم عادي، بيمشي."}
+{"btec_id": "793", "example_id": "94", "dialect": "BEI", "pred_dialect": "BEI", "raw": "وين الجولة بدا تنتهي، و أمتين؟", "coda": "وين الجولة بدها تنتهي، وامتين؟"}
+{"btec_id": "848", "example_id": "95", "dialect": "BEI", "pred_dialect": "BEI", "raw": "وين لازم غير محطة التران لأوصل عادنبرة؟", "coda": "وين لازم غير محطة التران لاوصل عادنبرة؟"}
+{"btec_id": "855", "example_id": "96", "dialect": "BEI", "pred_dialect": "BEI", "raw": "حابب حط هيدا بصندوق الأمانات .", "coda": "حابب حط هيدا بصندوق الامانات."}
+{"btec_id": "859", "example_id": "97", "dialect": "BEI", "pred_dialect": "BEI", "raw": "وين فيي أصرف مصرياتي؟", "coda": "وين فيي اصرف مصرياتي؟"}
+{"btec_id": "897", "example_id": "98", "dialect": "BEI", "pred_dialect": "BEI", "raw": "فينا نترك غراضنا، ما عدا الإشيا الغالية، بالباص؟", "coda": "فينا نترك اغراضنا، ما عدا الاشيا الغالية، بالباص؟"}
+{"btec_id": "902", "example_id": "99", "dialect": "BEI", "pred_dialect": "BEI", "raw": "عمبتسأل سعر شو هيدا على فاتورتي .", "coda": "عم باتساءل سعر شو هيدا على فاتورتي."}
+{"btec_id": "917", "example_id": "100", "dialect": "BEI", "pred_dialect": "BEI", "raw": "رح إدفع خمسين دولار .", "coda": "رح ادفع خمسين دولار."}
+{"btec_id": "941", "example_id": "101", "dialect": "BEI", "pred_dialect": "BEI", "raw": "هلأ بعرف شو اللي كان غلط.", "coda": "هلق باعرف شو اللي كان غلط."}
+{"btec_id": "957", "example_id": "102", "dialect": "BEI", "pred_dialect": "BEI", "raw": "هيدا إيكيدا عميحكي. عندي حجز لطاولة عالستة و نص هالليلة. بس بعتذر إنو رح أوصل مأخر نص ساعة.", "coda": "هيدا ايكيدا عم يحكي. عندي حجز لطاولة عالستة ونص هالليلة. بس باعتذر انه رح اوصل مأخر نص ساعة."}
+{"btec_id": "1003", "example_id": "103", "dialect": "BEI", "pred_dialect": "BEI", "raw": "كم أوقية من البارفان فيي أخد من دون جمارك؟", "coda": "كم اوقية من البارفان فيي آخذ من دون جمارك؟"}
+{"btec_id": "1007", "example_id": "104", "dialect": "BEI", "pred_dialect": "DOH", "raw": "بس سياحة.", "coda": "بس سياحة."}
+{"btec_id": "1010", "example_id": "105", "dialect": "BEI", "pred_dialect": "BEI", "raw": "هيدا منيح، عمول معروف مضيهن. كيف بتحبهن؟", "coda": "هيدا منيح، اعمول معروف امضيهن. كيف بتحبهن؟"}
+{"btec_id": "1023", "example_id": "106", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بعد عندك مقاعد لأداء الليلة؟", "coda": "بعد عندك مقاعد لاداء الليلة؟"}
+{"btec_id": "1036", "example_id": "107", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بدي واحد كبير .", "coda": "بدي واحد كبير."}
+{"btec_id": "1037", "example_id": "108", "dialect": "BEI", "pred_dialect": "BEI", "raw": "نمت خلال ألارم الستة و نص.", "coda": "نمت خلال الارم الستة ونص."}
+{"btec_id": "1038", "example_id": "109", "dialect": "BEI", "pred_dialect": "CAI", "raw": "أنا مصور مستقل .", "coda": "انا مصور مستقل."}
+{"btec_id": "1047", "example_id": "110", "dialect": "BEI", "pred_dialect": "BEI", "raw": "الموزعين فيهن يصرفولك الدولارات لبخشيش الكازينو. منروح؟", "coda": "الموزعين فيهن يصرفوا لك الدولارات لبخشيش الكازينو. منروح؟"}
+{"btec_id": "1056", "example_id": "111", "dialect": "BEI", "pred_dialect": "BEI", "raw": "عنا حوالي التلاتين نوع من زيوت الحمام .", "coda": "عننا حوالي الثلاثين نوع من زيوت الحمام."}
+{"btec_id": "1062", "example_id": "112", "dialect": "BEI", "pred_dialect": "BEI", "raw": "رح إخد العرض لإلك جمعة الجايي.", "coda": "رح آخذ العرض لالك الجمعة الجايي."}
+{"btec_id": "1074", "example_id": "113", "dialect": "BEI", "pred_dialect": "BEI", "raw": "يسلمو. أدي حق الكفوف؟", "coda": "يسلموا. قديه حق الكفوف؟"}
+{"btec_id": "1098", "example_id": "114", "dialect": "BEI", "pred_dialect": "BEI", "raw": "لازم روح . بدقلك بعدين .", "coda": "لازم روح. بدق لك بعدين."}
+{"btec_id": "1100", "example_id": "115", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بدي شوية حفاضات للكب.", "coda": "بدي شوية حفاضات للكب."}
+{"btec_id": "1122", "example_id": "116", "dialect": "BEI", "pred_dialect": "BEI", "raw": "من وين منشأ هالسمكة الفراشة؟", "coda": "من وين منشأ هالسمكة الفراشة؟"}
+{"btec_id": "1124", "example_id": "117", "dialect": "BEI", "pred_dialect": "BEI", "raw": "فيك تصرفهن للدولار، عمول معروف؟", "coda": "فيك تصرفهن للدولار، اعمول معروف؟"}
+{"btec_id": "1139", "example_id": "118", "dialect": "BEI", "pred_dialect": "BEI", "raw": "نحنا كتير محظوظين. عندهن واحد بقياس أربعة بمحل ألا موانا .", "coda": "نحنا كثير محظوظين. عندهن واحد بقياس اربعة بمحل الا موانا."}
+{"btec_id": "1146", "example_id": "119", "dialect": "BEI", "pred_dialect": "BEI", "raw": "في شي ليموزين؟", "coda": "فيه شي ليموزين؟"}
+{"btec_id": "1163", "example_id": "120", "dialect": "BEI", "pred_dialect": "BEI", "raw": "فيي أحصل على تلفون الوعية عالخمسة و نص بكرا الصبح؟", "coda": "فيي احصل على تلفون الوعية عالخمسة ونص بكرة الصبح؟"}
+{"btec_id": "1165", "example_id": "121", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بفضل أوضة هادية.", "coda": "بافضل اوضة هادية."}
+{"btec_id": "1167", "example_id": "122", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بدي شوية مزيل بويا الضفير .", "coda": "بدي شوية مزيل بويا الضفير."}
+{"btec_id": "1183", "example_id": "123", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بدي بطارية .", "coda": "بدي بطارية."}
+{"btec_id": "1193", "example_id": "124", "dialect": "BEI", "pred_dialect": "CAI", "raw": "في فرقة موسيقية لايف أو دي جي؟", "coda": "في فرقة موسيقية لايف او دي جي؟"}
+{"btec_id": "1194", "example_id": "125", "dialect": "BEI", "pred_dialect": "BEI", "raw": "فيني إستأجر عدة غوص؟", "coda": "فيني استأجر عدة غوص؟"}
+{"btec_id": "1199", "example_id": "126", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بدي إحجز اوضة لأربع ليالي من تنين و عشرين كانون الأول .", "coda": "بدي احجز اوضة لاربع ليالي من اثنين وعشرين كانون الاول."}
+{"btec_id": "1212", "example_id": "127", "dialect": "BEI", "pred_dialect": "BEI", "raw": "هالجزدان مناسب لكل أحوال الطقس؟", "coda": "هالجزدان مناسب لكل احوال الطقس؟"}
+{"btec_id": "1213", "example_id": "128", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بدي دونات، عمول معروف .", "coda": "بدي دونات، اعمول معروف."}
+{"btec_id": "1218", "example_id": "129", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بدي إستأجر سيارة أوتوماتيك ليومين .", "coda": "بدي استأجر سيارة اوتوماتيك ليومين."}
+{"btec_id": "1224", "example_id": "130", "dialect": "BEI", "pred_dialect": "CAI", "raw": "راحت عليي الرحلة عشرين لسان فرانسيسكو.", "coda": "راحت علي الرحلة عشرين لسان فرانسيسكو."}
+{"btec_id": "1234", "example_id": "131", "dialect": "BEI", "pred_dialect": "BEI", "raw": "أدي للمطار؟", "coda": "قديه للمطار؟"}
+{"btec_id": "1235", "example_id": "132", "dialect": "BEI", "pred_dialect": "BEI", "raw": "هيدا منيح. امتين هوي؟", "coda": "هيدا منيح. امتين هو؟"}
+{"btec_id": "1276", "example_id": "133", "dialect": "BEI", "pred_dialect": "BEI", "raw": "أدي عمرا بنتك؟", "coda": "قديه عمرها بنتك؟"}
+{"btec_id": "1312", "example_id": "134", "dialect": "BEI", "pred_dialect": "BEI", "raw": "فيك تقلي عن كم أوتيل نضيف و رخيص؟", "coda": "فيك تقول لي عن كم اوتيل نضيف ورخيص؟"}
+{"btec_id": "1321", "example_id": "135", "dialect": "BEI", "pred_dialect": "BEI", "raw": "فينا نحجزلك أوضة مريحة بقصر قديم حد نادي غولف مشهور .", "coda": "فينا نحجز لك اوضة مريحة بقصر قديم حد نادي غولف مشهور."}
+{"btec_id": "1329", "example_id": "136", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بنصح بهيدا لإنو مصنوع مية بالمية من مكونات طبيعية.", "coda": "بانصح بهيدا لانه مصنوع مية بالمية من مكونات طبيعية."}
+{"btec_id": "1361", "example_id": "137", "dialect": "BEI", "pred_dialect": "BEI", "raw": "التران بيوقف ببرايتون؟", "coda": "التران بيوقف ببرايتون؟"}
+{"btec_id": "1369", "example_id": "138", "dialect": "BEI", "pred_dialect": "BEI", "raw": "فيك تقلي وين فيني إخد تاكسي؟", "coda": "فيك تقول لي وين فيني آخذ تاكسي؟"}
+{"btec_id": "1375", "example_id": "139", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بطاقتين بالدرجة التاني، عمول معروف .", "coda": "بطاقتين بالدرجة الثاني، اعمول معروف."}
+{"btec_id": "1384", "example_id": "140", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بدي إبعت فاكس .", "coda": "بدي ابعث فاكس."}
+{"btec_id": "1394", "example_id": "141", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بدي مكواية للسفر .", "coda": "بدي مكواية للسفر."}
+{"btec_id": "1396", "example_id": "142", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بقدملك أي شي؟", "coda": "بقدم لك اي شي؟"}
+{"btec_id": "1404", "example_id": "143", "dialect": "BEI", "pred_dialect": "BEI", "raw": "يومي؟ خايف إسأل، بس شو بتقصد؟", "coda": "يومي؟ خايف اسأل، بس شو بتقصد؟"}
+{"btec_id": "1418", "example_id": "144", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بدي واحد اللي بيحمل الورقة تبع الحجم العادي من دون ما أطويهن.", "coda": "بدي واحد اللي بيحمل الورقة تبع الحجم العادي من دون ما اطويهن."}
+{"btec_id": "1433", "example_id": "145", "dialect": "BEI", "pred_dialect": "CAI", "raw": "إيه، بس مش كتير قوي .", "coda": "ايه، بس مش كثير قوي."}
+{"btec_id": "1434", "example_id": "146", "dialect": "BEI", "pred_dialect": "CAI", "raw": "أنا حساس عالبسينات .", "coda": "انا حساس عالبسينات."}
+{"btec_id": "1436", "example_id": "147", "dialect": "BEI", "pred_dialect": "CAI", "raw": "إيه، لازم يكون عندك دفتر سواقة و، أه، و لازم يكون في عندك رخصة من لجنة التاكسي و الليموزين .", "coda": "ايه، لازم يكون عندك دفتر سواقة و#، آه، ولازم يكون فيه عندك رخصة من لجنة التاكسي والليموزين."}
+{"btec_id": "1462", "example_id": "148", "dialect": "BEI", "pred_dialect": "BEI", "raw": "تفضل، يا إستاذ.", "coda": "تفضل، يا استاذ."}
+{"btec_id": "1465", "example_id": "149", "dialect": "BEI", "pred_dialect": "BEI", "raw": "الهيئة إنو مش عم فيي إخد ماي سخنة .", "coda": "الهيئة انه مش عم فيي آخذ ماي سخنة."}
+{"btec_id": "1474", "example_id": "150", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بدي إحجز أوضة لليلة .", "coda": "بدي احجز اوضة لليلة."}
+{"btec_id": "1492", "example_id": "151", "dialect": "BEI", "pred_dialect": "BEI", "raw": "لاء، ما بيتضمن الضريبة و سعر الخدمة .", "coda": "لاء، ما بيتضمن الضريبة وسعر الخدمة."}
+{"btec_id": "1506", "example_id": "152", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بتحب تروح معي عالتسوق بعد الضهر؟", "coda": "بتحب تروح معي عالتسوق بعد الظهر؟"}
+{"btec_id": "1508", "example_id": "153", "dialect": "BEI", "pred_dialect": "BEI", "raw": "مرحبا، هيدا عنجد فستان حلو .", "coda": "مرحبا، هيدا عن جد فستان حلو."}
+{"btec_id": "1519", "example_id": "154", "dialect": "BEI", "pred_dialect": "BEI", "raw": "هلأ، إتصالك مشي حالو . اذا بتريد تفضل .", "coda": "هلق، اتصالك مشي حاله. اذا بتريد تفضل."}
+{"btec_id": "1525", "example_id": "155", "dialect": "BEI", "pred_dialect": "BEI", "raw": "شو رقم البوابة؟", "coda": "شو رقم البوابة؟"}
+{"btec_id": "1539", "example_id": "156", "dialect": "BEI", "pred_dialect": "BEI", "raw": "شو هوي تذكار مثالي من هاواي؟", "coda": "شو هو تذكار مثالي من هاواي؟"}
+{"btec_id": "1556", "example_id": "157", "dialect": "BEI", "pred_dialect": "BEI", "raw": "فيي روح لهونيك بالمترو؟", "coda": "فيي روح لهونيك بالمترو؟"}
+{"btec_id": "1560", "example_id": "158", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بدي سيشوار.", "coda": "بدي سشوار."}
+{"btec_id": "1562", "example_id": "159", "dialect": "BEI", "pred_dialect": "BEI", "raw": "رح نوصل لمطرح نحنا و عمنحكي هيك؟", "coda": "رح نوصل لمطرح نحنا وعم نحكي هيك؟"}
+{"btec_id": "1585", "example_id": "160", "dialect": "BEI", "pred_dialect": "BEI", "raw": "جايي من النروج .", "coda": "جاي من النرويج."}
+{"btec_id": "1603", "example_id": "161", "dialect": "BEI", "pred_dialect": "BEI", "raw": "من عشرة لتناعش عمول معروف .", "coda": "من عشرة لتناعش اعمول معروف."}
+{"btec_id": "1619", "example_id": "162", "dialect": "BEI", "pred_dialect": "BEI", "raw": "أكيد. خليني شوفو. تأذيت من المرجان، بفتكر .", "coda": "اكيد. خليني شوفه. تأذيت من المرجان، بافتكر."}
+{"btec_id": "1620", "example_id": "163", "dialect": "BEI", "pred_dialect": "BEI", "raw": "احتياط، خلي يكون في معي رقم الشخص المسؤول .", "coda": "احتياط، خلي يكون فيه معي رقم الشخص المسؤول."}
+{"btec_id": "1622", "example_id": "164", "dialect": "BEI", "pred_dialect": "DOH", "raw": "في طريق سريع؟", "coda": "فيه طريق سريع؟"}
+{"btec_id": "1630", "example_id": "165", "dialect": "BEI", "pred_dialect": "BEI", "raw": "لي ما إجا عالحفلة مبارح؟", "coda": "ليه ما اجا عالحفلة امبارح؟"}
+{"btec_id": "1637", "example_id": "166", "dialect": "BEI", "pred_dialect": "BEI", "raw": "في حادث سير .", "coda": "فيه حادث سير."}
+{"btec_id": "1650", "example_id": "167", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بعتذر، أخدت الرقم الغلط.", "coda": "باعتذر، اخذت الرقم الغلط."}
+{"btec_id": "1653", "example_id": "168", "dialect": "BEI", "pred_dialect": "BEI", "raw": "عمول معروف دخل رقمك .", "coda": "اعمول معروف دخل رقمك."}
+{"btec_id": "1663", "example_id": "169", "dialect": "BEI", "pred_dialect": "BEI", "raw": "ما فيي ظبط الصورة .", "coda": "ما فيي ظبط الصورة."}
+{"btec_id": "1668", "example_id": "170", "dialect": "BEI", "pred_dialect": "BEI", "raw": "وحدة برغر بالجبنة و عصير ليمون، عمول معروف .", "coda": "واحدة برغر بالجبنة وعصير ليمون، اعمول معروف."}
+{"btec_id": "1670", "example_id": "171", "dialect": "BEI", "pred_dialect": "BEI", "raw": "هيدا باسبوري .", "coda": "هيدا باسبوري."}
+{"btec_id": "1682", "example_id": "172", "dialect": "BEI", "pred_dialect": "BEI", "raw": "ليش، يسلمو كتير . أه، فيي أطلع عالقمة؟", "coda": "ليش، يسلموا كثير. آه، فيي اطلع عالقمة؟"}
+{"btec_id": "1702", "example_id": "173", "dialect": "BEI", "pred_dialect": "BEI", "raw": "فيي إخد بطاقتين للحفلة الموسيقية لنهار جمعة الجايي؟", "coda": "فيي آخذ بطاقتين للحفلة الموسيقية لنهار الجمعة الجايي؟"}
+{"btec_id": "1718", "example_id": "174", "dialect": "BEI", "pred_dialect": "BEI", "raw": "راكب تاني هونيك قال إنو بيقدر يغير المقاعد معك .", "coda": "راكب ثاني هونيك قال انه بيقدر يغير المقاعد معك."}
+{"btec_id": "1754", "example_id": "175", "dialect": "BEI", "pred_dialect": "BEI", "raw": "فيي مدد إقامتي؟", "coda": "فيي مدد اقامتي؟"}
+{"btec_id": "1766", "example_id": "176", "dialect": "BEI", "pred_dialect": "BEI", "raw": "قول، بتعرف أي شي خرج ينشاف قريب من هون؟", "coda": "قول، بتعرف اي شي خرج ينشاف قريب من هون؟"}
+{"btec_id": "1768", "example_id": "177", "dialect": "BEI", "pred_dialect": "CAI", "raw": "لأ، عايز أأجر نص مجموعة من المضار وصباط .", "coda": "لأ، عايز اأجر نص مجموعة من المضارب وصباط."}
+{"btec_id": "1782", "example_id": "178", "dialect": "BEI", "pred_dialect": "BEI", "raw": "فيك تعطيني خبر بس يلتقى الجزدان الضايع؟", "coda": "فيك تعطيني خبر بس يلتقى الجزدان الضايع؟"}
+{"btec_id": "1788", "example_id": "179", "dialect": "BEI", "pred_dialect": "BEI", "raw": "شو إسم هالجنينة الوطنية؟", "coda": "شو اسم هالجنينة الوطنية؟"}
+{"btec_id": "1791", "example_id": "180", "dialect": "BEI", "pred_dialect": "CAI", "raw": "عندي خدش .", "coda": "عندي خدش."}
+{"btec_id": "1792", "example_id": "181", "dialect": "BEI", "pred_dialect": "BEI", "raw": "وين في محل منيح للسياحة؟", "coda": "وين فيه محل منيح للسياحة؟"}
+{"btec_id": "1800", "example_id": "182", "dialect": "BEI", "pred_dialect": "BEI", "raw": "فيي إخد شوية فواكي؟", "coda": "فيي آخذ شوية فواكي؟"}
+{"btec_id": "1834", "example_id": "183", "dialect": "BEI", "pred_dialect": "BEI", "raw": "فيي إتغدى هلأ؟", "coda": "فيي اتغدى هلق؟"}
+{"btec_id": "1837", "example_id": "184", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بحاجة لغير هالدولار.", "coda": "بحاجة لغير هالدولار."}
+{"btec_id": "1867", "example_id": "185", "dialect": "BEI", "pred_dialect": "CAI", "raw": "عايز تاكسي . أنا بساوث ماين و ليبرتي .", "coda": "عايز تاكسي. انا بساوث مين وليبرتي."}
+{"btec_id": "1876", "example_id": "186", "dialect": "BEI", "pred_dialect": "CAI", "raw": "أكيد، عايز كيرلي؟", "coda": "اكيد، عايز كيرلي؟"}
+{"btec_id": "1878", "example_id": "187", "dialect": "BEI", "pred_dialect": "BEI", "raw": "منا تفاحة بس دراقة .", "coda": "مانها تفاحة بس دراقة."}
+{"btec_id": "1903", "example_id": "188", "dialect": "BEI", "pred_dialect": "BEI", "raw": "رح أعطيك وصفة . خدا عالصيدلية .", "coda": "رح اعطيك وصفة. خذها عالصيدلية."}
+{"btec_id": "1927", "example_id": "189", "dialect": "BEI", "pred_dialect": "CAI", "raw": "منطير تلات مرات بالجمعة، تلاتة، جمعة، و سبت .", "coda": "منطير ثلاث مرات بالجمعة، الثلاثة، الجمعة، والسبت."}
+{"btec_id": "1931", "example_id": "190", "dialect": "BEI", "pred_dialect": "BEI", "raw": "هيدا غالي، ما هيك؟", "coda": "هيدا غالي، ما هيك؟"}
+{"btec_id": "1948", "example_id": "191", "dialect": "BEI", "pred_dialect": "BEI", "raw": "إيه، عنا هيدا . رح نحضرلك ياه .", "coda": "ايه، عننا هيدا. رح نحضر لك اياه."}
+{"btec_id": "1950", "example_id": "192", "dialect": "BEI", "pred_dialect": "BEI", "raw": "فيك تحملي شنطاتي للساعة تلاتة؟", "coda": "فيك تحمل لي شنطاتي للساعة ثلاثة؟"}
+{"btec_id": "1951", "example_id": "193", "dialect": "BEI", "pred_dialect": "BEI", "raw": "لاء، بس بدي إنزل.", "coda": "لاء، بس بدي انزل."}
+{"btec_id": "1954", "example_id": "194", "dialect": "BEI", "pred_dialect": "BEI", "raw": "فيي إحجز استأجر-سيارة هون؟", "coda": "فيي احجز استأجر-سيارة هون؟"}
+{"btec_id": "1968", "example_id": "195", "dialect": "BEI", "pred_dialect": "BEI", "raw": "إنت أميركاني؟", "coda": "انت اميركاني؟"}
+{"btec_id": "1980", "example_id": "196", "dialect": "BEI", "pred_dialect": "BEI", "raw": "لهالمطرح، عمول معروف .", "coda": "لهالمطرح، اعمول معروف."}
+{"btec_id": "1985", "example_id": "197", "dialect": "BEI", "pred_dialect": "BEI", "raw": "سيارتي تعطلت .", "coda": "سيارتي تعطلت."}
+{"btec_id": "1988", "example_id": "198", "dialect": "BEI", "pred_dialect": "DOH", "raw": "وين كحلة العيون؟", "coda": "وين كحلة العيون؟"}
+{"btec_id": "1993", "example_id": "199", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بدنا زاوية هادية، إذا في مجال .", "coda": "بدنا زاوية هادية، اذا فيه مجال."}
+{"btec_id": "11342", "example_id": "200", "dialect": "BEI", "pred_dialect": "BEI", "raw": "سكوتش مع مي، إذا بتريد. وعندك اي وجبات خفيفة؟", "coda": "سكوتش مع مي، اذا بتريد. وعندك اي وجبات خفيفة؟"}
+{"btec_id": "11343", "example_id": "201", "dialect": "BEI", "pred_dialect": "BEI", "raw": "كيف بطفي هيدا الضو؟", "coda": "كيف باطفي هيدا الضو؟"}
+{"btec_id": "11360", "example_id": "202", "dialect": "BEI", "pred_dialect": "CAI", "raw": "هو مشغول كتير اليوم؟", "coda": "هو مشغول كثير اليوم؟"}
+{"btec_id": "11374", "example_id": "203", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بدي خيطان .", "coda": "بدي خيطان."}
+{"btec_id": "11375", "example_id": "204", "dialect": "BEI", "pred_dialect": "BEI", "raw": "اعطيني شهادة طبية، إذا بتريد .", "coda": "اعطيني شهادة طبية، اذا بتريد."}
+{"btec_id": "11378", "example_id": "205", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بدي تقصرو إينش واحدة هون .", "coda": "بدي تقصره اينش واحدة هون."}
+{"btec_id": "11392", "example_id": "206", "dialect": "BEI", "pred_dialect": "BEI", "raw": "ما حاسس حالي منيح. عطيني دوا .", "coda": "ما حاسس حالي منيح. اعطيني دوا."}
+{"btec_id": "11403", "example_id": "207", "dialect": "BEI", "pred_dialect": "BEI", "raw": "فيني اخد جريدة يابانية، إذا بتريد ؟", "coda": "فيني آخذ جريدة يابانية، اذا بتريد؟"}
+{"btec_id": "11404", "example_id": "208", "dialect": "BEI", "pred_dialect": "BEI", "raw": "اوك . فيني اترك السيارة باي مكان؟ وقديه الكلفة؟", "coda": "اوك. فيني اترك السيارة باي مكان؟ وقديه الكلفة؟"}
+{"btec_id": "11412", "example_id": "209", "dialect": "BEI", "pred_dialect": "BEI", "raw": "اي باص بروح عوسط المدينة؟", "coda": "اي باص بيروح عوسط المدينة؟"}
+{"btec_id": "11420", "example_id": "210", "dialect": "BEI", "pred_dialect": "BEI", "raw": "في اكسبريس عبوسطن؟", "coda": "فيه اكسبريس عبوسطن؟"}
+{"btec_id": "11435", "example_id": "211", "dialect": "BEI", "pred_dialect": "BEI", "raw": "إذا بتريد كون رفيقي بالمراسلة.", "coda": "اذا بتريد كون رفيقي بالمراسلة."}
+{"btec_id": "11442", "example_id": "212", "dialect": "BEI", "pred_dialect": "BEI", "raw": "انا كتير محمس، وما قادر اهدا .", "coda": "انا كثير محمس، وما قادر اهدا."}
+{"btec_id": "11449", "example_id": "213", "dialect": "BEI", "pred_dialect": "BEI", "raw": "فيني انزل باوتيل الهيلتون؟", "coda": "فيني انزل باوتيل الهيلتون؟"}
+{"btec_id": "11450", "example_id": "214", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بدي ياك تشيلو .", "coda": "بدي ياك تشيله."}
+{"btec_id": "11457", "example_id": "215", "dialect": "BEI", "pred_dialect": "BEI", "raw": "امشي شمال بهالشارع، بعدين خود اول مفرق عاليمين.", "coda": "امشي شمال بهالشارع، بعدين خوذ اول مفرق عاليمين."}
+{"btec_id": "11462", "example_id": "216", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بدي أعرف اذا كان ممكن انو نشحن طقم الصحون عطوكيو.", "coda": "بدي اعرف اذا كان ممكن انه نشحن طقم الصحون عطوكيو."}
+{"btec_id": "11467", "example_id": "217", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بدي مقو للجسم .", "coda": "بدي مقو للجسم."}
+{"btec_id": "11478", "example_id": "218", "dialect": "BEI", "pred_dialect": "BEI", "raw": "في شي اكل مش سخن وحر؟", "coda": "فيه شي اكل مش سخن وحر؟"}
+{"btec_id": "11479", "example_id": "219", "dialect": "BEI", "pred_dialect": "BEI", "raw": "قريب فينا نروح مشي؟", "coda": "قريب فينا نروح مشي؟"}
+{"btec_id": "11493", "example_id": "220", "dialect": "BEI", "pred_dialect": "CAI", "raw": "ممكن تقربلي الملح؟", "coda": "ممكن تقرب لي الملح؟"}
+{"btec_id": "11500", "example_id": "221", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بدي روح إلى وول ستريت. كيف بوصل لهونيك؟", "coda": "بدي روح الى وول ستريت. كيف باوصل لهونيك؟"}
+{"btec_id": "11541", "example_id": "222", "dialect": "BEI", "pred_dialect": "BEI", "raw": "التمرين كتير بيعملك ضرر .", "coda": "التمرين كثير بيعمل لك ضرر."}
+{"btec_id": "11544", "example_id": "223", "dialect": "BEI", "pred_dialect": "BEI", "raw": "الترويقة، الضريبة، و كلفة الخدمة، بكون خمسة و اربعين دولار عالشخص بالليلة .", "coda": "الترويقة، الضريبة، وكلفة الخدمة، بيكون خمسة واربعين دولار عالشخص بالليلة."}
+{"btec_id": "11550", "example_id": "224", "dialect": "BEI", "pred_dialect": "BEI", "raw": "فيك تصلح هيدا؟", "coda": "فيك تصلح هيدا؟"}
+{"btec_id": "11574", "example_id": "225", "dialect": "BEI", "pred_dialect": "DOH", "raw": "مسا الخير، الو .", "coda": "مسا الخير، الو."}
+{"btec_id": "11576", "example_id": "226", "dialect": "BEI", "pred_dialect": "BEI", "raw": "ما عملاقي شناطك.", "coda": "ما عم لاقي شناطك."}
+{"btec_id": "11595", "example_id": "227", "dialect": "BEI", "pred_dialect": "BEI", "raw": "روح دغري، إذا بتريد .", "coda": "روح دغري، اذا بتريد."}
+{"btec_id": "11600", "example_id": "228", "dialect": "BEI", "pred_dialect": "BEI", "raw": "المي هون للشرب؟", "coda": "المي هون للشرب؟"}
+{"btec_id": "11622", "example_id": "229", "dialect": "BEI", "pred_dialect": "DOH", "raw": "اه، يلا، بس دولارين .", "coda": "آه، يلا، بس دولارين."}
+{"btec_id": "11626", "example_id": "230", "dialect": "BEI", "pred_dialect": "BEI", "raw": "فيك إذا بتريد تبدل هالفستان بقياس اكبر ؟", "coda": "فيك اذا بتريد تبدل هالفستان بقياس اكبر؟"}
+{"btec_id": "11631", "example_id": "231", "dialect": "BEI", "pred_dialect": "BEI", "raw": "ايه خلينا نروح. بساعدك بالوظيفة بعد ما ناكل بيتزا .", "coda": "ايه خلينا نروح. باساعدك بالوظيفة بعد ما ناكل بيتزا."}
+{"btec_id": "11633", "example_id": "232", "dialect": "BEI", "pred_dialect": "BEI", "raw": "ايه مس تاناكا . في رسالتين الك .", "coda": "ايه مس تاناكا. فيه رسالتين الك."}
+{"btec_id": "11643", "example_id": "233", "dialect": "BEI", "pred_dialect": "BEI", "raw": "ما بيجي عقدي.", "coda": "ما بيجي عقدي."}
+{"btec_id": "11646", "example_id": "234", "dialect": "BEI", "pred_dialect": "TUN", "raw": "بكرا نهار اخر .", "coda": "بكرة نهار آخر."}
+{"btec_id": "11663", "example_id": "235", "dialect": "BEI", "pred_dialect": "BEI", "raw": "يمكن فيي ساعدك . بدك فيتامين سي؟", "coda": "يمكن فيي ساعدك. بدك فيتامين سي؟"}
+{"btec_id": "11689", "example_id": "236", "dialect": "BEI", "pred_dialect": "BEI", "raw": "انسرقت المحفظة من جيبتي بالترين .", "coda": "انسرقت المحفظة من جيبتي بالترين."}
+{"btec_id": "11704", "example_id": "237", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بعيد كتير . الأحسن تاخد تاكسي .", "coda": "بعيد كثير. الاحسن تاخذ تاكسي."}
+{"btec_id": "11708", "example_id": "238", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بدي مقعد بالممر، إذا بتريد .", "coda": "بدي مقعد بالممر، اذا بتريد."}
+{"btec_id": "11709", "example_id": "239", "dialect": "BEI", "pred_dialect": "BEI", "raw": "عايش بشقة اجارا تمانين الف ين بالشهر .", "coda": "عايش بشقة اجارها ثمانين الف ين بالشهر."}
+{"btec_id": "11714", "example_id": "240", "dialect": "BEI", "pred_dialect": "BEI", "raw": "فيي قاطع؟", "coda": "فيي قاطع؟"}
+{"btec_id": "11734", "example_id": "241", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بعد إزنك. فينا نبدل مطارح إذا ما في إزعاج؟", "coda": "بعد اذنك. فينا نبدل مطارح اذا ما فيه ازعاج؟"}
+{"btec_id": "11746", "example_id": "242", "dialect": "BEI", "pred_dialect": "BEI", "raw": "إي أكيد.", "coda": "اي اكيد."}
+{"btec_id": "11751", "example_id": "243", "dialect": "BEI", "pred_dialect": "BEI", "raw": "امشي للزاوية ولف عالشمال حد إشارة السير.", "coda": "امشي للزاوية ولف عالشمال حد اشارة السير."}
+{"btec_id": "11800", "example_id": "244", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بدي حط غراضي التمينة بخزنة الفندق.", "coda": "بدي حط اغراضي الثمينة بخزنة الفندق."}
+{"btec_id": "11821", "example_id": "245", "dialect": "BEI", "pred_dialect": "BEI", "raw": "إي، بس تأكد إنو البطاءة تبعك معك.", "coda": "اي، بس تأكد انه البطاقة تبعك معك."}
+{"btec_id": "11862", "example_id": "246", "dialect": "BEI", "pred_dialect": "BEI", "raw": "ما رح ينضم للجولة الإختيارية إلا ناس قليلة.", "coda": "ما رح ينضم للجولة الاختيارية الا ناس قليلة."}
+{"btec_id": "11872", "example_id": "247", "dialect": "BEI", "pred_dialect": "BEI", "raw": "مش مهم. على كل حال، إزا بتريد خدني على وسط تشاينا تاون. رح جرب إكتشفا لحالي.", "coda": "مش مهم. على كل حال، اذا بتريد خذني على وسط تشاينا تاون. رح جرب اكتشفها لحالي."}
+{"btec_id": "11879", "example_id": "248", "dialect": "BEI", "pred_dialect": "BEI", "raw": "رح يوظفو ناس جداد بنيسان.", "coda": "رح يوظفوا ناس جداد بنيسان."}
+{"btec_id": "11880", "example_id": "249", "dialect": "BEI", "pred_dialect": "BEI", "raw": "إنشاالله.", "coda": "ان شاء الله."}
+{"btec_id": "11885", "example_id": "250", "dialect": "BEI", "pred_dialect": "BEI", "raw": "تنان سكوتش ومي، إزا بتريد.", "coda": "اثنين سكوتش ومي، اذا بتريد."}
+{"btec_id": "11901", "example_id": "251", "dialect": "BEI", "pred_dialect": "BEI", "raw": "مين عم يلعب؟", "coda": "مين عم يلعب؟"}
+{"btec_id": "11916", "example_id": "252", "dialect": "BEI", "pred_dialect": "BEI", "raw": "إزا بتريد، عالشمال.", "coda": "اذا بتريد، عالشمال."}
+{"btec_id": "11949", "example_id": "253", "dialect": "BEI", "pred_dialect": "BEI", "raw": "عم يوجعني سني الإدماني.", "coda": "عم يوجعني سني القداماني."}
+{"btec_id": "11959", "example_id": "254", "dialect": "BEI", "pred_dialect": "BEI", "raw": "شو أجدد لعبة للكومبوتر لولد عمرو خمس تعشر سنة؟", "coda": "شو اجدد لعبة للكومبوتر لولد عمره خمستعشر سنة؟"}
+{"btec_id": "11972", "example_id": "255", "dialect": "BEI", "pred_dialect": "BEI", "raw": "منشوفك بكرا.", "coda": "منشوفك بكرة."}
+{"btec_id": "11975", "example_id": "256", "dialect": "BEI", "pred_dialect": "BEI", "raw": "لأ، كلك زوء. صرت أحسن.", "coda": "لأ، كلك زوء. صرت احسن."}
+{"btec_id": "11976", "example_id": "257", "dialect": "BEI", "pred_dialect": "DOH", "raw": "عندك خبز؟", "coda": "عندك خبز؟"}
+{"btec_id": "11977", "example_id": "258", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بتعزف منيح عالكمانجة؟", "coda": "بتعزف منيح عالكمانجة؟"}
+{"btec_id": "11990", "example_id": "259", "dialect": "BEI", "pred_dialect": "BEI", "raw": "رفيئي زحط ووأع بالحمام.", "coda": "رفيقي زحط ووقع بالحمام."}
+{"btec_id": "11991", "example_id": "260", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بقدر آخد منفضة؟", "coda": "باقدر آخذ منفضة؟"}
+{"btec_id": "11997", "example_id": "261", "dialect": "BEI", "pred_dialect": "BEI", "raw": "كانت الديانة المسيحية ممنوعة وكان البلد معزول عن بائي العالم.", "coda": "كانت الديانة المسيحية ممنوعة وكان البلد معزول عن باقي العالم."}
+{"btec_id": "12005", "example_id": "262", "dialect": "BEI", "pred_dialect": "BEI", "raw": "أديش بدك؟", "coda": "قديش بدك؟"}
+{"btec_id": "12012", "example_id": "263", "dialect": "BEI", "pred_dialect": "BEI", "raw": "كوكتيل قريدس لئلا ولئلي كمان.", "coda": "كوكتيل قريدس لالها ولالي كمان."}
+{"btec_id": "12033", "example_id": "264", "dialect": "BEI", "pred_dialect": "BEI", "raw": "فيك تمضي هون؟ وإزا بتريد كتوب أول حرف من إسمك هون.", "coda": "فيك تمضي هون؟ واذا بتريد اكتوب اول حرف من اسمك هون."}
+{"btec_id": "12035", "example_id": "265", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بشرفني إني زرت مكتبك وإني تحدست معك. بشكرك كتير على تعاونك.", "coda": "بشرفني اني زرت مكتبك واني تحدثت معك. باشكرك كثير على تعاونك."}
+{"btec_id": "12054", "example_id": "266", "dialect": "BEI", "pred_dialect": "DOH", "raw": "شخيرك مزعج.", "coda": "شخيرك مزعج."}
+{"btec_id": "12056", "example_id": "267", "dialect": "BEI", "pred_dialect": "BEI", "raw": "عكل حال ما حبيت اللون. بقدر رجعو؟", "coda": "عكل حال ما حبيت اللون. باقدر رجعه؟"}
+{"btec_id": "12069", "example_id": "268", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بقدر آخد شوية بهار؟", "coda": "باقدر آخذ شوية بهار؟"}
+{"btec_id": "12101", "example_id": "269", "dialect": "BEI", "pred_dialect": "BEI", "raw": "أنا السيد تاكاهاشي بالأوضة رقم خمس مية وتسعة وأربعين. فيك تبعتلي أربع أناني بيرة بودوايزر، إزا بتريد؟", "coda": "انا السيد تاكاهاشي بالاوضة رقم خمسمية وتسعة واربعين. فيك تبعث لي اربع قناني بيرة بدوايزر، اذا بتريد؟"}
+{"btec_id": "12131", "example_id": "270", "dialect": "BEI", "pred_dialect": "BEI", "raw": "هيدا بسبعين دولار.", "coda": "هيدا بسبعين دولار."}
+{"btec_id": "12140", "example_id": "271", "dialect": "BEI", "pred_dialect": "BEI", "raw": "إزا بتريد اتصلي بالأوتيل بس تلائيلي الشنط.", "coda": "اذا بتريد اتصل لي بالاوتيل بس تلاقي لي الشنط."}
+{"btec_id": "12150", "example_id": "272", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بدي إتصال يوعيني بكرا الساعة تمانة ونص الصبح، إزا بتريد.", "coda": "بدي اتصال يوعيني بكرة الساعة ثمانة ونص الصبح، اذا بتريد."}
+{"btec_id": "12167", "example_id": "273", "dialect": "BEI", "pred_dialect": "BEI", "raw": "إي، بس هيدول كتار وأنا شبعت.", "coda": "اي، بس هدول كثار وانا شبعت."}
+{"btec_id": "12172", "example_id": "274", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بدي غسول للفم.", "coda": "بدي غسول للفم."}
+{"btec_id": "12173", "example_id": "275", "dialect": "BEI", "pred_dialect": "BEI", "raw": "ماني مرتاح.", "coda": "ماني مرتاح."}
+{"btec_id": "12182", "example_id": "276", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بتعمل حسومات بالجملة؟", "coda": "بتعمل خصومات بالجملة؟"}
+{"btec_id": "12193", "example_id": "277", "dialect": "BEI", "pred_dialect": "BEI", "raw": "طوكيو صفر تلاتة أربع تسعات أبعة خمسة ستة سبعة.", "coda": "طوكيو صفر ثلاثة اربع تسعات اربعة خمسة ستة سبعة."}
+{"btec_id": "12240", "example_id": "278", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بتساعدني تا لائي الزو؟", "coda": "بتساعدني تلاقي الزو؟"}
+{"btec_id": "12246", "example_id": "279", "dialect": "BEI", "pred_dialect": "BEI", "raw": "فيك تئلي كيف بزبطو؟", "coda": "فيك تقول لي كيف باظبطه؟"}
+{"btec_id": "12247", "example_id": "280", "dialect": "BEI", "pred_dialect": "BEI", "raw": "أي ساعة تأريب ا بيجي الباص؟", "coda": "اي ساعة تقريبا بييجي الباص؟"}
+{"btec_id": "12254", "example_id": "281", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بتعرف كيف بيستعملو التليفون؟", "coda": "بتعرف كيف بيستعملوا التلفون؟"}
+{"btec_id": "12259", "example_id": "282", "dialect": "BEI", "pred_dialect": "BEI", "raw": "أكيد. عنا علامات كتب كتير حلوين اصليين من امريكا.", "coda": "اكيد. عننا علامات كتب كثير حلوين اصليين من امريكا."}
+{"btec_id": "12298", "example_id": "283", "dialect": "BEI", "pred_dialect": "BEI", "raw": "عامل مكالمات بيحكي ياباني، إزا بتريد.", "coda": "عامل مكالمات بيحكي ياباني، اذا بتريد."}
+{"btec_id": "12331", "example_id": "284", "dialect": "BEI", "pred_dialect": "BEI", "raw": "بتهمنا الموضة.", "coda": "بتهمنا الموضة."}
+{"btec_id": "12333", "example_id": "285", "dialect": "BEI", "pred_dialect": "BEI", "raw": "فيك تئطرني؟", "coda": "فيك تقطرني؟"}
+{"btec_id": "12345", "example_id": "286", "dialect": "BEI", "pred_dialect": "DOH", "raw": "كلينيك إف؟", "coda": "كلينيك اف؟"}
+{"btec_id": "12364", "example_id": "287", "dialect": "BEI", "pred_dialect": "BEI", "raw": "مرحبا، الآنسة ياماغوشي؟ الشخص اللي متصلة في صار عالخط. إتصالك مأبول. تفضلي، إزا بتريدي.", "coda": "مرحبا، الآنسة ياماغوشي؟ الشخص اللي متصلة فيه صار عالخط. اتصالك مقبول. تفضلي، اذا بتريدي."}
+{"btec_id": "12396", "example_id": "288", "dialect": "BEI", "pred_dialect": "BEI", "raw": "أي ساعة منوصل علوس أنجلس؟", "coda": "اي ساعة منوصل علوس انجلوس؟"}
+{"btec_id": "12403", "example_id": "289", "dialect": "BEI", "pred_dialect": "BEI", "raw": "مشي أوامي شي خمس دئايئ، ولف عالشمال.", "coda": "امشي قوامي شي خمس دقايق، ولف عالشمال."}
+{"btec_id": "12416", "example_id": "290", "dialect": "BEI", "pred_dialect": "BEI", "raw": "من هون صوب البحر.", "coda": "من هون صوب البحر."}
+{"btec_id": "12420", "example_id": "291", "dialect": "BEI", "pred_dialect": "BEI", "raw": "هيدا الشاي بالأعشاب بساعد عتجديد شباب الجسم.", "coda": "هيدا الشاي بالاعشاب بيساعد عتجديد شباب الجسم."}
+{"btec_id": "12421", "example_id": "292", "dialect": "BEI", "pred_dialect": "BEI", "raw": "منون صناعة يابانية، ما هيك؟", "coda": "مانهن صناعة يابانية، ما هيك؟"}
+{"btec_id": "12443", "example_id": "293", "dialect": "BEI", "pred_dialect": "BEI", "raw": "طيب. من هون إزا بتريد. رح دلك عأوضتك.", "coda": "طيب. من هون اذا بتريد. رح دلك عاوضتك."}
+{"btec_id": "12479", "example_id": "294", "dialect": "BEI", "pred_dialect": "BEI", "raw": "لازم إترك الأوتيل أبل الضهر.", "coda": "لازم اترك الاوتيل قبل الظهر."}
+{"btec_id": "12495", "example_id": "295", "dialect": "BEI", "pred_dialect": "BEI", "raw": "إزا بتريد، تنان همبرغر وتنان أهوة. بدي آخدون معي.", "coda": "اذا بتريد، اثنين همبرغر واثنين قهوة. بدي آخذهن معي."}
+{"btec_id": "12510", "example_id": "296", "dialect": "BEI", "pred_dialect": "BEI", "raw": "فيك تحمل هالشنطتين؟", "coda": "فيك تحمل هالشنطتين؟"}
+{"btec_id": "12527", "example_id": "297", "dialect": "BEI", "pred_dialect": "BEI", "raw": "طلبت لحمة مش سمك. فيك تغيري يا؟", "coda": "طلبت لحمة مش سمك. فيك تغير لي اياه؟"}
+{"btec_id": "12546", "example_id": "298", "dialect": "BEI", "pred_dialect": "BEI", "raw": "إبني تعبان كتير.", "coda": "ابني تعبان كثير."}
+{"btec_id": "12551", "example_id": "299", "dialect": "BEI", "pred_dialect": "BEI", "raw": "معدتي عم توجعني.", "coda": "معدتي عم توجعني."}

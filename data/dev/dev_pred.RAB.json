@@ -1,0 +1,291 @@
+{"btec_id": "1047", "example_id": "410", "dialect": "CAI", "pred_dialect": "RAB", "raw": "اللي بيوزعو الورق يقدرو يبدلو دولاراتك بقواشيط الكازينو . نروح؟", "coda": "اللي بيوزعوا الورق يقدروا يبدلوا دولاراتك بقواشيط الكازينو. نروح؟"}
+{"btec_id": "1791", "example_id": "480", "dialect": "CAI", "pred_dialect": "RAB", "raw": "أتجرحت .", "coda": "اتجرحت."}
+{"btec_id": "11550", "example_id": "524", "dialect": "CAI", "pred_dialect": "RAB", "raw": "تقدر تصلح ده؟", "coda": "تقدر تصلح ده؟"}
+{"btec_id": "1036", "example_id": "707", "dialect": "DOH", "pred_dialect": "RAB", "raw": "بغيت واحد عود.", "coda": "بغيت واحد عود."}
+{"btec_id": "1396", "example_id": "742", "dialect": "DOH", "pred_dialect": "RAB", "raw": "بغيت شي؟", "coda": "بغيت شي؟"}
+{"btec_id": "9", "example_id": "901", "dialect": "RAB", "pred_dialect": "RAB", "raw": "ما عمري سمعت هاد العنوان هنايا.", "coda": "ما عمري سمعت هاد العنوان هنايا."}
+{"btec_id": "11", "example_id": "902", "dialect": "RAB", "pred_dialect": "RAB", "raw": "سير نيشان حتا تشوف صيدلية.", "coda": "سير نيشان حتى تشوف صيدلية."}
+{"btec_id": "26", "example_id": "903", "dialect": "RAB", "pred_dialect": "RAB", "raw": "شحال كا يدير الفطور؟", "coda": "شحال كيدير الفطور؟"}
+{"btec_id": "27", "example_id": "904", "dialect": "RAB", "pred_dialect": "RAB", "raw": "كيفاش نقدر نعاونك؟", "coda": "كيفاش نقدر نعاونك؟"}
+{"btec_id": "30", "example_id": "905", "dialect": "RAB", "pred_dialect": "RAB", "raw": "مع القنت التالت دور على ليسر.", "coda": "مع القنت الثالث دور على الايسر."}
+{"btec_id": "50", "example_id": "906", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واش تبغي لاكريم و السكر في القهوة ديالك؟", "coda": "واش تبغي لاكريم والسكر في القهوة ديالك؟"}
+{"btec_id": "64", "example_id": "907", "dialect": "RAB", "pred_dialect": "RAB", "raw": "تقدر تخلص الشيك ديالي ديال ميتين دولار؟", "coda": "تقدر تخلص الشيك ديالي ديال ميتين دولار؟"}
+{"btec_id": "74", "example_id": "908", "dialect": "RAB", "pred_dialect": "RAB", "raw": "إلا خصو يبان، عيط ليا عفاك.", "coda": "ايلا خصه يبان، عيط لي عافاك."}
+{"btec_id": "87", "example_id": "910", "dialect": "RAB", "pred_dialect": "RAB", "raw": "بغيت تريكو ديال الدراري الصغار.", "coda": "بغيت تريكو ديال الدراري الصغار."}
+{"btec_id": "91", "example_id": "911", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واخا. كايدير خمسة و تمانين دولار للبريد العادي و تلاتة دولار بالضبط زيادة للتوصيل الخاص.", "coda": "وخا. كيدير خمسة وثمانين دولار للبريد العادي وثلاثة دولار بالضبط زيادة للتوصيل الخاص."}
+{"btec_id": "120", "example_id": "912", "dialect": "RAB", "pred_dialect": "RAB", "raw": "كون كنت فبلاصتك كون شريتو.", "coda": "كون كنت فبلاصتك كون شريته."}
+{"btec_id": "129", "example_id": "913", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واش غادي نلقا شي صعوبة مع الديوانا؟", "coda": "واش غادي نلقى شي صعوبة مع الديوانة؟"}
+{"btec_id": "130", "example_id": "914", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واش عندك صبابط رسمية واسعة عند الصبع؟", "coda": "واش عندك صبابط رسمية واسعة عند الصبع؟"}
+{"btec_id": "140", "example_id": "915", "dialect": "RAB", "pred_dialect": "RAB", "raw": "لا. نقدر نقتارح ثنائية لواحد؟ عندنا وحدة.", "coda": "لا. نقدر نقتارح ثنائية لواحد؟ عندنا واحدة."}
+{"btec_id": "143", "example_id": "916", "dialect": "RAB", "pred_dialect": "RAB", "raw": "بيرمانونت مجهد، عافاك.", "coda": "بيرماننت مجهد، عافاك."}
+{"btec_id": "145", "example_id": "917", "dialect": "RAB", "pred_dialect": "RAB", "raw": "بغات بيرا.", "coda": "بغات بيرة."}
+{"btec_id": "158", "example_id": "919", "dialect": "RAB", "pred_dialect": "RAB", "raw": "سمح ليا خصني نشوف شي وثيقة ديال الهوية.", "coda": "اسمح لي خصني نشوف شي وثيقة ديال الهوية."}
+{"btec_id": "169", "example_id": "920", "dialect": "RAB", "pred_dialect": "RAB", "raw": "إينا نوع ديال الصوص؟", "coda": "اينى نوع ديال الصوص؟"}
+{"btec_id": "170", "example_id": "921", "dialect": "RAB", "pred_dialect": "RAB", "raw": "هادشي بارد شوية. واخا تسخنو؟", "coda": "هاد الشي بارد شوية. وخا تسخنه؟"}
+{"btec_id": "173", "example_id": "922", "dialect": "RAB", "pred_dialect": "RAB", "raw": "سمح ليا. هاد البلاصة عامرة.", "coda": "اسمح لي. هاد البلاصة عامرة."}
+{"btec_id": "176", "example_id": "923", "dialect": "RAB", "pred_dialect": "RAB", "raw": "انا بخير. و لكن واش تقدر تعيط لصاحبي؟", "coda": "انا بخير. ولكن واش تقدر تعيط لصاحبي؟"}
+{"btec_id": "177", "example_id": "924", "dialect": "RAB", "pred_dialect": "RAB", "raw": "شكرا. باراكا.", "coda": "شكرا. بركا."}
+{"btec_id": "184", "example_id": "925", "dialect": "RAB", "pred_dialect": "RAB", "raw": "شكون هوا اقرب صديق ديالك؟", "coda": "شكون هو اقرب صديق ديالك؟"}
+{"btec_id": "192", "example_id": "927", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واش بغيتيني نقلب تحت الكوفر؟", "coda": "واش بغيتيني نقلب تحت الكوفر؟"}
+{"btec_id": "206", "example_id": "928", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واخا تعاوني نقلب على الباليزا ديالي؟", "coda": "وخا تعاونني نقلب على الباليزة ديالي؟"}
+{"btec_id": "221", "example_id": "929", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واخا دير الترتيبات مسبقا؟", "coda": "وخا تدير الترتيبات مسبقا؟"}
+{"btec_id": "238", "example_id": "930", "dialect": "RAB", "pred_dialect": "RAB", "raw": "كاين لي معاوني. شكرا.", "coda": "كاين اللي معاونني. شكرا."}
+{"btec_id": "261", "example_id": "931", "dialect": "RAB", "pred_dialect": "RAB", "raw": "منين توصل تما سول شي واحد آخر عافاك.", "coda": "منين توصل ثما سول شي واحد آخر عافاك."}
+{"btec_id": "280", "example_id": "932", "dialect": "RAB", "pred_dialect": "RAB", "raw": "بغيت تمديد ديال اربعة و عشرين، عافاك.", "coda": "بغيت تمديد ديال اربعة وعشرين، عافاك."}
+{"btec_id": "285", "example_id": "933", "dialect": "RAB", "pred_dialect": "RAB", "raw": "هاهيا جوج دولار. خلي ليك الباقي.", "coda": "هاهي جوج دولار. خلي ليك الباقي."}
+{"btec_id": "315", "example_id": "934", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واحد همبرݣر و واحد تشيز بورݣر، عافاك.", "coda": "واحد همبرغر وواحد تشيز برغر، عافاك."}
+{"btec_id": "319", "example_id": "935", "dialect": "RAB", "pred_dialect": "RAB", "raw": "شحال كاتطلب باش تدير العملية؟", "coda": "شحال كتطلب باش تدير العملية؟"}
+{"btec_id": "320", "example_id": "936", "dialect": "RAB", "pred_dialect": "RAB", "raw": "كل واحد فينا بغا يخلص على راسو.", "coda": "كل واحد فينا بغى يخلص على راسه."}
+{"btec_id": "333", "example_id": "938", "dialect": "RAB", "pred_dialect": "RAB", "raw": "عافاك صرف هاد الين لجنيهات.", "coda": "عافاك اصرف هاد الين لجنيهات."}
+{"btec_id": "360", "example_id": "940", "dialect": "RAB", "pred_dialect": "RAB", "raw": "لجوج ديال الناس فرقم سبعة . السمية هيا واتانابي.", "coda": "لجوج ديال الناس فرقم سبعة. السمية هي واتانابي."}
+{"btec_id": "368", "example_id": "941", "dialect": "RAB", "pred_dialect": "RAB", "raw": "الساعة ديالي . كانت سيكو ديجيتال.", "coda": "الساعة ديالي. كانت سيكو ديجتل."}
+{"btec_id": "370", "example_id": "942", "dialect": "RAB", "pred_dialect": "RAB", "raw": "كاي شرفنا نسربيو ليك المشروب لي كاتفضل، متبوع بالعشا. دليل كامل ديال المشروبات لي كان قدمو فهاد الرحلة كاين في دليل المعلومات ديال المجلة ديالنا.", "coda": "كاين شرفنا نسربيوا ليك المشروب اللي كتفضل، متبوع بالعشا. دليل كامل ديال المشروبات اللي كان قدموا فهاد الرحلة كاين في دليل المعلومات ديال المجلة ديالنا."}
+{"btec_id": "373", "example_id": "943", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واش كاتسكن غير هنا؟", "coda": "واش كاتسكن غير هنا؟"}
+{"btec_id": "375", "example_id": "944", "dialect": "RAB", "pred_dialect": "RAB", "raw": "فين كاين المحل ديال الهدايا؟", "coda": "فين كاين المحل ديال الهدايا؟"}
+{"btec_id": "386", "example_id": "945", "dialect": "RAB", "pred_dialect": "RAB", "raw": "انا في الطريق السيار واحد حدا مورو باي.", "coda": "انا في الطريق السيار واحد حدا مورو باي."}
+{"btec_id": "391", "example_id": "946", "dialect": "RAB", "pred_dialect": "RAB", "raw": "بغيت منبه، عافاك.", "coda": "بغيت منبه، عافاك."}
+{"btec_id": "398", "example_id": "947", "dialect": "RAB", "pred_dialect": "RAB", "raw": "بالمناسبة، سميتي هيروشي إيجيما .", "coda": "بالمناسبة، سميتي هيروشي إيجيما."}
+{"btec_id": "401", "example_id": "948", "dialect": "RAB", "pred_dialect": "RAB", "raw": "هاد الطران كاي وقف في لايك فوريست، ياك؟", "coda": "هاد الطران كاين وقف في لايك فورست، ياك؟"}
+{"btec_id": "408", "example_id": "949", "dialect": "RAB", "pred_dialect": "RAB", "raw": "الأغلبية ديال اليابانيين كاياكلو الروطال و الكالامار.", "coda": "الاغلبية ديال اليابانيين كياكلوا الروطال والكالامار."}
+{"btec_id": "416", "example_id": "950", "dialect": "RAB", "pred_dialect": "RAB", "raw": "عطيني جوج تذاكر الدرجة الثانية لشيكاغو، عافاك؟", "coda": "اعطيني جوج تذاكر الدرجة الثانية لشيكاغو، عافاك؟"}
+{"btec_id": "423", "example_id": "952", "dialect": "RAB", "pred_dialect": "RAB", "raw": "شنو هو رقم الرحلة؟", "coda": "شنو هو رقم الرحلة؟"}
+{"btec_id": "442", "example_id": "953", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واحد ل نيو يورك، عافاك.", "coda": "واحد لنيو يورك، عافاك."}
+{"btec_id": "446", "example_id": "954", "dialect": "RAB", "pred_dialect": "RAB", "raw": "تقريبا لمدة شي يامات.", "coda": "تقريبا لمدة شي يامات."}
+{"btec_id": "471", "example_id": "956", "dialect": "RAB", "pred_dialect": "RAB", "raw": "هاد لاكارط، واخا؟", "coda": "هاد لاكارط، وخا؟"}
+{"btec_id": "488", "example_id": "957", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واش هادا هوا مكتب الإستقبال؟ واش كاين شي كلينيك قريب؟", "coda": "واش هادا هو مكتب الاستقبال؟ واش كاين شي كلينيك قريب؟"}
+{"btec_id": "493", "example_id": "958", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واش تكفي عشرا دولار في الطاكسي؟", "coda": "واش تكفي عشرة دولار في التاكسي؟"}
+{"btec_id": "503", "example_id": "959", "dialect": "RAB", "pred_dialect": "RAB", "raw": "هادشي ماذاقو غريب.", "coda": "هاد الشي ماذاقه غريب."}
+{"btec_id": "512", "example_id": "960", "dialect": "RAB", "pred_dialect": "RAB", "raw": "اه، نعام. انا غادي نجيب ليك واحد.", "coda": "آه، نعام. انا غادي نجيب ليك واحد."}
+{"btec_id": "516", "example_id": "961", "dialect": "RAB", "pred_dialect": "RAB", "raw": "نص قرعة، عافاك.", "coda": "نص قرعة، عافاك."}
+{"btec_id": "540", "example_id": "962", "dialect": "RAB", "pred_dialect": "RAB", "raw": "ماشي داكشي. غير شي حاجة ماتكونش غالية.", "coda": "ماشي داك الشي. غير شي حاجة ما تكونش غالية."}
+{"btec_id": "548", "example_id": "963", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واش كاتقلب على شي حاجة؟", "coda": "واش كتقلب على شي حاجة؟"}
+{"btec_id": "551", "example_id": "964", "dialect": "RAB", "pred_dialect": "RAB", "raw": "ربعا ديال ليلات.", "coda": "ربعة ديال ليلات."}
+{"btec_id": "553", "example_id": "965", "dialect": "RAB", "pred_dialect": "RAB", "raw": "انا محتاج ل تقاشر.", "coda": "انا محتاج لتقاشر."}
+{"btec_id": "565", "example_id": "966", "dialect": "RAB", "pred_dialect": "RAB", "raw": "تقدر ترخص الثمن حيت كاينين شي طبايع؟", "coda": "تقدر ترخص الثمن حيث كاينين شي طبايع؟"}
+{"btec_id": "571", "example_id": "967", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واحد الراجل دخل فيا، من بعد لاحظت بلي البزطام ديالي مشا.", "coda": "واحد الراجل دخل فيي، من بعد لاحظت باللي البزطام ديالي مشى."}
+{"btec_id": "599", "example_id": "968", "dialect": "RAB", "pred_dialect": "RAB", "raw": "ممتأكدش واش جمعت حوايج كافيين لرحلة تلاتة السيمانات .", "coda": "ما متأكدش واش جمعت حوايج كافيين لرحلة ثلاثة السيمانات."}
+{"btec_id": "612", "example_id": "969", "dialect": "RAB", "pred_dialect": "RAB", "raw": "بغينا نجربو النبيذ الأبيض.", "coda": "بغينا نجربوا النبيذ الابيض."}
+{"btec_id": "631", "example_id": "970", "dialect": "RAB", "pred_dialect": "RAB", "raw": "إيلا سول فيا شي واحد، قول ليه أنا في القهوة.", "coda": "ايلا سول فيي شي واحد، قول ليه انا في القهوة."}
+{"btec_id": "632", "example_id": "971", "dialect": "RAB", "pred_dialect": "RAB", "raw": "أنا متأكد بلي خليتو فالجيب الدخلاني ديال كبوطي.", "coda": "انا متأكد باللي خليته فالجيب الداخلاني ديال كبوطي."}
+{"btec_id": "641", "example_id": "972", "dialect": "RAB", "pred_dialect": "RAB", "raw": "نقدر ناخد السمية و نمرة الشخص للي تاتعيط ليه؟", "coda": "نقدر ناخذ السمية ونمرة الشخص اللي تتعيط ليه؟"}
+{"btec_id": "643", "example_id": "973", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واش الخطوط الجوية غادي تخلص ليا الحوايج الضرورية؟", "coda": "واش الخطوط الجوية غادي تخلص لي الحوايج الضرورية؟"}
+{"btec_id": "650", "example_id": "974", "dialect": "RAB", "pred_dialect": "RAB", "raw": "بغيت شي بيت معاه دوش.", "coda": "بغيت شي بيت معاه دوش."}
+{"btec_id": "652", "example_id": "975", "dialect": "RAB", "pred_dialect": "RAB", "raw": "حتى حاجة ما خرجات من الماكينة؟", "coda": "حتى حاجة ما خرجات من الماكينة؟"}
+{"btec_id": "667", "example_id": "976", "dialect": "RAB", "pred_dialect": "RAB", "raw": "كان خاصك تاخد الرحلة ثمان مية و عشرين، لي قلعات هادي خمسطاش دقيقة. واخا. نقدر نصايب ليك رحلة خرا.", "coda": "كان خاصك تاخذ الرحلة ثمانمية وعشرين، اللي اقلعات هادي خمستعش دقيقة. وخا. نقدر نصايب ليك رحلة اخرى."}
+{"btec_id": "673", "example_id": "977", "dialect": "RAB", "pred_dialect": "RAB", "raw": "شي واحد حل الرزمة ديالي.", "coda": "شي واحد حل الرزمة ديالي."}
+{"btec_id": "679", "example_id": "978", "dialect": "RAB", "pred_dialect": "RAB", "raw": "أوه، راه والو. أنت هنا، على كل حال.", "coda": "اوه، راه والو. انت هنا، على كل حال."}
+{"btec_id": "680", "example_id": "979", "dialect": "RAB", "pred_dialect": "RAB", "raw": "جابان إير لاينز. الرحلة واحد جوج تلاثة.", "coda": "جابان اير لاينز. الرحلة واحد جوج ثلاثة."}
+{"btec_id": "681", "example_id": "980", "dialect": "RAB", "pred_dialect": "RAB", "raw": "خاصني نشري شامبوان.", "coda": "خاصني نشري شامبوان."}
+{"btec_id": "683", "example_id": "981", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واش ممكن تقولها ليا منين نوصلو للمركز المدني؟", "coda": "واش ممكن تقول لها لي منين نوصلوا للمركز المدني؟"}
+{"btec_id": "688", "example_id": "982", "dialect": "RAB", "pred_dialect": "RAB", "raw": "فين كاين أقرب كزار؟", "coda": "فين كاين اقرب جزار؟"}
+{"btec_id": "703", "example_id": "983", "dialect": "RAB", "pred_dialect": "RAB", "raw": "بغينا نكلسو ربعة ديال الليلات من اللول ديال غشت.", "coda": "بغينا نجلسوا اربعة ديال الليلات من الاول ديال غشت."}
+{"btec_id": "708", "example_id": "984", "dialect": "RAB", "pred_dialect": "RAB", "raw": "شنو السمية ديال هاديك الوردة؟", "coda": "شنو السمية ديال هاديك الوردة؟"}
+{"btec_id": "723", "example_id": "986", "dialect": "RAB", "pred_dialect": "RAB", "raw": "ماكاينش الصابون فبيتي.", "coda": "ما كاينش الصابون فبيتي."}
+{"btec_id": "741", "example_id": "987", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واش نقدر ندير شي حاجة لهاد الطفح الجلدي؟", "coda": "واش نقدر ندير شي حاجة لهاد الطفح الجلدي؟"}
+{"btec_id": "742", "example_id": "988", "dialect": "RAB", "pred_dialect": "RAB", "raw": "تقدر تبدل الطريقة باش قلت هادشي؟", "coda": "تقدر تبدل الطريقة باش قلت هاد الشي؟"}
+{"btec_id": "761", "example_id": "989", "dialect": "RAB", "pred_dialect": "RAB", "raw": "شحال ديال الوقت غادي يخص باش يتدار الط ل ب؟", "coda": "شحال ديال الوقت غادي يخص باش يتدار الطلب؟"}
+{"btec_id": "773", "example_id": "990", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واخا تهدر شوية بالغوات، عافاك؟", "coda": "وخا تهدر شوية بالغوات، عافاك؟"}
+{"btec_id": "777", "example_id": "991", "dialect": "RAB", "pred_dialect": "RAB", "raw": "شحال ديال الوقت غادي يكون قبل ما يخرج؟", "coda": "شحال ديال الوقت غادي يكون قبل ما يخرج؟"}
+{"btec_id": "786", "example_id": "992", "dialect": "RAB", "pred_dialect": "RAB", "raw": "فين هيا أخبار الرياضة؟", "coda": "فين هي اخبار الرياضة؟"}
+{"btec_id": "787", "example_id": "993", "dialect": "RAB", "pred_dialect": "RAB", "raw": "هاد القياس هادا، لي كا تقول ليه القياس العادي، غادي يدير.", "coda": "هاد القياس هادا، اللي كتقول ليه القياس العادي، غادي يدير."}
+{"btec_id": "793", "example_id": "994", "dialect": "RAB", "pred_dialect": "RAB", "raw": "فين غادي تسالي الدورة؟ و وقتاش؟", "coda": "فين غادي تسالي الدورة؟ ووقتاش؟"}
+{"btec_id": "848", "example_id": "995", "dialect": "RAB", "pred_dialect": "RAB", "raw": "فين نقدر نبدل الترانات باش نوصل ل إيدينبره؟", "coda": "فين نقدر نبدل الترانات باش نوصل لادنبرة؟"}
+{"btec_id": "855", "example_id": "996", "dialect": "RAB", "pred_dialect": "RAB", "raw": "بغيت نحط هادشي في صندوق ودائع.", "coda": "بغيت نحط هاد الشي في صندوق ودائع."}
+{"btec_id": "859", "example_id": "997", "dialect": "RAB", "pred_dialect": "RAB", "raw": "فين نقدر نصرف الفلوس ديالي؟", "coda": "فين نقدر نصرف الفلوس ديالي؟"}
+{"btec_id": "897", "example_id": "998", "dialect": "RAB", "pred_dialect": "RAB", "raw": "ممكن نخليو الأمتعة ديالنا، من غير داكشي لي غالي، في الحافلة؟", "coda": "ممكن نخليوا الامتعة ديالنا، من غير داك الشي اللي غالي، في الحافلة؟"}
+{"btec_id": "902", "example_id": "999", "dialect": "RAB", "pred_dialect": "RAB", "raw": "بغيت نعرف ديالاش هاد الخلاص لي في الفاتورة ديالي.", "coda": "بغيت نعرف ديال اش هاد الخلاص اللي في الفاتورة ديالي."}
+{"btec_id": "917", "example_id": "1000", "dialect": "RAB", "pred_dialect": "RAB", "raw": "غادي نخلص خمسين دولار.", "coda": "غادي نخلص خمسين دولار."}
+{"btec_id": "941", "example_id": "1001", "dialect": "RAB", "pred_dialect": "RAB", "raw": "دابا عرفت شنو كان المشكل.", "coda": "دابا عرفت شنو كان المشكل."}
+{"btec_id": "957", "example_id": "1002", "dialect": "RAB", "pred_dialect": "RAB", "raw": "انا إيكيدا. حجزت طابلة للستة و نص هاد العشية. و لكن كا نعتاذر غادي نجي مأخر نص ساعة.", "coda": "انا ايكيدا. حجزت طابلة للستة ونص هاد العشية. ولكن كنعتاذر غادي نجي مأخر نص ساعة."}
+{"btec_id": "1003", "example_id": "1003", "dialect": "RAB", "pred_dialect": "RAB", "raw": "شحال من أوقية ديال الريحة نقدر ناخد معفية من الرسوم الجمركية؟", "coda": "شحال من اوقية ديال الريحة نقدر ناخذ معفية من الرسوم الجمركية؟"}
+{"btec_id": "1007", "example_id": "1004", "dialect": "RAB", "pred_dialect": "RAB", "raw": "غير السياحة.", "coda": "غير السياحة."}
+{"btec_id": "1010", "example_id": "1005", "dialect": "RAB", "pred_dialect": "RAB", "raw": "ماشي مشكل، وقع فيهوم عافاك . كيفاش بغيتيه؟", "coda": "ماشي مشكل، وقع فيهم عافاك. كيفاش بغيتيه؟"}
+{"btec_id": "1023", "example_id": "1006", "dialect": "RAB", "pred_dialect": "RAB", "raw": "مازال عندكم البلايص للعرض ديال اليوم بالليل؟", "coda": "ما زال عندكم البلايص للعرض ديال اليوم بالليل؟"}
+{"btec_id": "1036", "example_id": "1007", "dialect": "RAB", "pred_dialect": "RAB", "raw": "بغيت واحد كبير.", "coda": "بغيت واحد كبير."}
+{"btec_id": "1037", "example_id": "1008", "dialect": "RAB", "pred_dialect": "RAB", "raw": "ما فقتش منين صونا المنبه ديال الستة و نص.", "coda": "ما فقتش منين صونا المنبه ديال الستة ونص."}
+{"btec_id": "1047", "example_id": "1010", "dialect": "RAB", "pred_dialect": "RAB", "raw": "العمال تما يقدرو يبدلو ليك الدولار بالفيتشات ديال الكازينو. مشينا؟", "coda": "العمال ثما يقدروا يبدلوا ليك الدولار بالفيتشات ديال الكازينو. مشينا؟"}
+{"btec_id": "1056", "example_id": "1011", "dialect": "RAB", "pred_dialect": "RAB", "raw": "عندنا تقريبا تلاتين نوع ديال الزيوت ديال الحمام.", "coda": "عندنا تقريبا ثلاثين نوع ديال الزيوت ديال الحمام."}
+{"btec_id": "1062", "example_id": "1012", "dialect": "RAB", "pred_dialect": "RAB", "raw": "غادي نجيب ليك العرض السيمانة الجاية.", "coda": "غادي نجيب ليك العرض السيمانة الجاية."}
+{"btec_id": "1074", "example_id": "1013", "dialect": "RAB", "pred_dialect": "RAB", "raw": "شكرا. شحال هاد الصباعيات؟", "coda": "شكرا. شحال هاد الصباعيات؟"}
+{"btec_id": "1098", "example_id": "1014", "dialect": "RAB", "pred_dialect": "RAB", "raw": "خاصني نمشي. غادي نعيط ليك من بعد.", "coda": "خاصني نمشي. غادي نعيط ليك من بعد."}
+{"btec_id": "1100", "example_id": "1015", "dialect": "RAB", "pred_dialect": "RAB", "raw": "بغيت ليكوش لاستعمال واحد.", "coda": "بغيت ليكوش لاستعمال واحد."}
+{"btec_id": "1122", "example_id": "1016", "dialect": "RAB", "pred_dialect": "RAB", "raw": "منين الاصل ديال هاد الحوت ديال الفراشة؟", "coda": "منين الاصل ديال هاد الحوت ديال الفراشة؟"}
+{"btec_id": "1124", "example_id": "1017", "dialect": "RAB", "pred_dialect": "RAB", "raw": "تقدر تصرفهم للدولار، عافاك؟", "coda": "تقدر تصرفهم للدولار، عافاك؟"}
+{"btec_id": "1139", "example_id": "1018", "dialect": "RAB", "pred_dialect": "RAB", "raw": "\"\"\"عندنا الزهر بزاف. عندهم واحد في القياس ربعة في المحل ديال \"\"\"\"آلا موانا\"\"\"\".\"\"\"", "coda": "\"\"\"عندنا الزهر بزاف. عندهم واحد في القياس اربعة في المحل ديال \"\"\"\"آلا موانا\"\"\"\".\"\"\""}
+{"btec_id": "1146", "example_id": "1019", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واش كاينا شي ليموزين؟", "coda": "واش كاينة شي ليموزين؟"}
+{"btec_id": "1163", "example_id": "1020", "dialect": "RAB", "pred_dialect": "RAB", "raw": "ممكن اتصال يفيقني غدا مع الخمسة و نص ديال الصباح؟", "coda": "ممكن اتصال يفيقني غدا مع الخمسة ونص ديال الصباح؟"}
+{"btec_id": "1165", "example_id": "1021", "dialect": "RAB", "pred_dialect": "RAB", "raw": "كا نفضل غرفة هادئة.", "coda": "كنفضل غرفة هادئة."}
+{"btec_id": "1167", "example_id": "1022", "dialect": "RAB", "pred_dialect": "RAB", "raw": "بغيت باش نحيد الصباغة ديال الضفار.", "coda": "بغيت باش نحيد الصباغة ديال الضفار."}
+{"btec_id": "1193", "example_id": "1024", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واش كاين شي فرقة لايف ولا دي دجي؟", "coda": "واش كاين شي فرقة لايف ولا دي دجي؟"}
+{"btec_id": "1194", "example_id": "1025", "dialect": "RAB", "pred_dialect": "RAB", "raw": "نقدر نكري العدة ديال الغطس؟", "coda": "نقدر نكري العدة ديال الغطس؟"}
+{"btec_id": "1199", "example_id": "1026", "dialect": "RAB", "pred_dialect": "RAB", "raw": "بغيت نحجز غرفة لربعة ديال الليلات ابتداء من اتنين و عشرين ديسمبر.", "coda": "بغيت نحجز غرفة لاربعة ديال الليلات ابتداء من اثنين وعشرين ديسمبر."}
+{"btec_id": "1212", "example_id": "1027", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واش هاد الساك مزيان لجميع الأجواء؟", "coda": "واش هاد الساك مزيان لجميع الاجواء؟"}
+{"btec_id": "1213", "example_id": "1028", "dialect": "RAB", "pred_dialect": "RAB", "raw": "بغيت سفنجة، عافاك.", "coda": "بغيت اسفنجة، عافاك."}
+{"btec_id": "1218", "example_id": "1029", "dialect": "RAB", "pred_dialect": "RAB", "raw": "بغيت نكري سيارة أوطوماتيك لمدة يومين.", "coda": "بغيت نكري سيارة اوطوماتيك لمدة يومين."}
+{"btec_id": "1224", "example_id": "1030", "dialect": "RAB", "pred_dialect": "RAB", "raw": "\"\"\"فاتتني الرحلة عسرين ل \"\"\"\"سان فرانسيسكو\"\"\"\".\"\"\"", "coda": "\"\"\"فاتتني الرحلة عشرين ل\"\"\"\"سان فرانسيسكو\"\"\"\".\"\"\""}
+{"btec_id": "1234", "example_id": "1031", "dialect": "RAB", "pred_dialect": "RAB", "raw": "شحال للمطار؟", "coda": "شحال للمطار؟"}
+{"btec_id": "1235", "example_id": "1032", "dialect": "RAB", "pred_dialect": "RAB", "raw": "مزيان. وقتاش؟", "coda": "مزيان. وقتاش؟"}
+{"btec_id": "1276", "example_id": "1033", "dialect": "RAB", "pred_dialect": "RAB", "raw": "شحال عند بنتك من عام؟", "coda": "شحال عند بنتك من عام؟"}
+{"btec_id": "1312", "example_id": "1034", "dialect": "RAB", "pred_dialect": "RAB", "raw": "ممكن توريني شي أوطيلات رخاص و نقيين؟", "coda": "ممكن توريني شي اوطيلات رخاص ونقيين؟"}
+{"btec_id": "1321", "example_id": "1035", "dialect": "RAB", "pred_dialect": "RAB", "raw": "نقدرو نحجزو ليك غرفة مريحة في قصر قديم حدا واحد النادي ديال الكولف مشهور.", "coda": "نقدروا نحجزوا ليك غرفة مريحة في قصر قديم حذا واحد النادي ديال الغولف مشهور."}
+{"btec_id": "1329", "example_id": "1036", "dialect": "RAB", "pred_dialect": "RAB", "raw": "كا نوصيك بهادا حيت مصايب من مقادير ميا في الميا طبيعية.", "coda": "كنوصيك بهادا حيث مصايب من مقادير مية في المية طبيعية."}
+{"btec_id": "1361", "example_id": "1037", "dialect": "RAB", "pred_dialect": "RAB", "raw": "\"\"\"واش هاد التران كا يحبس في \"\"\"\"برايطون\"\"\"\"؟\"\"\"", "coda": "\"\"\"واش هاد التران كيحبس في \"\"\"\"برايطون\"\"\"\"؟\"\"\""}
+{"btec_id": "1369", "example_id": "1038", "dialect": "RAB", "pred_dialect": "RAB", "raw": "تقدر تقول ليا فين نقدر نشد طاكسي؟", "coda": "تقدر تقول لي فين نقدر نشد تاكسي؟"}
+{"btec_id": "1375", "example_id": "1039", "dialect": "RAB", "pred_dialect": "RAB", "raw": "جوج ورقات في الدرجة الثانية، عافاك.", "coda": "جوج ورقات في الدرجة الثانية، عافاك."}
+{"btec_id": "1384", "example_id": "1040", "dialect": "RAB", "pred_dialect": "RAB", "raw": "بغيت نصيفط فاكس.", "coda": "بغيت نصيفط فاكس."}
+{"btec_id": "1394", "example_id": "1041", "dialect": "RAB", "pred_dialect": "RAB", "raw": "بغيت مصلوح ديال السفر.", "coda": "بغيت مصلوح ديال السفر."}
+{"btec_id": "1396", "example_id": "1042", "dialect": "RAB", "pred_dialect": "RAB", "raw": "نعطيك شي حاجة؟", "coda": "نعطيك شي حاجة؟"}
+{"btec_id": "1404", "example_id": "1043", "dialect": "RAB", "pred_dialect": "RAB", "raw": "نهاري؟ خفت نسول، ولكن شنو بغيتي تقصد؟", "coda": "نهاري؟ خفت نسول، ولكن شنو بغيتي تقصد؟"}
+{"btec_id": "1418", "example_id": "1044", "dialect": "RAB", "pred_dialect": "RAB", "raw": "بغيت شي واحد لي غادي يهز ليا وراق عاديين بلا ما نطويهم.", "coda": "بغيت شي واحد اللي غادي يهز لي اوراق عاديين بلا ما نطويهم."}
+{"btec_id": "1433", "example_id": "1045", "dialect": "RAB", "pred_dialect": "RAB", "raw": "آه . و لكن ما صحيحش بزاف.", "coda": "آه. ولكن ما صحيحش بزاف."}
+{"btec_id": "1434", "example_id": "1046", "dialect": "RAB", "pred_dialect": "RAB", "raw": "عندي حساسية ديال القطوط.", "coda": "عندي حساسية ديال القطوط."}
+{"btec_id": "1436", "example_id": "1047", "dialect": "RAB", "pred_dialect": "RAB", "raw": "آه، خاص تكون عندك رخصة السياقة و، اوه، خاص تكون عندك رخصة السياقة من اللجنة ديال الطاكسي و الليموزين.", "coda": "آه، خاص تكون عندك رخصة السياقة و#، اوه، خاص تكون عندك رخصة السياقة من اللجنة ديال التاكسي والليموزين."}
+{"btec_id": "1462", "example_id": "1048", "dialect": "RAB", "pred_dialect": "RAB", "raw": "تفضل، أسيدي.", "coda": "تفضل، اسيدي."}
+{"btec_id": "1465", "example_id": "1049", "dialect": "RAB", "pred_dialect": "RAB", "raw": "ما خديتش الما سخون.", "coda": "ما خذيتش الما سخون."}
+{"btec_id": "1474", "example_id": "1050", "dialect": "RAB", "pred_dialect": "RAB", "raw": "بغيت نحجز غرفة لليوم بالليل.", "coda": "بغيت نحجز غرفة لليوم بالليل."}
+{"btec_id": "1492", "example_id": "1051", "dialect": "RAB", "pred_dialect": "RAB", "raw": "لا، داخلا فيها الضريبة و التكاليف ديال الخدمة.", "coda": "لا، داخلها فيها الضريبة والتكاليف ديال الخدمة."}
+{"btec_id": "1506", "example_id": "1052", "dialect": "RAB", "pred_dialect": "RAB", "raw": "تبغي تمشي معايا نتقداو هاد العشية؟", "coda": "تبغي تمشي معاي نتقضاوا هاد العشية؟"}
+{"btec_id": "1508", "example_id": "1053", "dialect": "RAB", "pred_dialect": "RAB", "raw": "أهلا، هاد الكسوة زوينة بزاف.", "coda": "اهلا، هاد الكسوة زوينة بزاف."}
+{"btec_id": "1519", "example_id": "1054", "dialect": "RAB", "pred_dialect": "RAB", "raw": "دابا، الاتصال ديالك بدا، تفضل عافاك.", "coda": "دابا، الاتصال ديالك بدا، تفضل عافاك."}
+{"btec_id": "1525", "example_id": "1055", "dialect": "RAB", "pred_dialect": "RAB", "raw": "شحال النمرة ديال الباب؟", "coda": "شحال النمرة ديال الباب؟"}
+{"btec_id": "1539", "example_id": "1056", "dialect": "RAB", "pred_dialect": "RAB", "raw": "شنو هي أوعر ذكرى ديال هاواي؟", "coda": "شنو هي اوعر ذكرى ديال هاواي؟"}
+{"btec_id": "1556", "example_id": "1057", "dialect": "RAB", "pred_dialect": "RAB", "raw": "نقدر نمشي تما بالميترو؟", "coda": "نقدر نمشي ثما بالميترو؟"}
+{"btec_id": "1560", "example_id": "1058", "dialect": "RAB", "pred_dialect": "RAB", "raw": "بغيت بروشينك.", "coda": "بغيت بروشينغ."}
+{"btec_id": "1562", "example_id": "1059", "dialect": "RAB", "pred_dialect": "RAB", "raw": "فين غاديين بهاد الهضرة؟", "coda": "فين غاديين بهاد الهدرة؟"}
+{"btec_id": "1603", "example_id": "1061", "dialect": "RAB", "pred_dialect": "RAB", "raw": "من عشرة ل طناش عافاك.", "coda": "من عشرة لاثنعش عافاك."}
+{"btec_id": "1619", "example_id": "1062", "dialect": "RAB", "pred_dialect": "RAB", "raw": "بطبيعة الحال. خليني نشوفو. ضربك المرجان، كا نظن.", "coda": "بطبيعة الحال. خليني نشوفه. ضربك المرجان، كنظن."}
+{"btec_id": "1620", "example_id": "1063", "dialect": "RAB", "pred_dialect": "RAB", "raw": "غير احتياط، خلي ليا النمرة ديال الشخص المسئول.", "coda": "غير احتياط، خلي لي النمرة ديال الشخص المسئول."}
+{"btec_id": "1622", "example_id": "1064", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واش كاين شي طريق سيار؟", "coda": "واش كاين شي طريق سيار؟"}
+{"btec_id": "1630", "example_id": "1065", "dialect": "RAB", "pred_dialect": "RAB", "raw": "علاش ماجاش للحفلة لبارح؟", "coda": "علاش ما جاش للحفلة البارح؟"}
+{"btec_id": "1637", "example_id": "1066", "dialect": "RAB", "pred_dialect": "RAB", "raw": "كانت واحد الكسيدة ديال الزحام.", "coda": "كانت واحد الكسيدة ديال الزحام."}
+{"btec_id": "1650", "example_id": "1067", "dialect": "RAB", "pred_dialect": "RAB", "raw": "سمح ليا، عندي النمرة غالطة.", "coda": "اسمح لي، عندي النمرة غالطة."}
+{"btec_id": "1653", "example_id": "1068", "dialect": "RAB", "pred_dialect": "RAB", "raw": "دخل الكود بين ديالك عافاك.", "coda": "دخل الكود بين ديالك عافاك."}
+{"btec_id": "1663", "example_id": "1069", "dialect": "RAB", "pred_dialect": "RAB", "raw": "ما قدرتش نقاد الصورة.", "coda": "ما قدرتش نقاد الصورة."}
+{"btec_id": "1668", "example_id": "1070", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واحد تشيز بوركر و عصير الليمون، عافاك.", "coda": "واحد تشيز بورغر وعصير الليمون، عافاك."}
+{"btec_id": "1670", "example_id": "1071", "dialect": "RAB", "pred_dialect": "RAB", "raw": "ها هو جواز السفر ديالي.", "coda": "هاهو جواز السفر ديالي."}
+{"btec_id": "1682", "example_id": "1072", "dialect": "RAB", "pred_dialect": "RAB", "raw": "عاش، شكرا بزاف . أوه، واش نقدر نطلع لآخر طاج؟", "coda": "عاش، شكرا بزاف. اوه، واش نقدر نطلع لآخر طاج؟"}
+{"btec_id": "1702", "example_id": "1073", "dialect": "RAB", "pred_dialect": "RAB", "raw": "ممكن تعطيني جوج تذاكر للعرض الكوميدي الموسيقي ديال الجمعة الجاية؟", "coda": "ممكن تعطيني جوج تذاكر للعرض الكوميدي الموسيقي ديال الجمعة الجاية؟"}
+{"btec_id": "1718", "example_id": "1074", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واحد المسافر آخر لهيه قال بلي يمكن ليه يبدل معاك البلاصة.", "coda": "واحد المسافر آخر لهيه قال باللي يمكن ليه يبدل معاك البلاصة."}
+{"btec_id": "1754", "example_id": "1075", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واش نقدر نزيد نبقا كالس؟", "coda": "واش نقدر نزيد نبقى كالس؟"}
+{"btec_id": "1766", "example_id": "1076", "dialect": "RAB", "pred_dialect": "RAB", "raw": "قول ليا، كاتعرف شي حاجة كا تستاحق المشاهدة قريبة من هنا؟", "coda": "قول لي، كتعرف شي حاجة كتستاحق المشاهدة قريبة من هنا؟"}
+{"btec_id": "1768", "example_id": "1077", "dialect": "RAB", "pred_dialect": "RAB", "raw": "لا، بغيت نكري نص مجموعة ديال مضارب و صباط.", "coda": "لا، بغيت نكري نص مجموعة ديال مضارب وصباط."}
+{"btec_id": "1782", "example_id": "1078", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واش تقدر تعلمني منين يتلقا داك الصاك لي تالف؟", "coda": "واش تقدر تعلمني منين يتلقى داك الصاك اللي تالف؟"}
+{"btec_id": "1788", "example_id": "1079", "dialect": "RAB", "pred_dialect": "RAB", "raw": "شنو سميت هاد الحديقة الوطنية؟", "coda": "شنو سميت هاد الحديقة الوطنية؟"}
+{"btec_id": "1791", "example_id": "1080", "dialect": "RAB", "pred_dialect": "RAB", "raw": "عندي واحد الخبشة.", "coda": "عندي واحد الخبشة."}
+{"btec_id": "1792", "example_id": "1081", "dialect": "RAB", "pred_dialect": "RAB", "raw": "فين كاينة شي بلاصة للسياحة؟", "coda": "فين كاينة شي بلاصة للسياحة؟"}
+{"btec_id": "1800", "example_id": "1082", "dialect": "RAB", "pred_dialect": "RAB", "raw": "ممكن ناخد شي فاكهة؟", "coda": "ممكن ناخذ شي فاكهة؟"}
+{"btec_id": "1834", "example_id": "1083", "dialect": "RAB", "pred_dialect": "RAB", "raw": "ممكن ناخد الغدا دابا؟", "coda": "ممكن ناخذ الغدا دابا؟"}
+{"btec_id": "1837", "example_id": "1084", "dialect": "RAB", "pred_dialect": "RAB", "raw": "خاصني نصرف هاد الدولارات.", "coda": "خاصني نصرف هاد الدولارات."}
+{"btec_id": "1867", "example_id": "1085", "dialect": "RAB", "pred_dialect": "RAB", "raw": "خاصني طاكسي. أنا في ساوث ماين و ليبيرتي.", "coda": "خاصني تاكسي. انا في ساوث مين ولبرتي."}
+{"btec_id": "1876", "example_id": "1086", "dialect": "RAB", "pred_dialect": "RAB", "raw": "معلوم. واش خاصك بيرمانونت؟", "coda": "معلوم. واش خاصك بيرماننت؟"}
+{"btec_id": "1878", "example_id": "1087", "dialect": "RAB", "pred_dialect": "RAB", "raw": "راها ماشي تفاحة ولكن خوخة.", "coda": "راها ماشي تفاحة ولكن خوخة."}
+{"btec_id": "1903", "example_id": "1088", "dialect": "RAB", "pred_dialect": "RAB", "raw": "غادي نعطيك واحد الوصفة. ديها لعند الصيدلية.", "coda": "غادي نعطيك واحد الوصفة. ديها لعند الصيدلية."}
+{"btec_id": "1927", "example_id": "1089", "dialect": "RAB", "pred_dialect": "RAB", "raw": "كا نسافرو في الجو تلاتة ديال المرات في السيمانة، نهار التلات، الجمعة، و السبت.", "coda": "كنسافروا في الجو ثلاثة ديال المرات في السيمانة، نهار الثلاث، الجمعة، والسبت."}
+{"btec_id": "1931", "example_id": "1090", "dialect": "RAB", "pred_dialect": "RAB", "raw": "غالي، ياك؟", "coda": "غالي، ياك؟"}
+{"btec_id": "1948", "example_id": "1091", "dialect": "RAB", "pred_dialect": "RAB", "raw": "آه، عندنا هاداك. غادي نوجدوه ليك.", "coda": "آه، عندنا هاداك. غادي نوجدوه ليك."}
+{"btec_id": "1950", "example_id": "1092", "dialect": "RAB", "pred_dialect": "RAB", "raw": "ممكن تخلي عندك الأمتعة ديالي حتال التلاتة ديال العشية؟", "coda": "ممكن تخلي عندك الامتعة ديالي حتى لالثلاثة ديال العشية؟"}
+{"btec_id": "1951", "example_id": "1093", "dialect": "RAB", "pred_dialect": "RAB", "raw": "لا، أنا بغيت غير ندوز و صافي.", "coda": "لا، انا بغيت غير ندوز وصافي."}
+{"btec_id": "1954", "example_id": "1094", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واش نقدر نحجز اكري-طوموبيل هنايا؟", "coda": "واش نقدر نحجز اكري-طوموبيل هنايا؟"}
+{"btec_id": "1968", "example_id": "1095", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واش انت ميريكاني؟", "coda": "واش انت مريكاني؟"}
+{"btec_id": "1980", "example_id": "1096", "dialect": "RAB", "pred_dialect": "RAB", "raw": "لهاد البلاصة، عافاك.", "coda": "لهاد البلاصة، عافاك."}
+{"btec_id": "1985", "example_id": "1097", "dialect": "RAB", "pred_dialect": "RAB", "raw": "السيارة ديالي ساكتة.", "coda": "السيارة ديالي ساكتة."}
+{"btec_id": "1988", "example_id": "1098", "dialect": "RAB", "pred_dialect": "RAB", "raw": "فيت هو الريسيل؟", "coda": "فين هو الريسيل؟"}
+{"btec_id": "1993", "example_id": "1099", "dialect": "RAB", "pred_dialect": "RAB", "raw": "بغينا شي ركنة هادئة، إيلا كان ممكن.", "coda": "بغينا شي ركنة هادئة، ايلا كان ممكن."}
+{"btec_id": "11342", "example_id": "1100", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واحد سكوتش مع ماء، عافاك. واش عندك شي ماكلة خفيفة؟", "coda": "واحد سكوتش مع ماء، عافاك. واش عندك شي ماكلة خفيفة؟"}
+{"btec_id": "11343", "example_id": "1101", "dialect": "RAB", "pred_dialect": "RAB", "raw": "كيفاش يمكن لي نطفي هاد الضو؟", "coda": "كيفاش يمكن لي نطفي هاد الضو؟"}
+{"btec_id": "11360", "example_id": "1102", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واش هو مشغول بزاف اليوم؟", "coda": "واش هو مشغول بزاف اليوم؟"}
+{"btec_id": "11375", "example_id": "1104", "dialect": "RAB", "pred_dialect": "RAB", "raw": "اعطيني شهادة طبية، عافاك.", "coda": "اعطيني شهادة طبية، عافاك."}
+{"btec_id": "11378", "example_id": "1105", "dialect": "RAB", "pred_dialect": "RAB", "raw": "بغيت تعاود تقصرو بإنش هنا.", "coda": "بغيت تعاود تقصره بانش هنا."}
+{"btec_id": "11392", "example_id": "1106", "dialect": "RAB", "pred_dialect": "RAB", "raw": "ماكانحسش براسي هو هاداك. عافاك اعطيني الدوا.", "coda": "ما كنحسش براسي هو هاداك. عافاك اعطيني الدوا."}
+{"btec_id": "11403", "example_id": "1107", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واش يمكن نحصل على جريدة يابانية، عافاك؟", "coda": "واش يمكن نحصل على جريدة يابانية، عافاك؟"}
+{"btec_id": "11404", "example_id": "1108", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واخا. واش يمكن لي نهبط من الكار فينما كان؟ اشحال كيكلف؟", "coda": "وخا. واش يمكن لي نهبط من الكار فينما كان؟ شحال كيكلف؟"}
+{"btec_id": "11412", "example_id": "1109", "dialect": "RAB", "pred_dialect": "RAB", "raw": "إنا طوبيس كايمشي لوسط المدينة؟", "coda": "انى طوبيس كيمشي لوسط المدينة؟"}
+{"btec_id": "11420", "example_id": "1110", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واش كاين شي اكسبريس لبوسطن؟", "coda": "واش كاين شي اكسبرس لبوسطن؟"}
+{"btec_id": "11435", "example_id": "1111", "dialect": "RAB", "pred_dialect": "RAB", "raw": "عافاك وللي المراسل ديالي.", "coda": "عافاك ولي المراسل ديالي."}
+{"btec_id": "11442", "example_id": "1112", "dialect": "RAB", "pred_dialect": "RAB", "raw": "أنا متحمس بزاف، ماقادرش نرصى فبلاصتي.", "coda": "انا متحمس بزاف، ما قادرش نرسا فبلاصتي."}
+{"btec_id": "11449", "example_id": "1113", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واش يمكن لي نهبط فأوطيل هيلتون؟", "coda": "واش يمكن لي نهبط فاوطيل هيلتون؟"}
+{"btec_id": "11457", "example_id": "1115", "dialect": "RAB", "pred_dialect": "RAB", "raw": "دور على اليسار فهاد الشارع وسير معاه نيشان حتى للشارع اللول على اليمين.", "coda": "دور على اليسار فهاد الشارع وسير معاه نيشان حتى للشارع الاول على اليمين."}
+{"btec_id": "11462", "example_id": "1116", "dialect": "RAB", "pred_dialect": "RAB", "raw": "بغيت نعرف واش من الممكن نصيفط هاد المجموعة د المواعن لطوكيو.", "coda": "بغيت نعرف واش من الممكن نصيفط هاد المجموعة دالمواعن لطوكيو."}
+{"btec_id": "11467", "example_id": "1117", "dialect": "RAB", "pred_dialect": "RAB", "raw": "بغيت مسحوق مرطب للجسم.", "coda": "بغيت مسحوق مرطب للجسم."}
+{"btec_id": "11478", "example_id": "1118", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واش كاينة شي ماكلة ماسخوناش و ناقصة من التوابل؟", "coda": "واش كاينة شي ماكلة ما سخوناش وناقصة من التوابل؟"}
+{"btec_id": "11479", "example_id": "1119", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واش هاد الشي قريب باش نمشيو ليه على رجلينا؟", "coda": "واش هاد الشي قريب باش نمشيوا ليه على رجلينا؟"}
+{"btec_id": "11493", "example_id": "1120", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واش يمكن ليك تعطيني الملح؟", "coda": "واش يمكن ليك تعطيني الملح؟"}
+{"btec_id": "11500", "example_id": "1121", "dialect": "RAB", "pred_dialect": "RAB", "raw": "بغيت نمشي لوول ستريت. كيفاش يمكن لي نوصل ليه؟", "coda": "بغيت نمشي لوول ستريت. كيفاش يمكن لي نوصل ليه؟"}
+{"btec_id": "11544", "example_id": "1123", "dialect": "RAB", "pred_dialect": "RAB", "raw": "داخل الفطور، الرسوم، والخدمة حتى هي، كيجي المبلغ خمسة و ربعين دولار للفرد.", "coda": "داخل الفطور، الرسوم، والخدمة حتى هي، كيجي المبلغ خمسة واربعين دولار للفرد."}
+{"btec_id": "11550", "example_id": "1124", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واش تقدر تصلح هاد الشي؟", "coda": "واش تقدر تصلح هاد الشي؟"}
+{"btec_id": "11576", "example_id": "1126", "dialect": "RAB", "pred_dialect": "RAB", "raw": "مالقيتش الامتعة ديالك.", "coda": "ما لقيتش الامتعة ديالك."}
+{"btec_id": "11595", "example_id": "1127", "dialect": "RAB", "pred_dialect": "RAB", "raw": "سير نيشان، عافاك.", "coda": "سير نيشان، عافاك."}
+{"btec_id": "11600", "example_id": "1128", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واش الما صالح للشرب هنا؟", "coda": "واش الما صالح للشرب هنا؟"}
+{"btec_id": "11622", "example_id": "1129", "dialect": "RAB", "pred_dialect": "RAB", "raw": "أه، ياللاه. راه غير جوج دولار.", "coda": "آه، يلا. راه غير جوج دولار."}
+{"btec_id": "11626", "example_id": "1130", "dialect": "RAB", "pred_dialect": "RAB", "raw": "يمكن ليك عافاك تبدل هاد الكسوة بواحدة أخرى بقياس اكبر؟", "coda": "يمكن ليك عافاك تبدل هاد الكسوة بواحدة اخرى بقياس اكبر؟"}
+{"btec_id": "11631", "example_id": "1131", "dialect": "RAB", "pred_dialect": "RAB", "raw": "حسنا، ياللاه بينا. غادي نعاونك فالفروض جيالك من بعد ما ناكلو شي بيتزا.", "coda": "حسنا، يالله بينا. غادي نعاونك فالفروض ديالك من بعد ما ناكلوا شي بيتزا."}
+{"btec_id": "11633", "example_id": "1132", "dialect": "RAB", "pred_dialect": "RAB", "raw": "نعم، سيد تاناكا. كاينين جوج رسائل ليك.", "coda": "نعم، سيد تاناكا. كاينين جوج رسائل ليك."}
+{"btec_id": "11643", "example_id": "1133", "dialect": "RAB", "pred_dialect": "RAB", "raw": "هاد الشي ماجاش معايا.", "coda": "هاد الشي ما جاش معاي."}
+{"btec_id": "11646", "example_id": "1134", "dialect": "RAB", "pred_dialect": "RAB", "raw": "غدا نهار آخر.", "coda": "غدا نهار آخر."}
+{"btec_id": "11663", "example_id": "1135", "dialect": "RAB", "pred_dialect": "RAB", "raw": "يمكن ليا واقيلا نعاونك. واش خاصك فيتامين سي؟", "coda": "يمكن لي واقيلا نعاونك. واش خاصك فيتامين سي؟"}
+{"btec_id": "11689", "example_id": "1136", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واحد السراق شفر ليا بزطامي فالقطار.", "coda": "واحد السراق شفر لي بزطامي فالقطار."}
+{"btec_id": "11704", "example_id": "1137", "dialect": "RAB", "pred_dialect": "RAB", "raw": "راه بعيد بزاف. من الأحسن تأخذ طاكسي.", "coda": "راه بعيد بزاف. من الاحسن تاخذ تاكسي."}
+{"btec_id": "11708", "example_id": "1138", "dialect": "RAB", "pred_dialect": "RAB", "raw": "بغيت بلاصة جهة الممر، عافاك.", "coda": "بغيت بلاصة جهة الممر، عافاك."}
+{"btec_id": "11709", "example_id": "1139", "dialect": "RAB", "pred_dialect": "RAB", "raw": "كنعيش فشقة كتكلفني تمانين ألف ين فالشهر.", "coda": "كنعيش فشقة كتكلفني ثمانين الف ين فالشهر."}
+{"btec_id": "11714", "example_id": "1140", "dialect": "RAB", "pred_dialect": "RAB", "raw": "يمكن لي نقاطعك؟", "coda": "يمكن لي نقاطعك؟"}
+{"btec_id": "11734", "example_id": "1141", "dialect": "RAB", "pred_dialect": "RAB", "raw": "اسمح لي. واش تبغي تبدل البلاصة معايا؟", "coda": "اسمح لي. واش تبغي تبدل البلاصة معاي؟"}
+{"btec_id": "11751", "example_id": "1143", "dialect": "RAB", "pred_dialect": "RAB", "raw": "امشي الركن و دور على اليسار حتى لإشارة المرور.", "coda": "امشي الركن ودور على اليسار حتى لاشارة المرور."}
+{"btec_id": "11800", "example_id": "1144", "dialect": "RAB", "pred_dialect": "RAB", "raw": "بغيت نحط الأغراض ديالي الغالية في خزنة الفندق.", "coda": "بغيت نحط الاغراض ديالي الغالية في خزنة الفندق."}
+{"btec_id": "11821", "example_id": "1145", "dialect": "RAB", "pred_dialect": "RAB", "raw": "نعم، ولكن تأكد باللي التذكرة معاك.", "coda": "نعم، ولكن تأكد باللي التذكرة معاك."}
+{"btec_id": "11862", "example_id": "1146", "dialect": "RAB", "pred_dialect": "RAB", "raw": "غير ناس قلال غادي ينضمو لهاد الجولة الاختيارية.", "coda": "غير ناس قلال غادي ينضموا لهاد الجولة الاختيارية."}
+{"btec_id": "11872", "example_id": "1147", "dialect": "RAB", "pred_dialect": "RAB", "raw": "ماشي مهم. على كل حال، وصلني لوسط الحي الصيني، عافاك. غادي نحاول نلقاه بوحدي.", "coda": "ماشي مهم. على كل حال، وصلني لوسط الحي الصيني، عافاك. غادي نحاول نلقاه بوحدي."}
+{"btec_id": "11879", "example_id": "1148", "dialect": "RAB", "pred_dialect": "RAB", "raw": "ناس جداد توظفو فأبريل.", "coda": "ناس جداد توظفوا فابريل."}
+{"btec_id": "11880", "example_id": "1149", "dialect": "RAB", "pred_dialect": "RAB", "raw": "كنتمنى.", "coda": "كنتمنى."}
+{"btec_id": "11885", "example_id": "1150", "dialect": "RAB", "pred_dialect": "RAB", "raw": "جوج سكوتش مع ماء، عافاك.", "coda": "جوج سكوتش مع ماء، عافاك."}
+{"btec_id": "11901", "example_id": "1151", "dialect": "RAB", "pred_dialect": "RAB", "raw": "اشكون كيلعب؟", "coda": "اشكون كيلعب؟"}
+{"btec_id": "11916", "example_id": "1152", "dialect": "RAB", "pred_dialect": "RAB", "raw": "على اليسار، إذا جات على خاطرك.", "coda": "على اليسار، اذا جات على خاطرك."}
+{"btec_id": "11949", "example_id": "1153", "dialect": "RAB", "pred_dialect": "RAB", "raw": "هاد السنة دلقدام كتضرني.", "coda": "هاد السنة دالقدام كتضرني."}
+{"btec_id": "11959", "example_id": "1154", "dialect": "RAB", "pred_dialect": "RAB", "raw": "آشنا هي آخر لعبة كمبيوتر تصلح لي عندو خمسطاشر عام؟", "coda": "آشنا هي آخر لعبة كمبيوتر تصلح لي عنده خمستعشر عام؟"}
+{"btec_id": "11972", "example_id": "1155", "dialect": "RAB", "pred_dialect": "RAB", "raw": "إيوا نشوفك غدا.", "coda": "ايوا نشوفك غدا."}
+{"btec_id": "11975", "example_id": "1156", "dialect": "RAB", "pred_dialect": "RAB", "raw": "لا، بلحاق شكرا ليك. كنحس براسي دابا احسن شوية.", "coda": "لا، بالحق شكرا ليك. كنحس براسي دابا احسن شوية."}
+{"btec_id": "11976", "example_id": "1157", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واش عندك شي خبز؟", "coda": "واش عندك شي خبز؟"}
+{"btec_id": "11977", "example_id": "1158", "dialect": "RAB", "pred_dialect": "RAB", "raw": "كيفاش داير مستواك فالكمنجة؟", "coda": "كيفاش داير مستواك فالكمنجة؟"}
+{"btec_id": "11990", "example_id": "1159", "dialect": "RAB", "pred_dialect": "RAB", "raw": "صاحبي زلق وطاح فالحمام.", "coda": "صاحبي زلق وطاح فالحمام."}
+{"btec_id": "11991", "example_id": "1160", "dialect": "RAB", "pred_dialect": "RAB", "raw": "يمكن لي ناخد شي طفاية؟", "coda": "يمكن لي ناخذ شي طفاية؟"}
+{"btec_id": "11997", "example_id": "1161", "dialect": "RAB", "pred_dialect": "RAB", "raw": "المسيحية تمنعات و البلاد تسدات على باقي العالم.", "coda": "المسيحية تمنعات والبلاد تسدات على باقي العالم."}
+{"btec_id": "12005", "example_id": "1162", "dialect": "RAB", "pred_dialect": "RAB", "raw": "شحال بغيتي من داك الشي؟", "coda": "شحال بغيتي من داك الشي؟"}
+{"btec_id": "12012", "example_id": "1163", "dialect": "RAB", "pred_dialect": "RAB", "raw": "كوكتيل الكروفيت ليها ونفس الشي ليا.", "coda": "كوكتيل الكروفيت ليها ونفس الشي لي."}
+{"btec_id": "12033", "example_id": "1164", "dialect": "RAB", "pred_dialect": "RAB", "raw": "تقدر توقع لي هنا؟ وعافاك بالحروف الاولى دسميتك هنا.", "coda": "تقدر توقع لي هنا؟ وعافاك بالحروف الاولى دسميتك هنا."}
+{"btec_id": "12035", "example_id": "1165", "dialect": "RAB", "pred_dialect": "RAB", "raw": "كان من دواعي سروري نزور المقر ديالك ونتناقش معاك. شكرا بزاف على حسن تعاونك.", "coda": "كان من دواعي سروري نزور المقر ديالك ونتناقش معاك. شكرا بزاف على حسن تعاونك."}
+{"btec_id": "12054", "example_id": "1166", "dialect": "RAB", "pred_dialect": "RAB", "raw": "كتشخر مجهد.", "coda": "كتشخر مجهد."}
+{"btec_id": "12056", "example_id": "1167", "dialect": "RAB", "pred_dialect": "RAB", "raw": "من بعد كل شي ما عجبنيش هاد اللون. نقدر نرجعو؟", "coda": "من بعد كل شي ما عجبنيش هاد اللون. نقدر نرجعه؟"}
+{"btec_id": "12069", "example_id": "1168", "dialect": "RAB", "pred_dialect": "RAB", "raw": "يمكن ليا ناخد شوية ديال لبزار؟", "coda": "يمكن لي ناخذ شوية ديال البزار؟"}
+{"btec_id": "12101", "example_id": "1169", "dialect": "RAB", "pred_dialect": "RAB", "raw": "معاك السيد تاكاهاشي فالغرفة خمسة تسعود واربعين. واش تقدر تصيفط ليا اربع زاجات ديال بيرة بودويزر، عافاك؟", "coda": "معاك السيد تاكاهاشي فالغرفة خمسة تسعود واربعين. واش تقدر تصيفط لي اربع زاجات ديال بيرة بودويزر، عافاك؟"}
+{"btec_id": "12131", "example_id": "1170", "dialect": "RAB", "pred_dialect": "RAB", "raw": "هاهي سبعين دولار.", "coda": "هاهي سبعين دولار."}
+{"btec_id": "12140", "example_id": "1171", "dialect": "RAB", "pred_dialect": "RAB", "raw": "عافاك اتصل بيا فالأوطيل منين تلقى الأمتعة ديالي.", "coda": "عافاك اتصل بي فالاوطيل منين تلقى الامتعة ديالي."}
+{"btec_id": "12150", "example_id": "1172", "dialect": "RAB", "pred_dialect": "RAB", "raw": "بغيت نفيق غدا صباح مع التمنية ونص، عافاك.", "coda": "بغيت نفيق غدا صباح مع الثمانية ونص، عافاك."}
+{"btec_id": "12167", "example_id": "1173", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واخا، بلحاق هاد الشي بزاف وأنا أصلا واكل بزاف.", "coda": "وخا، بالحق هاد الشي بزاف وانا اصلا واكل بزاف."}
+{"btec_id": "12172", "example_id": "1174", "dialect": "RAB", "pred_dialect": "RAB", "raw": "بغيت شوية من معجون الأسنان.", "coda": "بغيت شوية من معجون الاسنان."}
+{"btec_id": "12173", "example_id": "1175", "dialect": "RAB", "pred_dialect": "RAB", "raw": "كنحس براسي ماشي هو هاداك.", "coda": "كنحس براسي ماشي هو هاداك."}
+{"btec_id": "12182", "example_id": "1176", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واش كتعطي شي تخفيضات؟", "coda": "واش كتعطي شي تخفيضات؟"}
+{"btec_id": "12193", "example_id": "1177", "dialect": "RAB", "pred_dialect": "RAB", "raw": "طوكيو زيرو تلاتة تسعود تسعود تسعود تسعود أربعة خمسة ستة سبعة.", "coda": "طوكيو زيرو ثلاثة تسعود تسعود تسعود تسعود اربعة خمسة ستة سبعة."}
+{"btec_id": "12240", "example_id": "1178", "dialect": "RAB", "pred_dialect": "RAB", "raw": "تقدر تعاوني نلقى حديقة الحيوان؟", "coda": "تقدر تعاونني نلقى حديقة الحيوان؟"}
+{"btec_id": "12246", "example_id": "1179", "dialect": "RAB", "pred_dialect": "RAB", "raw": "يمكن ليك تقول لي كيفاش كايتصايب؟", "coda": "يمكن ليك تقول لي كيفاش كيتصايب؟"}
+{"btec_id": "12247", "example_id": "1180", "dialect": "RAB", "pred_dialect": "RAB", "raw": "آش من ساعة غادي تكمل الجولة فالطوبيس؟", "coda": "آش من ساعة غادي تكمل الجولة فالطوبيس؟"}
+{"btec_id": "12254", "example_id": "1181", "dialect": "RAB", "pred_dialect": "RAB", "raw": "كاتعرف كيفاش تستخدم التلفون؟", "coda": "كتعرف كيفاش تستخدم التلفون؟"}
+{"btec_id": "12259", "example_id": "1182", "dialect": "RAB", "pred_dialect": "RAB", "raw": "بالتاكيد. عندنا بعض العلامات ديال الكتوبة أمريكية أصلية زوينة.", "coda": "بالتاكيد. عندنا بعض العلامات ديال الكتوبة امريكية اصلية زوينة."}
+{"btec_id": "12298", "example_id": "1183", "dialect": "RAB", "pred_dialect": "RAB", "raw": "عامل مكالمات كيهضر باليابانية، عافاك.", "coda": "عامل مكالمات كيهدر باليابانية، عافاك."}
+{"btec_id": "12333", "example_id": "1185", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واش يمكن ليك تسحب ليا السيارة؟", "coda": "واش يمكن ليك تسحب لي السيارة؟"}
+{"btec_id": "12345", "example_id": "1186", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واش هادي العيادة إف؟", "coda": "واش هادي العيادة اف؟"}
+{"btec_id": "12364", "example_id": "1187", "dialect": "RAB", "pred_dialect": "RAB", "raw": "أهلا، آنسة ياماكوشي؟ مخاطبك على الخط. المكالمة ديالك تقبلات. تفضلي، عافاكي.", "coda": "اهلا، آنسة ياماكوشي؟ مخاطبك على الخط. المكالمة ديالك تقبلات. تفضلي، عافاكي."}
+{"btec_id": "12396", "example_id": "1188", "dialect": "RAB", "pred_dialect": "RAB", "raw": "وقتاش غادي نوصلو نلوس أنجلوس؟", "coda": "وقتاش غادي نوصلوا للوس انجلوس؟"}
+{"btec_id": "12403", "example_id": "1189", "dialect": "RAB", "pred_dialect": "RAB", "raw": "سير نيشان مدة خمسة الدقايق تقريبا، ودور على ليسار.", "coda": "سير نيشان مدة خمسة الدقايق تقريبا، ودور على اليسار."}
+{"btec_id": "12416", "example_id": "1190", "dialect": "RAB", "pred_dialect": "RAB", "raw": "من هنا الطريق نلبحر.", "coda": "من هنا الطريق للبحر."}
+{"btec_id": "12420", "example_id": "1191", "dialect": "RAB", "pred_dialect": "RAB", "raw": "هاد أتاي بالعشوب كيساعد على تجديد الجسم.", "coda": "هاد اتاي بالعشوب كيساعد على تجديد الجسم."}
+{"btec_id": "12421", "example_id": "1192", "dialect": "RAB", "pred_dialect": "RAB", "raw": "هاد الشي ما كيتصنعشي فاليابان؟", "coda": "هاد الشي ما كيتصنعشي فاليابان؟"}
+{"btec_id": "12443", "example_id": "1193", "dialect": "RAB", "pred_dialect": "RAB", "raw": "واخا. من هنا عافاك. غادي نوريك الغرفة ديالك.", "coda": "وخا. من هنا عافاك. غادي نوريك الغرفة ديالك."}
+{"btec_id": "12479", "example_id": "1194", "dialect": "RAB", "pred_dialect": "RAB", "raw": "خاصني نخرج من الأوطيل قبل الظهر.", "coda": "خاصني نخرج من الاوطيل قبل الظهر."}
+{"btec_id": "12495", "example_id": "1195", "dialect": "RAB", "pred_dialect": "RAB", "raw": "جوج هامبورغر وجوج قهيوات، عافاك. غادي نديهوم معايا.", "coda": "جوج هامبورغر وجوج قهيوات، عافاك. غادي نديهم معاي."}
+{"btec_id": "12510", "example_id": "1196", "dialect": "RAB", "pred_dialect": "RAB", "raw": "نقدر ندي معايا هاد جوج حقائب؟", "coda": "نقدر ندي معاي هاد جوج حقائب؟"}
+{"btec_id": "12527", "example_id": "1197", "dialect": "RAB", "pred_dialect": "RAB", "raw": "أنا طلبت اللحم، ماشي الحوت. تقدر تبدل ليا هاد الشي؟", "coda": "انا طلبت اللحم، ماشي الحوت. تقدر تبدل لي هاد الشي؟"}
+{"btec_id": "12546", "example_id": "1198", "dialect": "RAB", "pred_dialect": "RAB", "raw": "ولدي عيان فمرة.", "coda": "ولدي عيان فمرة."}
+{"btec_id": "12551", "example_id": "1199", "dialect": "RAB", "pred_dialect": "RAB", "raw": "معدتي كتضرني.", "coda": "معدتي كتضرني."}
+{"btec_id": "184", "example_id": "1225", "dialect": "TUN", "pred_dialect": "RAB", "raw": "شكون اعز صديق عندك؟", "coda": "شكون اعز صديق عندك؟"}
+{"btec_id": "368", "example_id": "1241", "dialect": "TUN", "pred_dialect": "RAB", "raw": "منقالتي. كانت من نوع سايكو الرقمية.", "coda": "منقالتي. كانت من نوع سايكو الرقمية."}
+{"btec_id": "1980", "example_id": "1396", "dialect": "TUN", "pred_dialect": "RAB", "raw": "غادي، عيشك.", "coda": "غادي، يعيشك."}
+{"btec_id": "11746", "example_id": "1442", "dialect": "TUN", "pred_dialect": "RAB", "raw": "إي، بطبيعة.", "coda": "اي، بالطبيعة."}

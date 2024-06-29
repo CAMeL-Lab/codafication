@@ -1,0 +1,300 @@
+{"btec_id": "5", "example_id": "1200", "dialect": "TUN", "pred_dialect": "TUN", "raw": "اهوكا غادي، بالضبط قدام البيرو متاع الارشادات السياحية.", "coda": "اهوكا غادي، بالضبط قدام البيرو متاع الارشادات السياحية."}
+{"btec_id": "9", "example_id": "1201", "dialect": "TUN", "pred_dialect": "TUN", "raw": "عمري ما سمعت بالادريسة هاذي هوني.", "coda": "عمري ما سمعت بالادريسة هاذي هوني."}
+{"btec_id": "11", "example_id": "1202", "dialect": "TUN", "pred_dialect": "TUN", "raw": "امشي طول طول حتى لين تشوف صيدلية.", "coda": "امشي طول طول حتى لين تشوف صيدلية."}
+{"btec_id": "26", "example_id": "1203", "dialect": "TUN", "pred_dialect": "TUN", "raw": "بقداش فطور الصباح؟", "coda": "بقداش فطور الصباح؟"}
+{"btec_id": "27", "example_id": "1204", "dialect": "TUN", "pred_dialect": "TUN", "raw": "كيفاش انجم نعاونك؟", "coda": "كيفاش ننجم نعاونك؟"}
+{"btec_id": "30", "example_id": "1205", "dialect": "TUN", "pred_dialect": "TUN", "raw": "دور الدورة الثالثة عاليسار.", "coda": "دور الدورة الثالثة عاليسار."}
+{"btec_id": "50", "example_id": "1206", "dialect": "TUN", "pred_dialect": "TUN", "raw": "تحب كريمة و سكر في قهوتك؟", "coda": "تحب كريمة وسكر في قهوتك؟"}
+{"btec_id": "64", "example_id": "1207", "dialect": "TUN", "pred_dialect": "TUN", "raw": "تنجم تصبلي ها الشاك بميتين دولار متاعي؟", "coda": "تنجم تصب لي هالشاك بميتين دولار متاعي؟"}
+{"btec_id": "74", "example_id": "1208", "dialect": "TUN", "pred_dialect": "CAI", "raw": "لو لازم يضهر، كلمني عيشك.", "coda": "لو لازم يظهر، كلمني يعيشك."}
+{"btec_id": "86", "example_id": "1209", "dialect": "TUN", "pred_dialect": "TUN", "raw": "ويني القهوة؟", "coda": "ويني القهوة؟"}
+{"btec_id": "87", "example_id": "1210", "dialect": "TUN", "pred_dialect": "TUN", "raw": "نحب مريول متاع صغار.", "coda": "نحب مريول متاع صغار."}
+{"btec_id": "91", "example_id": "1211", "dialect": "TUN", "pred_dialect": "TUN", "raw": "باهي. مراسلة عادية بخمسة و ثمانين سنت وزايدة تلاثة دولارات بالضبط للمراسلة اللي من النوع لبخاص.", "coda": "باهي. مراسلة عادية بخمسة وثمانين سنت وزايدة ثلاثة دولارات بالضبط للمراسلة اللي من النوع الخاص."}
+{"btec_id": "120", "example_id": "1212", "dialect": "TUN", "pred_dialect": "TUN", "raw": "انا في بلاصتك نشريه.", "coda": "انا في بلاصتك نشريه."}
+{"btec_id": "129", "example_id": "1213", "dialect": "TUN", "pred_dialect": "TUN", "raw": "باش نلقى مشكلة مع الديوانة؟", "coda": "باش نلقى مشكلة مع الديوانة؟"}
+{"btec_id": "130", "example_id": "1214", "dialect": "TUN", "pred_dialect": "TUN", "raw": "تبيعو صبابط رسمية يكونو واسعين من شيرة الصوابع؟", "coda": "تبيعوا صبابط رسمية يكونوا واسعين من شيرة الصوابع؟"}
+{"btec_id": "140", "example_id": "1215", "dialect": "TUN", "pred_dialect": "TUN", "raw": "لا. تحب بيت فيها زوز فروشات نحسبوها لشخص برك؟ عنا وحدة.", "coda": "لا. تحب بيت فيها زوز فروشات نحسبوها لشخص برك؟ عننا واحدة."}
+{"btec_id": "143", "example_id": "1216", "dialect": "TUN", "pred_dialect": "TUN", "raw": "نحب برمانونت قوية، عيشك.", "coda": "نحب بيرمنون قوية، يعيشك."}
+{"btec_id": "145", "example_id": "1217", "dialect": "TUN", "pred_dialect": "TUN", "raw": "تحب كعبة بيرا.", "coda": "تحب كعبة بيرة."}
+{"btec_id": "157", "example_id": "1218", "dialect": "TUN", "pred_dialect": "TUN", "raw": "صباح الخير. لاباس؟", "coda": "صباح الخير. لا باس؟"}
+{"btec_id": "158", "example_id": "1219", "dialect": "TUN", "pred_dialect": "TUN", "raw": "سامحني لازمني نشوف اوراقك.", "coda": "سامحني لازمني نشوف اوراقك."}
+{"btec_id": "169", "example_id": "1220", "dialect": "TUN", "pred_dialect": "TUN", "raw": "شنوة الصوص؟", "coda": "شنوا الصوص؟"}
+{"btec_id": "170", "example_id": "1221", "dialect": "TUN", "pred_dialect": "TUN", "raw": "هذا بارد شوية. بش تسخنو؟", "coda": "هذا بارد شوية. باش تسخنه؟"}
+{"btec_id": "173", "example_id": "1222", "dialect": "TUN", "pred_dialect": "TUN", "raw": "سامحني، فما شكون في البلاصة هاذي.", "coda": "سامحني، فما شكون في البلاصة هاذي."}
+{"btec_id": "176", "example_id": "1223", "dialect": "TUN", "pred_dialect": "TUN", "raw": "انا لاباس. اما ميسالش تكلم صاحبي؟", "coda": "انا لا باس. اما ميسالش تكلم صاحبي؟"}
+{"btec_id": "177", "example_id": "1224", "dialect": "TUN", "pred_dialect": "DOH", "raw": "شكرا، يزي.", "coda": "شكرا، يزي."}
+{"btec_id": "184", "example_id": "1225", "dialect": "TUN", "pred_dialect": "RAB", "raw": "شكون اعز صديق عندك؟", "coda": "شكون اعز صديق عندك؟"}
+{"btec_id": "187", "example_id": "1226", "dialect": "TUN", "pred_dialect": "TUN", "raw": "يوم الصحة والرياضة عشرة أكتوبر هو يوم وطني الهدف منو تدعيم صحة العباد.", "coda": "يوم الصحة والرياضة عشرة اكتوبر هو يوم وطني الهدف منه تدعيم صحة العباد."}
+{"btec_id": "192", "example_id": "1227", "dialect": "TUN", "pred_dialect": "TUN", "raw": "تحبني نشوف تحت الكبوت؟", "coda": "تحبني نشوف تحت الكبوت؟"}
+{"btec_id": "206", "example_id": "1228", "dialect": "TUN", "pred_dialect": "TUN", "raw": "تعاوني بش نلقى فاليجتي؟", "coda": "تعاوني باش نلقى فاليجتي؟"}
+{"btec_id": "221", "example_id": "1229", "dialect": "TUN", "pred_dialect": "CAI", "raw": "من فضلك اعمل التحضيرات اللازمة بالمسبق؟", "coda": "من فضلك اعمل التحضيرات اللازمة بالمسبق؟"}
+{"btec_id": "238", "example_id": "1230", "dialect": "TUN", "pred_dialect": "TUN", "raw": "فما شكون لاهي بيا. عيشك.", "coda": "فما شكون لاهي بي. يعيشك."}
+{"btec_id": "261", "example_id": "1231", "dialect": "TUN", "pred_dialect": "TUN", "raw": "كيف توصل غادي، اسال شكون اخر، يعيشك.", "coda": "كيف توصل غادي، اسأل شكون آخر، يعيشك."}
+{"btec_id": "280", "example_id": "1232", "dialect": "TUN", "pred_dialect": "TUN", "raw": "حاشتي بالتمديد اربعة و عشرين، من فضلك.", "coda": "حاشتي بالتمديد اربعة وعشرين، من فضلك."}
+{"btec_id": "285", "example_id": "1233", "dialect": "TUN", "pred_dialect": "TUN", "raw": "تفضل زوز دولارات. خلي الباقي عندك.", "coda": "تفضل زوز دولارات. خلي الباقي عندك."}
+{"btec_id": "315", "example_id": "1234", "dialect": "TUN", "pred_dialect": "TUN", "raw": "اعطيني واحد برغر و واحد شيزبرغر، عيشك.", "coda": "اعطيني واحد برغر وواحد شيز برغر، يعيشك."}
+{"btec_id": "319", "example_id": "1235", "dialect": "TUN", "pred_dialect": "TUN", "raw": "بقداش تحسب الاجراءات؟", "coda": "بقداش تحسب الاجراءات؟"}
+{"btec_id": "320", "example_id": "1236", "dialect": "TUN", "pred_dialect": "TUN", "raw": "كل واحد يحب يخلص وحدو.", "coda": "كل واحد يحب يخلص وحده."}
+{"btec_id": "326", "example_id": "1237", "dialect": "TUN", "pred_dialect": "CAI", "raw": "كان موجود على كرسي في الاستقبال.", "coda": "كان موجود على كرسي في الاستقبال."}
+{"btec_id": "333", "example_id": "1238", "dialect": "TUN", "pred_dialect": "TUN", "raw": "صرفلي هاليان لجنيه من فضلك.", "coda": "اصرف لي هاليان لجنيه من فضلك."}
+{"btec_id": "346", "example_id": "1239", "dialect": "TUN", "pred_dialect": "TUN", "raw": "اعطيني قاموس الجيب، عيشك.", "coda": "اعطيني قاموس الجيب، يعيشك."}
+{"btec_id": "360", "example_id": "1240", "dialect": "TUN", "pred_dialect": "TUN", "raw": "لزوز مالناس مع السبعة. الاسم واتانابي.", "coda": "لزوز مالناس مع السبعة. الاسم واتانابي."}
+{"btec_id": "368", "example_id": "1241", "dialect": "TUN", "pred_dialect": "RAB", "raw": "منقالتي. كانت من نوع سايكو الرقمية.", "coda": "منقالتي. كانت من نوع سايكو الرقمية."}
+{"btec_id": "370", "example_id": "1242", "dialect": "TUN", "pred_dialect": "TUN", "raw": "بش يسرنا انو نسربيوكم حاجة تشربوها من اختياركم، و بعد نسربيوكم العشاء. عندكم دليل مفصل عالمشروبات الي نسربيوها في الرحلة هاذي تلقاوه في جزء المعلومات في مجلتنا.", "coda": "باش يسرنا انه نسربيوكم حاجة تشربوها من اختياركم، وبعد نسربيوكم العشاء. عندكم دليل مفصل عالمشروبات اللي نسربيوها في الرحلة هاذي تلقاوه في جزء المعلومات في مجلتنا."}
+{"btec_id": "373", "example_id": "1243", "dialect": "TUN", "pred_dialect": "TUN", "raw": "تسكن قريب من هوني؟", "coda": "تسكن قريب من هوني؟"}
+{"btec_id": "375", "example_id": "1244", "dialect": "TUN", "pred_dialect": "TUN", "raw": "وينو حانوت الهدايا؟", "coda": "وينو حانوت الهدايا؟"}
+{"btec_id": "386", "example_id": "1245", "dialect": "TUN", "pred_dialect": "DOH", "raw": "انا موجود في الطريق السيارة واحد قريب لخليج مورو باي.", "coda": "انا موجود في الطريق السيارة واحد قريب لخليج مورو باي."}
+{"btec_id": "391", "example_id": "1246", "dialect": "TUN", "pred_dialect": "TUN", "raw": "اعطيني فياقة، من فضلك.", "coda": "اعطيني فياقة، من فضلك."}
+{"btec_id": "398", "example_id": "1247", "dialect": "TUN", "pred_dialect": "TUN", "raw": "على فكرة، اسمي هيروشي ايجيما.", "coda": "على فكرة، اسمي هيروشي ايجيما."}
+{"btec_id": "401", "example_id": "1248", "dialect": "TUN", "pred_dialect": "TUN", "raw": "الترينو ياقف في غابة البحيرة، موش هكا؟", "coda": "الترينو ياقف في غابة البحيرة، موش هكا؟"}
+{"btec_id": "408", "example_id": "1249", "dialect": "TUN", "pred_dialect": "TUN", "raw": "اغلب اليابانيين ياكلو القرنيط و السوبية.", "coda": "اغلب اليابانيين ياكلوا القرنيط والسوبية."}
+{"btec_id": "416", "example_id": "1250", "dialect": "TUN", "pred_dialect": "TUN", "raw": "انجم نقص زوز تساكر درجة ثانية لشيكاغو، يعيشك؟", "coda": "ننجم نقص زوز تساكر درجة ثانية لشيكاغو، يعيشك؟"}
+{"btec_id": "419", "example_id": "1251", "dialect": "TUN", "pred_dialect": "TUN", "raw": "مشيت لنويورك.", "coda": "مشيت لنويورك."}
+{"btec_id": "423", "example_id": "1252", "dialect": "TUN", "pred_dialect": "TUN", "raw": "شنوة نومرو الطيارة؟", "coda": "شنوا نومرو الطيارة؟"}
+{"btec_id": "442", "example_id": "1253", "dialect": "TUN", "pred_dialect": "TUN", "raw": "بلاصة لنويورك، عيشك.", "coda": "بلاصة لنويورك، يعيشك."}
+{"btec_id": "446", "example_id": "1254", "dialect": "TUN", "pred_dialect": "TUN", "raw": "ايامات.", "coda": "ايامات."}
+{"btec_id": "447", "example_id": "1255", "dialect": "TUN", "pred_dialect": "TUN", "raw": "الدورة الثانية عاليسار.", "coda": "الدورة الثانية عاليسار."}
+{"btec_id": "471", "example_id": "1256", "dialect": "TUN", "pred_dialect": "TUN", "raw": "الكارطة هاذي، باهي؟", "coda": "الكارطة هاذي، باهي؟"}
+{"btec_id": "488", "example_id": "1257", "dialect": "TUN", "pred_dialect": "CAI", "raw": "معايا الاستقبال؟ فمة مصحة قريبة؟", "coda": "معاي الاستقبال؟ فما مصحة قريبة؟"}
+{"btec_id": "493", "example_id": "1258", "dialect": "TUN", "pred_dialect": "TUN", "raw": "عشرة دولارات يكفيو للتاكسي؟", "coda": "عشرة دولارات يكفيوا للتاكسي؟"}
+{"btec_id": "503", "example_id": "1259", "dialect": "TUN", "pred_dialect": "TUN", "raw": "مطعمو غريب.", "coda": "مطعمه غريب."}
+{"btec_id": "512", "example_id": "1260", "dialect": "TUN", "pred_dialect": "TUN", "raw": "اي. ستنا تو نجيبلك وحدة.", "coda": "اي. استنى تو نجيب لك واحدة."}
+{"btec_id": "516", "example_id": "1261", "dialect": "TUN", "pred_dialect": "TUN", "raw": "شطر دبوزة، عيشك.", "coda": "شطر دبوزة، يعيشك."}
+{"btec_id": "540", "example_id": "1262", "dialect": "TUN", "pred_dialect": "TUN", "raw": "لا. حاجة ميش غالية و برا.", "coda": "لا. حاجة مش غالية وبرا."}
+{"btec_id": "548", "example_id": "1263", "dialect": "TUN", "pred_dialect": "TUN", "raw": "تلوج في حاجة؟", "coda": "تلوج في حاجة؟"}
+{"btec_id": "551", "example_id": "1264", "dialect": "TUN", "pred_dialect": "TUN", "raw": "اربعة ليالي.", "coda": "اربعة ليالي."}
+{"btec_id": "553", "example_id": "1265", "dialect": "TUN", "pred_dialect": "TUN", "raw": "حاشتي بشوية كلاسط.", "coda": "حاشتي بشوية كلاسط."}
+{"btec_id": "565", "example_id": "1266", "dialect": "TUN", "pred_dialect": "TUN", "raw": "تنجم اطيح في سومو خاترو مبقع؟", "coda": "تنجم تطيح في سومه خاطره مبقع؟"}
+{"btec_id": "571", "example_id": "1267", "dialect": "TUN", "pred_dialect": "TUN", "raw": "راجل طمبج فيا. بعد فقت اللي صتوشي ما فماش.", "coda": "راجل طمبج في. بعد فقت اللي صتوشي مفماش."}
+{"btec_id": "599", "example_id": "1268", "dialect": "TUN", "pred_dialect": "TUN", "raw": "مانيش متاكد اللي الحوايج اللي لميتهم يكفيو تلاثة جمعات.", "coda": "مانيش متأكد اللي الحوايج اللي لميتهم يكفيوا ثلاثة جمعات."}
+{"btec_id": "612", "example_id": "1269", "dialect": "TUN", "pred_dialect": "TUN", "raw": "باهي، نحبو نجربو شراب ابيض.", "coda": "باهي، نحبوا نجربوا شراب ابيض."}
+{"btec_id": "631", "example_id": "1270", "dialect": "TUN", "pred_dialect": "DOH", "raw": "كان سأل علي اي حد، قلو راني في القهوة.", "coda": "كان سأل علي اي حد، قل له راني في القهوة."}
+{"btec_id": "632", "example_id": "1271", "dialect": "TUN", "pred_dialect": "TUN", "raw": "متاكد الي كنت حاطو في الجيب الدخلاني متاع كبوتي.", "coda": "متأكد اللي كنت حاطه في الجيب الدخلاني متاع كبوتي."}
+{"btec_id": "641", "example_id": "1272", "dialect": "TUN", "pred_dialect": "TUN", "raw": "تنجم تعطيني اسم و نومرو الشخص الي بش تتصل بيه؟", "coda": "تنجم تعطيني اسم ونومرو الشخص اللي باش تتصل بيه؟"}
+{"btec_id": "643", "example_id": "1273", "dialect": "TUN", "pred_dialect": "TUN", "raw": "الخطوط الجوية يخلصو عليا مستلزمات شخصية لازم نشريهم؟", "coda": "الخطوط الجوية يخلصوا علي مستلزمات شخصية لازم نشريهم؟"}
+{"btec_id": "650", "example_id": "1274", "dialect": "TUN", "pred_dialect": "TUN", "raw": "نحب بيت فيها بانو.", "coda": "نحب بيت فيها بانو."}
+{"btec_id": "652", "example_id": "1275", "dialect": "TUN", "pred_dialect": "TUN", "raw": "ما خرج شئ مالماكينة؟", "coda": "ما خرج شئ مالماكينة؟"}
+{"btec_id": "667", "example_id": "1276", "dialect": "TUN", "pred_dialect": "TUN", "raw": "كان مالمفروض تطلع في رحلة ثمنية ميا و عشرين، الي طلعت عندها خمستاشن دقيقة. باهي انجم انحطك في رحلة اخرى.", "coda": "كان مالمفروض تطلع في رحلة ثمانيمية وعشرين، اللي طلعت عندها خمستعشن دقيقة. باهي ننجم نحطك في رحلة اخرى."}
+{"btec_id": "673", "example_id": "1277", "dialect": "TUN", "pred_dialect": "TUN", "raw": "فما شكون حلي الكولي متاعي.", "coda": "فما شكون حل لي الكولي متاعي."}
+{"btec_id": "679", "example_id": "1278", "dialect": "TUN", "pred_dialect": "TUN", "raw": "اه، مش مشكل. هاك هوني، على كل.", "coda": "آه، مش مشكل. هاك هوني، على كل."}
+{"btec_id": "680", "example_id": "1279", "dialect": "TUN", "pred_dialect": "TUN", "raw": "الخطوط الجوية اليابانية، رحلة عدد ميا و تلاثة و عشرين.", "coda": "الخطوط الجوية اليابانية، رحلة عدد مية وثلاثة وعشرين."}
+{"btec_id": "681", "example_id": "1280", "dialect": "TUN", "pred_dialect": "TUN", "raw": "يلزمني نشري شمبوان.", "coda": "يلزمني نشري شمبوان."}
+{"btec_id": "683", "example_id": "1281", "dialect": "TUN", "pred_dialect": "TUN", "raw": "ميسالش تقلي وقتلي نوصلو للمركز المدني؟", "coda": "ميسالش تقول لي وقت اللي نوصلوا للمركز المدني؟"}
+{"btec_id": "688", "example_id": "1282", "dialect": "TUN", "pred_dialect": "DOH", "raw": "وين اقرب جزار؟", "coda": "وين اقرب جزار؟"}
+{"btec_id": "703", "example_id": "1283", "dialect": "TUN", "pred_dialect": "TUN", "raw": "نحبو نقعدو اربعة ليالي ابتداءا من واحد اوت.", "coda": "نحبوا نقعدوا اربعة ليالي ابتداءا من واحد اوت."}
+{"btec_id": "708", "example_id": "1284", "dialect": "TUN", "pred_dialect": "TUN", "raw": "شنوة اسمها النوارة هاذي؟", "coda": "شنوا اسمها النوارة هاذي؟"}
+{"btec_id": "719", "example_id": "1285", "dialect": "TUN", "pred_dialect": "TUN", "raw": "خمسطاش سبتمبر نهار احترام المسنين.", "coda": "خمستعش سبتمبر نهار احترام المسنين."}
+{"btec_id": "723", "example_id": "1286", "dialect": "TUN", "pred_dialect": "TUN", "raw": "ما فماش صابون في بيتي.", "coda": "ما فماش صابون في بيتي."}
+{"btec_id": "741", "example_id": "1287", "dialect": "TUN", "pred_dialect": "TUN", "raw": "فماش دوا انجم ناخذو لها الحزاز؟", "coda": "فماش دوا ننجم ناخذه لها الحزاز؟"}
+{"btec_id": "742", "example_id": "1288", "dialect": "TUN", "pred_dialect": "TUN", "raw": "تنجم تبدل الصيغة تردها الي قلتو توا؟", "coda": "تنجم تبدل الصيغة تردها اللي قلته توا؟"}
+{"btec_id": "761", "example_id": "1289", "dialect": "TUN", "pred_dialect": "TUN", "raw": "قداش يلزم وقت بش نعدي كماندة؟", "coda": "قداش يلزم وقت باش نعدي كماندة؟"}
+{"btec_id": "773", "example_id": "1290", "dialect": "TUN", "pred_dialect": "TUN", "raw": "ميشالش تعلي صوتك شوية، عيشك؟", "coda": "ميشالش تعلي صوتك شوية، يعيشك؟"}
+{"btec_id": "777", "example_id": "1291", "dialect": "TUN", "pred_dialect": "TUN", "raw": "قداش مزاللو و يخرج؟", "coda": "قداش ما زال له ويخرج؟"}
+{"btec_id": "786", "example_id": "1292", "dialect": "TUN", "pred_dialect": "DOH", "raw": "وين اخبار الرياضة؟", "coda": "وين اخبار الرياضة؟"}
+{"btec_id": "787", "example_id": "1293", "dialect": "TUN", "pred_dialect": "TUN", "raw": "القياس هذا، الي تسميوه قياس عادي، يساعدني.", "coda": "القياس هذا، اللي تسميوه قياس عادي، يساعدني."}
+{"btec_id": "793", "example_id": "1294", "dialect": "TUN", "pred_dialect": "TUN", "raw": "وين توفى الدورة، و وقتاش؟", "coda": "وين توفى الدورة، ووقتاش؟"}
+{"btec_id": "848", "example_id": "1295", "dialect": "TUN", "pred_dialect": "TUN", "raw": "وين لازمني نبدل الترينو بش نمشي لادينبرا؟", "coda": "وين لازمني نبدل الترينو باش نمشي لادنبرة؟"}
+{"btec_id": "855", "example_id": "1296", "dialect": "TUN", "pred_dialect": "TUN", "raw": "نحب نحطو في صندوق امانات.", "coda": "نحب نحطه في صندوق امانات."}
+{"btec_id": "859", "example_id": "1297", "dialect": "TUN", "pred_dialect": "TUN", "raw": "وين انجم نصرف فلوسي؟", "coda": "وين ننجم نصرف فلوسي؟"}
+{"btec_id": "897", "example_id": "1298", "dialect": "TUN", "pred_dialect": "TUN", "raw": "انجمو نخليو دبشنا، بخلاف الحجات الثمينة، في الكار؟", "coda": "ننجموا نخليوا دبشنا، بخلاف الحاجات الثمينة، في الكار؟"}
+{"btec_id": "902", "example_id": "1299", "dialect": "TUN", "pred_dialect": "TUN", "raw": "ياخي شنية هاذي اللي عالفاتورة.", "coda": "ياخي شنيا هاذي اللي عالفاتورة."}
+{"btec_id": "917", "example_id": "1300", "dialect": "TUN", "pred_dialect": "TUN", "raw": "نخلص خمسين دولار.", "coda": "نخلص خمسين دولار."}
+{"btec_id": "941", "example_id": "1301", "dialect": "TUN", "pred_dialect": "TUN", "raw": "توا نعرف شنية كانت المشكلة.", "coda": "توا نعرف شنيا كانت المشكلة."}
+{"btec_id": "957", "example_id": "1302", "dialect": "TUN", "pred_dialect": "TUN", "raw": "معاك اكيدا. حجزت طاولة لليوم الستة و نص. اما سامحوني بش نوصل امخر بنص ساعة.", "coda": "معاك اكيدا. حجزت طاولة لليوم الستة ونص. اما سامحوني باش نوصل ماخر بنص ساعة."}
+{"btec_id": "1003", "example_id": "1303", "dialect": "TUN", "pred_dialect": "DOH", "raw": "عندي الحق من كم وقية بارفان مالسوق الحرة؟", "coda": "عندي الحق من كم وقية بارفان مالسوق الحرة؟"}
+{"btec_id": "1007", "example_id": "1304", "dialect": "TUN", "pred_dialect": "DOH", "raw": "سياحة اكاهو.", "coda": "سياحة اكاهو."}
+{"btec_id": "1010", "example_id": "1305", "dialect": "TUN", "pred_dialect": "TUN", "raw": "موش مشكل، صحح فيهم عيشك. كيفاش تحبو؟", "coda": "موش مشكل، صحح فيهم يعيشك. كيفاش تحبه؟"}
+{"btec_id": "1023", "example_id": "1306", "dialect": "TUN", "pred_dialect": "TUN", "raw": "مازال فمة بلايص للعرض متاع الليلة؟", "coda": "ما زال فما بلايص للعرض متاع الليلة؟"}
+{"btec_id": "1036", "example_id": "1307", "dialect": "TUN", "pred_dialect": "TUN", "raw": "نحب واحد كبير.", "coda": "نحب واحد كبير."}
+{"btec_id": "1037", "example_id": "1308", "dialect": "TUN", "pred_dialect": "TUN", "raw": "رقدت و ما فقتش بفياقتي الستة و نص.", "coda": "رقدت وما فقتش بفياقتي الستة ونص."}
+{"btec_id": "1038", "example_id": "1309", "dialect": "TUN", "pred_dialect": "DOH", "raw": "انا مصور لحسابي الخاص.", "coda": "انا مصور لحسابي الخاص."}
+{"btec_id": "1047", "example_id": "1310", "dialect": "TUN", "pred_dialect": "TUN", "raw": "الموزع ينجم يبدلك دلاراتك ببياسات متاع كازينو. هيا مشينا؟", "coda": "الموزع ينجم يبد لك دلاراتك ببياسات متاع كازينو. هيا مشينا؟"}
+{"btec_id": "1056", "example_id": "1311", "dialect": "TUN", "pred_dialect": "TUN", "raw": "عنا حسب التقريب تلاثين نوع متاع زيت متاع دوش.", "coda": "عننا حسب التقريب ثلاثين نوع متاع زيت متاع دوش."}
+{"btec_id": "1062", "example_id": "1312", "dialect": "TUN", "pred_dialect": "BEI", "raw": "نحضرلك المقترح الجمعة الجاية.", "coda": "نحضر لك المقترح الجمعة الجاية."}
+{"btec_id": "1074", "example_id": "1313", "dialect": "TUN", "pred_dialect": "TUN", "raw": "يعيشك. بقداش القواندوات هاذوما؟", "coda": "يعيشك. بقداش القواندوات هاذوما؟"}
+{"btec_id": "1098", "example_id": "1314", "dialect": "TUN", "pred_dialect": "TUN", "raw": "لازمني نمشي. تو نكلمك مبعد.", "coda": "لازمني نمشي. تو نكلمك مبعد."}
+{"btec_id": "1100", "example_id": "1315", "dialect": "TUN", "pred_dialect": "TUN", "raw": "اعطيني كوش جوتابل.", "coda": "اعطيني كوش جوتابل."}
+{"btec_id": "1122", "example_id": "1316", "dialect": "TUN", "pred_dialect": "TUN", "raw": "منين اصلهم هالحوت الفراشة؟", "coda": "منين اصلهم هالحوت الفراشة؟"}
+{"btec_id": "1124", "example_id": "1317", "dialect": "TUN", "pred_dialect": "TUN", "raw": "تصرفهملي بالدولار، يعيشك؟", "coda": "تصرفهم لي بالدولار، يعيشك؟"}
+{"btec_id": "1139", "example_id": "1318", "dialect": "TUN", "pred_dialect": "TUN", "raw": "عنا الزهر عالاخر. عندهم واحد قياس اربعة في الحانوت متاع الالا موانا.", "coda": "عننا الزهر عالآخر. عندهم واحد قياس اربعة في الحانوت متاع الا موانا."}
+{"btec_id": "1146", "example_id": "1319", "dialect": "TUN", "pred_dialect": "TUN", "raw": "فما ليموزين؟", "coda": "فما ليموزين؟"}
+{"btec_id": "1163", "example_id": "1320", "dialect": "TUN", "pred_dialect": "TUN", "raw": "عيشك تعملولي تاليفون بش تقيموني غدوة الصباح الخمسة و نص؟", "coda": "يعيشك تعملوا لي تليفون باش تقيموني غدوة الصباح الخمسة ونص؟"}
+{"btec_id": "1165", "example_id": "1321", "dialect": "TUN", "pred_dialect": "TUN", "raw": "نخير بيت رايضة.", "coda": "نخير بيت رايضة."}
+{"btec_id": "1167", "example_id": "1322", "dialect": "TUN", "pred_dialect": "TUN", "raw": "نحب شوية اسيتون.", "coda": "نحب شوية اسيتون."}
+{"btec_id": "1183", "example_id": "1323", "dialect": "TUN", "pred_dialect": "TUN", "raw": "اعطيني بيلة.", "coda": "اعطيني بيلة."}
+{"btec_id": "1193", "example_id": "1324", "dialect": "TUN", "pred_dialect": "TUN", "raw": "فما فرقة لايف ولا ديدجاي؟", "coda": "فما فرقة لايف ولا دي دجي؟"}
+{"btec_id": "1194", "example_id": "1325", "dialect": "TUN", "pred_dialect": "TUN", "raw": "انجم نكري معدات الغطس؟", "coda": "ننجم نكري معدات الغطس؟"}
+{"btec_id": "1199", "example_id": "1326", "dialect": "TUN", "pred_dialect": "TUN", "raw": "نحب نحجز بيت لاربعة ايام من ثنين و عشرين ديسمبر.", "coda": "نحب نحجز بيت لاربعة ايام من اثنين وعشرين ديسمبر."}
+{"btec_id": "1212", "example_id": "1327", "dialect": "TUN", "pred_dialect": "TUN", "raw": "الساك هذا مناسب مهما كانت حالة الطقس؟", "coda": "الساك هذا مناسب مهما كانت حالة الطقس؟"}
+{"btec_id": "1213", "example_id": "1328", "dialect": "TUN", "pred_dialect": "TUN", "raw": "اعطيني كعكة، يعيشك.", "coda": "اعطيني كعكة، يعيشك."}
+{"btec_id": "1218", "example_id": "1329", "dialect": "TUN", "pred_dialect": "TUN", "raw": "نحب نكري كرهبة اوتوماتيك على نهارين.", "coda": "نحب نكري كرهبة اوتوماتيك على نهارين."}
+{"btec_id": "1224", "example_id": "1330", "dialect": "TUN", "pred_dialect": "CAI", "raw": "راتيت الرحلة عشرين لسان فرانسيسكو.", "coda": "راتيت الرحلة عشرين لسان فرانسيسكو."}
+{"btec_id": "1234", "example_id": "1331", "dialect": "TUN", "pred_dialect": "TUN", "raw": "بقداش للمطار؟", "coda": "بقداش للمطار؟"}
+{"btec_id": "1235", "example_id": "1332", "dialect": "TUN", "pred_dialect": "TUN", "raw": "هايل. وقتاش؟", "coda": "هايل. وقتاش؟"}
+{"btec_id": "1276", "example_id": "1333", "dialect": "TUN", "pred_dialect": "TUN", "raw": "قداش عمرها بنتك؟", "coda": "قداش عمرها بنتك؟"}
+{"btec_id": "1312", "example_id": "1334", "dialect": "TUN", "pred_dialect": "TUN", "raw": "تنجمش تقلي على وتيل نضيف و رخيص؟", "coda": "تنجمش تقول لي على وتيل نضيف ورخيص؟"}
+{"btec_id": "1321", "example_id": "1335", "dialect": "TUN", "pred_dialect": "TUN", "raw": "انجمو نحجزولك بيت مرتاحة في قصر قديم قريب من نادي الغولف المعروف.", "coda": "ننجموا نحجزه لك بيت مرتاحة في قصر قديم قريب من نادي الغولف المعروف."}
+{"btec_id": "1329", "example_id": "1336", "dialect": "TUN", "pred_dialect": "TUN", "raw": "ننصحك بهاذا خاترو معمول بمكونات ميا بالميا طبيعية.", "coda": "ننصحك بهاذا خاطره معمول بمكونات مية بالمية طبيعية."}
+{"btec_id": "1361", "example_id": "1337", "dialect": "TUN", "pred_dialect": "TUN", "raw": "الترينو ياقف في برايتن؟", "coda": "الترينو ياقف في برايتن؟"}
+{"btec_id": "1369", "example_id": "1338", "dialect": "TUN", "pred_dialect": "TUN", "raw": "تنجم تقلي منين ناخذ تاكسي؟", "coda": "تنجم تقول لي منين ناخذ تاكسي؟"}
+{"btec_id": "1375", "example_id": "1339", "dialect": "TUN", "pred_dialect": "TUN", "raw": "زوز تساكر درجة ثانية، عيشك.", "coda": "زوز تساكر درجة ثانية، يعيشك."}
+{"btec_id": "1384", "example_id": "1340", "dialect": "TUN", "pred_dialect": "TUN", "raw": "نحب نبعث فاكس.", "coda": "نحب نبعث فاكس."}
+{"btec_id": "1394", "example_id": "1341", "dialect": "TUN", "pred_dialect": "TUN", "raw": "نحب حديد متاع سفر.", "coda": "نحب حديد متاع سفر."}
+{"btec_id": "1396", "example_id": "1342", "dialect": "TUN", "pred_dialect": "CAI", "raw": "نقدملك اي حاجة؟", "coda": "نقدم لك اي حاجة؟"}
+{"btec_id": "1404", "example_id": "1343", "dialect": "TUN", "pred_dialect": "TUN", "raw": "نهاري؟ سامحني، اما شنوة تقصد؟", "coda": "نهاري؟ سامحني، اما شنوا تقصد؟"}
+{"btec_id": "1418", "example_id": "1344", "dialect": "TUN", "pred_dialect": "TUN", "raw": "نحب واحد انجم نحط فيه ورق عادي متع جوابات مانغير ما نطويهم.", "coda": "نحب واحد ننجم نحط فيه ورق عادي متاع جوابات من غير ما نطويهم."}
+{"btec_id": "1433", "example_id": "1345", "dialect": "TUN", "pred_dialect": "TUN", "raw": "اي، اما موش قوي برشة.", "coda": "اي، اما موش قوي برشا."}
+{"btec_id": "1434", "example_id": "1346", "dialect": "TUN", "pred_dialect": "BEI", "raw": "عندي حساسية عالقطاطس.", "coda": "عندي حساسية عالقطاطس."}
+{"btec_id": "1436", "example_id": "1347", "dialect": "TUN", "pred_dialect": "TUN", "raw": "اي، يلزم تكون عندك رخصة سياقة، و اه، يلزم زادة عندك رخصة من هيئة التاكسيات و اليموزين.", "coda": "اي، يلزم تكون عندك رخصة سياقة، وآه، يلزم زادة عندك رخصة من هيئة التاكسيات واليموزين."}
+{"btec_id": "1462", "example_id": "1348", "dialect": "TUN", "pred_dialect": "DOH", "raw": "تفضل، سيدي.", "coda": "تفضل، سيدي."}
+{"btec_id": "1465", "example_id": "1349", "dialect": "TUN", "pred_dialect": "TUN", "raw": "الماء ما حبش يسخنلي.", "coda": "الماء ما حبش يسخن لي."}
+{"btec_id": "1474", "example_id": "1350", "dialect": "TUN", "pred_dialect": "TUN", "raw": "نحب نحجز بيت لليلة.", "coda": "نحب نحجز بيت لليلة."}
+{"btec_id": "1492", "example_id": "1351", "dialect": "TUN", "pred_dialect": "TUN", "raw": "لا ما فيهش الادائ و حق الخدمة.", "coda": "لا ما فيهش الاداء وحق الخدمة."}
+{"btec_id": "1506", "example_id": "1352", "dialect": "TUN", "pred_dialect": "TUN", "raw": "تحب تخرج معايا نتسوقو ليوم في القايلة؟", "coda": "تحب تخرج معاي نتسوقوا ليوم في القايلة؟"}
+{"btec_id": "1508", "example_id": "1353", "dialect": "TUN", "pred_dialect": "TUN", "raw": "اهلا، روبتك بالحق مزيانة.", "coda": "اهلا، روبتك بالحق مزيانة."}
+{"btec_id": "1519", "example_id": "1354", "dialect": "TUN", "pred_dialect": "TUN", "raw": "توا، المكالمة متاعك بدات. تفضل.", "coda": "توا، المكالمة متاعك بدات. تفضل."}
+{"btec_id": "1525", "example_id": "1355", "dialect": "TUN", "pred_dialect": "TUN", "raw": "شنوة نومرو البوابة؟", "coda": "شنوا نومرو البوابة؟"}
+{"btec_id": "1539", "example_id": "1356", "dialect": "TUN", "pred_dialect": "TUN", "raw": "شنوة اكثر تذكار يمثل هاواي؟", "coda": "شنوا اكثر تذكار يمثل هاواي؟"}
+{"btec_id": "1556", "example_id": "1357", "dialect": "TUN", "pred_dialect": "TUN", "raw": "انجم نمشي غادي بالمترو؟", "coda": "ننجم نمشي غادي بالمترو؟"}
+{"btec_id": "1560", "example_id": "1358", "dialect": "TUN", "pred_dialect": "TUN", "raw": "نحب نجبد شعري.", "coda": "نحب نجبد شعري."}
+{"btec_id": "1562", "example_id": "1359", "dialect": "TUN", "pred_dialect": "TUN", "raw": "بش نوصلو لحاجة بحديثنا هذا؟", "coda": "باش نوصلوا لحاجة بحديثنا هذا؟"}
+{"btec_id": "1585", "example_id": "1360", "dialect": "TUN", "pred_dialect": "DOH", "raw": "انا مالنورويج.", "coda": "انا مالنرويج."}
+{"btec_id": "1603", "example_id": "1361", "dialect": "TUN", "pred_dialect": "TUN", "raw": "مالعشرة للاثناش عيشك.", "coda": "مالعشرة للاثنعش يعيشك."}
+{"btec_id": "1619", "example_id": "1362", "dialect": "TUN", "pred_dialect": "TUN", "raw": "بالطبيعة. خليني نشوفو. جرحك المرجان، ضاهرلي.", "coda": "بالطبيعة. خليني نشوفه. جرحك المرجان، ضاهر لي."}
+{"btec_id": "1620", "example_id": "1363", "dialect": "TUN", "pred_dialect": "TUN", "raw": "على ماياتي، اعطيني نومرو الشخص المسؤول.", "coda": "على ما ياتي، اعطيني نومرو الشخص المسؤول."}
+{"btec_id": "1622", "example_id": "1364", "dialect": "TUN", "pred_dialect": "TUN", "raw": "فما اوتوروت؟", "coda": "فما اوتوروت؟"}
+{"btec_id": "1630", "example_id": "1365", "dialect": "TUN", "pred_dialect": "TUN", "raw": "شبيه ما جاش للحفلة لبارح؟", "coda": "شبيه ما جاش للحفلة البارح؟"}
+{"btec_id": "1637", "example_id": "1366", "dialect": "TUN", "pred_dialect": "DOH", "raw": "صار حادث مرور.", "coda": "صار حادث مرور."}
+{"btec_id": "1650", "example_id": "1367", "dialect": "TUN", "pred_dialect": "TUN", "raw": "سامحني، غالط في النومرو.", "coda": "سامحني، غالط في النومرو."}
+{"btec_id": "1653", "example_id": "1368", "dialect": "TUN", "pred_dialect": "TUN", "raw": "بربي دخل الرمز متاعك.", "coda": "بربي دخل الرمز متاعك."}
+{"btec_id": "1663", "example_id": "1369", "dialect": "TUN", "pred_dialect": "TUN", "raw": "ما انجمش نستوي التصويرة.", "coda": "ما ننجمش نستوي التصويرة."}
+{"btec_id": "1668", "example_id": "1370", "dialect": "TUN", "pred_dialect": "TUN", "raw": "واحد شيزبرغر و واحد عصير، يعيشك.", "coda": "واحد شيز برغر وواحد عصير، يعيشك."}
+{"btec_id": "1670", "example_id": "1371", "dialect": "TUN", "pred_dialect": "TUN", "raw": "هاو باسبوري.", "coda": "بربي دخل الرمز"}
+{"btec_id": "1682", "example_id": "1372", "dialect": "TUN", "pred_dialect": "TUN", "raw": "او، يعتك الصحة. ام، انجم نطلع الفوق بالكل؟", "coda": "او، يعطيك الصحة. ام، ننجم نطلع الفوق بالكل؟"}
+{"btec_id": "1702", "example_id": "1373", "dialect": "TUN", "pred_dialect": "TUN", "raw": "تعطيني زوز تساكر للمسرحية الموسيقية الجمعة الجاية؟", "coda": "تعطيني زوز تساكر للمسرحية الموسيقية الجمعة الجاية؟"}
+{"btec_id": "1718", "example_id": "1374", "dialect": "TUN", "pred_dialect": "TUN", "raw": "فما راكب من غادي قال ينجم يبدل معاك بالبلاصة.", "coda": "فما راكب من غادي قال ينجم يبدل معاك بالبلاصة."}
+{"btec_id": "1754", "example_id": "1375", "dialect": "TUN", "pred_dialect": "TUN", "raw": "انجم نزيد نقعد؟", "coda": "ننجم نزيد نقعد؟"}
+{"btec_id": "1766", "example_id": "1376", "dialect": "TUN", "pred_dialect": "TUN", "raw": "قلي، تعرفش بلاصة تستحق وتحد يمشيلها هوني؟", "coda": "قل لي، تعرفش بلاصة تستحق واحد يمشي لها هوني؟"}
+{"btec_id": "1768", "example_id": "1377", "dialect": "TUN", "pred_dialect": "TUN", "raw": "لا، نحب نكري شطر مجموعة متاع مضارب وصباط.", "coda": "لا، نحب نكري شطر مجموعة متاع مضارب وصباط."}
+{"btec_id": "1782", "example_id": "1378", "dialect": "TUN", "pred_dialect": "TUN", "raw": "بربي تنجم تعلمني وقتلي تلقاو الساك الضايع؟", "coda": "بربي تنجم تعلمني وقت اللي تلقاوا الساك الضايع؟"}
+{"btec_id": "1788", "example_id": "1379", "dialect": "TUN", "pred_dialect": "TUN", "raw": "شسمو المنتزه الوطني هذا؟", "coda": "شاسمه المنتزه الوطني هذا؟"}
+{"btec_id": "1791", "example_id": "1380", "dialect": "TUN", "pred_dialect": "CAI", "raw": "عندي سلخة.", "coda": "عندي سلخة."}
+{"btec_id": "1792", "example_id": "1381", "dialect": "TUN", "pred_dialect": "TUN", "raw": "وين بلاصة باهية للسياحة؟", "coda": "وين بلاصة باهية للسياحة؟"}
+{"btec_id": "1800", "example_id": "1382", "dialect": "TUN", "pred_dialect": "TUN", "raw": "تعطيني شوية غلة؟", "coda": "تعطيني شوية غلة؟"}
+{"btec_id": "1834", "example_id": "1383", "dialect": "TUN", "pred_dialect": "TUN", "raw": "انجم نفطر توا؟", "coda": "ننجم نفطر توا؟"}
+{"btec_id": "1837", "example_id": "1384", "dialect": "TUN", "pred_dialect": "TUN", "raw": "نحب نصرف الدولارات هاذوما.", "coda": "نحب نصرف الدولارات هاذوما."}
+{"btec_id": "1867", "example_id": "1385", "dialect": "TUN", "pred_dialect": "CAI", "raw": "حاجتي بتكسي. انا في المقص بين ساوث ماين و ليبرتي.", "coda": "حاجتي بتاكسي. انا في المقص بين ساوث مين وليبرتي."}
+{"btec_id": "1876", "example_id": "1386", "dialect": "TUN", "pred_dialect": "TUN", "raw": "بالطبيعة. و تحب بارمانونت؟", "coda": "بالطبيعة. وتحب برمنونت؟"}
+{"btec_id": "1878", "example_id": "1387", "dialect": "TUN", "pred_dialect": "TUN", "raw": "ميش تفاحة اما خوخة.", "coda": "مش تفاحة اما خوخة."}
+{"btec_id": "1903", "example_id": "1388", "dialect": "TUN", "pred_dialect": "TUN", "raw": "تو نعطيك ورقة دواء. هزها للسبيسارية.", "coda": "تو نعطيك ورقة دواء. هزها للسبيسارية."}
+{"btec_id": "1927", "example_id": "1389", "dialect": "TUN", "pred_dialect": "TUN", "raw": "نسافرو تلاثة مرات في الجمعة، نهار التلاثة، الجمعة، و السبت.", "coda": "نسافروا ثلاثة مرات في الجمعة، نهار التلاثة، الجمعة، والسبت."}
+{"btec_id": "1931", "example_id": "1390", "dialect": "TUN", "pred_dialect": "TUN", "raw": "غالي، موش هكا؟", "coda": "غالي، موش هكا؟"}
+{"btec_id": "1948", "example_id": "1391", "dialect": "TUN", "pred_dialect": "TUN", "raw": "اي، عنا. تو نحضروهولك.", "coda": "اي، عننا. تو نحضروه لك."}
+{"btec_id": "1950", "example_id": "1392", "dialect": "TUN", "pred_dialect": "TUN", "raw": "ميسالش تخلي دبشي عندك حتى لماضي تلاثة؟", "coda": "ميسالش تخلي دبشي عندك حتى الماضي ثلاثة؟"}
+{"btec_id": "1951", "example_id": "1393", "dialect": "TUN", "pred_dialect": "TUN", "raw": "لا، نحب نتعدالك و برا.", "coda": "لا، نحب نتعدا لك وبرا."}
+{"btec_id": "1954", "example_id": "1394", "dialect": "TUN", "pred_dialect": "TUN", "raw": "انجم نحجز اكري-كرهبة هوني؟", "coda": "ننجم نحجز اكري-كرهبة هوني؟"}
+{"btec_id": "1968", "example_id": "1395", "dialect": "TUN", "pred_dialect": "CAI", "raw": "انت امريكاني؟", "coda": "انت امريكاني؟"}
+{"btec_id": "1980", "example_id": "1396", "dialect": "TUN", "pred_dialect": "RAB", "raw": "غادي، عيشك.", "coda": "غادي، يعيشك."}
+{"btec_id": "1985", "example_id": "1397", "dialect": "TUN", "pred_dialect": "TUN", "raw": "كرهبتي تشنقلت.", "coda": "كرهبتي تشنقلت."}
+{"btec_id": "1988", "example_id": "1398", "dialect": "TUN", "pred_dialect": "TUN", "raw": "وينو الفارابوبيار؟", "coda": "وينو الفارابوبيار؟"}
+{"btec_id": "1993", "example_id": "1399", "dialect": "TUN", "pred_dialect": "TUN", "raw": "نحبو تركينة هادية، كان ممكن.", "coda": "نحبوا تركينة هادية، كان ممكن."}
+{"btec_id": "11342", "example_id": "1400", "dialect": "TUN", "pred_dialect": "TUN", "raw": "سكوتش مع ماء، يعيشك. ياخي عندك أي حاجة خفيفة تتاكل؟", "coda": "سكوتش مع ماء، يعيشك. ياخي عندك اي حاجة خفيفة تتاكل؟"}
+{"btec_id": "11343", "example_id": "1401", "dialect": "TUN", "pred_dialect": "TUN", "raw": "كيفاش نجم نطفي الضوء هذا؟", "coda": "كيفاش ننجم نطفي الضوء هذا؟"}
+{"btec_id": "11360", "example_id": "1402", "dialect": "TUN", "pred_dialect": "TUN", "raw": "ياخي هو مشغول برشا اليوم؟", "coda": "ياخي هو مشغول برشا اليوم؟"}
+{"btec_id": "11374", "example_id": "1403", "dialect": "TUN", "pred_dialect": "TUN", "raw": "نحب خيط.", "coda": "نحب خيط."}
+{"btec_id": "11375", "example_id": "1404", "dialect": "TUN", "pred_dialect": "TUN", "raw": "أعطيني شهادة طبية، يعيشك.", "coda": "اعطيني شهادة طبية، يعيشك."}
+{"btec_id": "11378", "example_id": "1405", "dialect": "TUN", "pred_dialect": "TUN", "raw": "نحب إنو تزيد تنقصلي فيه إينش من هوني.", "coda": "نحب انه تزيد تنقص لي فيه اينش من هوني."}
+{"btec_id": "11392", "example_id": "1406", "dialect": "TUN", "pred_dialect": "TUN", "raw": "مانيش حاسس روحي لاباس، أعطيني دواء.", "coda": "مانيش حاسس روحي لا باس، اعطيني دواء."}
+{"btec_id": "11403", "example_id": "1407", "dialect": "TUN", "pred_dialect": "TUN", "raw": "ياخي نجم ناخو جريدة يابانية؟", "coda": "ياخي ننجم ناخو جريدة يابانية؟"}
+{"btec_id": "11404", "example_id": "1408", "dialect": "TUN", "pred_dialect": "TUN", "raw": "باهي. ياخي نجم نخلي الكرهبة في أي بلاصة؟ وقداش يكلف؟", "coda": "باهي. ياخي ننجم نخلي الكرهبة في اي بلاصة؟ وقداش يكلف؟"}
+{"btec_id": "11412", "example_id": "1409", "dialect": "TUN", "pred_dialect": "TUN", "raw": "أناهي الكار إلى تمشي لوسط المدينة؟", "coda": "اناهي الكار اللي تمشي لوسط المدينة؟"}
+{"btec_id": "11420", "example_id": "1410", "dialect": "TUN", "pred_dialect": "TUN", "raw": "ياخي فما اكسبريس لبوسطن؟", "coda": "ياخي فما اكسبرس لبوسطن؟"}
+{"btec_id": "11435", "example_id": "1411", "dialect": "TUN", "pred_dialect": "TUN", "raw": "يعيشك، نحب تولي مرسالي.", "coda": "يعيشك، نحب تولي مرسالي."}
+{"btec_id": "11442", "example_id": "1412", "dialect": "TUN", "pred_dialect": "TUN", "raw": "أنا منرفز برشا. ما نجمتش نبقى في بلاصة.", "coda": "انا منرفز برشا. ما نجمتش نبقى في بلاصة."}
+{"btec_id": "11449", "example_id": "1413", "dialect": "TUN", "pred_dialect": "TUN", "raw": "ياخي نجم نهبط في هيلتون؟", "coda": "ياخي ننجم نهبط في هيلتون؟"}
+{"btec_id": "11450", "example_id": "1414", "dialect": "TUN", "pred_dialect": "TUN", "raw": "نحبك تبعدو.", "coda": "نحبك تبعده."}
+{"btec_id": "11457", "example_id": "1415", "dialect": "TUN", "pred_dialect": "TUN", "raw": "دور عل ليسار في الطريق هذا، ودور مع الدورة لولا عل ليمين.", "coda": "دور على اليسار في الطريق هذا، ودور مع الدورة الاولى على اليمين."}
+{"btec_id": "11462", "example_id": "1416", "dialect": "TUN", "pred_dialect": "TUN", "raw": "نحب نعرف إذا ممكن نبعث كردونة الماعون هاذي لطوكيو.", "coda": "نحب نعرف اذا ممكن نبعث كردونة الماعون هاذي لطوكيو."}
+{"btec_id": "11467", "example_id": "1417", "dialect": "TUN", "pred_dialect": "TUN", "raw": "نحب تالك للبدن.", "coda": "نحب تالك للبدن."}
+{"btec_id": "11478", "example_id": "1418", "dialect": "TUN", "pred_dialect": "TUN", "raw": "ياخي فما ماكلة موش حارة برشا وموش مفوحة برشا؟", "coda": "ياخي فما ماكلة موش حارة برشا وموش مفوحة برشا؟"}
+{"btec_id": "11479", "example_id": "1419", "dialect": "TUN", "pred_dialect": "TUN", "raw": "ياخي هو قريب برشا باش نمشيه على الساقين؟", "coda": "ياخي هو قريب برشا باش نمشيه على الساقين؟"}
+{"btec_id": "11493", "example_id": "1420", "dialect": "TUN", "pred_dialect": "TUN", "raw": "ياخي تنجم تعديلي الملح، يعيشك؟", "coda": "ياخي تنجم تعدي لي الملح، يعيشك؟"}
+{"btec_id": "11500", "example_id": "1421", "dialect": "TUN", "pred_dialect": "TUN", "raw": "نحب نمشي لوول ستريت. كيفاش ياخي نجم نمشيلو؟", "coda": "نحب نمشي لوول ستريت. كيفاش ياخي ننجم نمشيله؟"}
+{"btec_id": "11541", "example_id": "1422", "dialect": "TUN", "pred_dialect": "TUN", "raw": "برشا تمارين ما يفيدوكش.", "coda": "برشا تمارين ما يفيدوكش."}
+{"btec_id": "11544", "example_id": "1423", "dialect": "TUN", "pred_dialect": "TUN", "raw": "مع فطور الصباح، التاكس والسرفيس، هذا يكلف خمسا وأربعين دولار الليلة للعبد.", "coda": "مع فطور الصباح، التاكس والسرفيس، هذا يكلف خمسة واربعين دولار الليلة للعبد."}
+{"btec_id": "11550", "example_id": "1424", "dialect": "TUN", "pred_dialect": "TUN", "raw": "تنجم تصلح هذا؟", "coda": "تنجم تصلح هذا؟"}
+{"btec_id": "11574", "example_id": "1425", "dialect": "TUN", "pred_dialect": "TUN", "raw": "صباح الخير. السلام.", "coda": "صباح الخير. السلام."}
+{"btec_id": "11576", "example_id": "1426", "dialect": "TUN", "pred_dialect": "TUN", "raw": "ما لقيتش دبشك.", "coda": "ما لقيتش دبشك."}
+{"btec_id": "11595", "example_id": "1427", "dialect": "TUN", "pred_dialect": "TUN", "raw": "في الطويل، يعيشك.", "coda": "في الطويل، يعيشك."}
+{"btec_id": "11600", "example_id": "1428", "dialect": "TUN", "pred_dialect": "TUN", "raw": "ياخي الماء صالح للشرب؟", "coda": "ياخي الماء صالح للشرب؟"}
+{"btec_id": "11622", "example_id": "1429", "dialect": "TUN", "pred_dialect": "TUN", "raw": "اه، هيا. بزوز دولارات أكاهو.", "coda": "آه، هيا. بزوز دولارات اكاهو."}
+{"btec_id": "11626", "example_id": "1430", "dialect": "TUN", "pred_dialect": "TUN", "raw": "تنجم تبدل الروبا هاذي بواحدة أكبر قياس؟", "coda": "تنجم تبدل الروبة هاذي بواحدة اكبر قياس؟"}
+{"btec_id": "11631", "example_id": "1431", "dialect": "TUN", "pred_dialect": "TUN", "raw": "إي باهي، هيا نمشيو. نعاونك في دروسك ومن بعد تو ناكلو بيتزا.", "coda": "اي باهي، هي نمشيوا. نعاونك في دروسك ومن بعد تو ناكلوا بيتزا."}
+{"btec_id": "11633", "example_id": "1432", "dialect": "TUN", "pred_dialect": "TUN", "raw": "إي، سي. تاناكا. فما زوز ميساجات ليك.", "coda": "اي، سي. تاناكا. فما زوز ميساجات ليك."}
+{"btec_id": "11643", "example_id": "1433", "dialect": "TUN", "pred_dialect": "TUN", "raw": "هذا ما وتانيش.", "coda": "هذا ما وتانيش."}
+{"btec_id": "11646", "example_id": "1434", "dialect": "TUN", "pred_dialect": "TUN", "raw": "غدوة هو نهار آخر.", "coda": "غدوة هو نهار آخر."}
+{"btec_id": "11663", "example_id": "1435", "dialect": "TUN", "pred_dialect": "TUN", "raw": "يمكن نجم نعاونك. ياخي يلزمك فيتامين سي؟", "coda": "يمكن ننجم نعاونك. ياخي يلزمك فيتامين سي؟"}
+{"btec_id": "11689", "example_id": "1436", "dialect": "TUN", "pred_dialect": "TUN", "raw": "نشال سرق صطوش أوراقي في التران.", "coda": "نشال سرق صطوش اوراقي في التران."}
+{"btec_id": "11704", "example_id": "1437", "dialect": "TUN", "pred_dialect": "TUN", "raw": "هو بعيد برشا. يكون أحسن كان ناخو تاكسي.", "coda": "هو بعيد برشا. يكون احسن كان ناخو تاكسي."}
+{"btec_id": "11708", "example_id": "1438", "dialect": "TUN", "pred_dialect": "TUN", "raw": "نحب بلاصة بجنب الكلوار، يعيشك.", "coda": "نحب بلاصة بجنب الكلوار، يعيشك."}
+{"btec_id": "11709", "example_id": "1439", "dialect": "TUN", "pred_dialect": "TUN", "raw": "نعيش في برتمان يكلفني ثمانين ألف يان في الشهر.", "coda": "نعيش في برتمان يكلفني ثمانين الف يان في الشهر."}
+{"btec_id": "11714", "example_id": "1440", "dialect": "TUN", "pred_dialect": "TUN", "raw": "نجم نقص عليك؟", "coda": "ننجم نقص عليك؟"}
+{"btec_id": "11734", "example_id": "1441", "dialect": "TUN", "pred_dialect": "TUN", "raw": "سامحني تنجم تبدل معايا لبلايص؟", "coda": "سامحني تنجم تبدل معاي البلايص؟"}
+{"btec_id": "11746", "example_id": "1442", "dialect": "TUN", "pred_dialect": "RAB", "raw": "إي، بطبيعة.", "coda": "اي، بالطبيعة."}
+{"btec_id": "11751", "example_id": "1443", "dialect": "TUN", "pred_dialect": "TUN", "raw": "امشي للتركينة ودور عل يسار عند الاشارة.", "coda": "امشي للتركينة ودور عاليسار عند الاشارة."}
+{"btec_id": "11800", "example_id": "1444", "dialect": "TUN", "pred_dialect": "TUN", "raw": "مذبية نحط الحاجاة لغالية في صندوق امانات بالاوتيل.", "coda": "ماذابي نحط الحاجاة الغالية في صندوق امانات بالاوتيل."}
+{"btec_id": "11821", "example_id": "1445", "dialect": "TUN", "pred_dialect": "TUN", "raw": "إي، إما كون متأكد إلي تيكي معك.", "coda": "اي، اما كون متأكد اللي التيكي معك."}
+{"btec_id": "11862", "example_id": "1446", "dialect": "TUN", "pred_dialect": "TUN", "raw": "كن شوية عباد بش يلتحقوا بالجولة الاختيارية.", "coda": "كان شوية عباد باش يلتحقوا بالجولة الاختيارية."}
+{"btec_id": "11872", "example_id": "1447", "dialect": "TUN", "pred_dialect": "TUN", "raw": "أنسى . المهم، يعيشك هزني لسنتر متع صين. توا نحاول نفركس عليه وحدي.", "coda": "انسى. المهم، يعيشك هزني للسنتر متاع الصين. توا نحاول نفركس عليه وحدي."}
+{"btec_id": "11879", "example_id": "1448", "dialect": "TUN", "pred_dialect": "TUN", "raw": "عباد جدد بش ينتدبوا في آفريل.", "coda": "عباد جدد باش ينتدبوا في آفريل."}
+{"btec_id": "11880", "example_id": "1449", "dialect": "TUN", "pred_dialect": "TUN", "raw": "نتمنى والله.", "coda": "نتمنى والله."}
+{"btec_id": "11885", "example_id": "1450", "dialect": "TUN", "pred_dialect": "TUN", "raw": "زوز سكوتش وماء، يعيشك.", "coda": "زوز سكوتش وماء، يعيشك."}
+{"btec_id": "11901", "example_id": "1451", "dialect": "TUN", "pred_dialect": "TUN", "raw": "شكون يلعب؟", "coda": "شكون يلعب؟"}
+{"btec_id": "11916", "example_id": "1452", "dialect": "TUN", "pred_dialect": "TUN", "raw": "عل يسار، يعيشك.", "coda": "عاليسار، يعيشك."}
+{"btec_id": "11949", "example_id": "1453", "dialect": "TUN", "pred_dialect": "TUN", "raw": "سنة قدامية تعبتني.", "coda": "السنة القدامية تعبتني."}
+{"btec_id": "11959", "example_id": "1454", "dialect": "TUN", "pred_dialect": "TUN", "raw": "شنية اخر فيديو لعب ال طفلة مراهقة عمرها خمسطاش سنة؟", "coda": "شنيا آخر فيديو لعب لطفلة مراهقة عمرها خمستعش سنة؟"}
+{"btec_id": "11972", "example_id": "1455", "dialect": "TUN", "pred_dialect": "TUN", "raw": "نشوفوك غدوة.", "coda": "نشوفوك غدوة."}
+{"btec_id": "11975", "example_id": "1456", "dialect": "TUN", "pred_dialect": "TUN", "raw": "لا، إما يعيشك. نحس في روحي خير.", "coda": "لا، اما يعيشك. نحس في روحي خير."}
+{"btec_id": "11976", "example_id": "1457", "dialect": "TUN", "pred_dialect": "TUN", "raw": "عندك شوية خبز؟", "coda": "عندك شوية خبز؟"}
+{"btec_id": "11977", "example_id": "1458", "dialect": "TUN", "pred_dialect": "TUN", "raw": "كيفاش تحس روحك فالكمنجة باهي؟", "coda": "كيفاش تحس روحك فالكمنجة باهي؟"}
+{"btec_id": "11990", "example_id": "1459", "dialect": "TUN", "pred_dialect": "TUN", "raw": "صاحبي زلق وطاح في دوش.", "coda": "صاحبي زلق وطاح في الدوش."}
+{"btec_id": "11991", "example_id": "1460", "dialect": "TUN", "pred_dialect": "TUN", "raw": "نجم ناخو سندرية؟", "coda": "ننجم ناخو سندرية؟"}
+{"btec_id": "11997", "example_id": "1461", "dialect": "TUN", "pred_dialect": "TUN", "raw": "الكريستينيا منعوها والبلاد تسكرت للعالم لخر.", "coda": "الكريستينيا منعوها والبلاد تسكرت للعالم الاخر."}
+{"btec_id": "12005", "example_id": "1462", "dialect": "TUN", "pred_dialect": "TUN", "raw": "قداش تحب؟", "coda": "قداش تحب؟"}
+{"btec_id": "12012", "example_id": "1463", "dialect": "TUN", "pred_dialect": "DOH", "raw": "كوكتيل كروفات لها هي وانا زادة كيفكيف.", "coda": "كوكتيل كروفات لها هي وانا زادة كيف كيف."}
+{"btec_id": "12033", "example_id": "1464", "dialect": "TUN", "pred_dialect": "TUN", "raw": "نجم نطلب منك بش تصحح هوني، إما يعيشك ابدى من هوني.", "coda": "ننجم نطلب منك باش تصحح هوني، اما يعيشك ابدا من هوني."}
+{"btec_id": "12035", "example_id": "1465", "dialect": "TUN", "pred_dialect": "TUN", "raw": "يحسنلي شرف بش نزور شركاتك وناخذو ونعطيو مع بعضنا. يعيشك نشكرك على معاونتك.", "coda": "يحسن لي الشرف باش نزور شركاتك وناخذوا ونعطيوا مع بعضنا. يعيشك نشكرك على معاونتك."}
+{"btec_id": "12054", "example_id": "1466", "dialect": "TUN", "pred_dialect": "TUN", "raw": "شخيرك يقلق.", "coda": "شخيرك يقلق."}
+{"btec_id": "12056", "example_id": "1467", "dialect": "TUN", "pred_dialect": "TUN", "raw": "على كل لونمعجبنش. نجم نرجع؟", "coda": "على كل اللون ما عجبنيش. ننجم نرجع؟"}
+{"btec_id": "12069", "example_id": "1468", "dialect": "TUN", "pred_dialect": "TUN", "raw": "نجم نخو شوية فلفل؟", "coda": "ننجم ناخو شوية فلفل؟"}
+{"btec_id": "12101", "example_id": "1469", "dialect": "TUN", "pred_dialect": "TUN", "raw": "معاك سي تكاهاشي فيل بيت نومرو خمسة تسعة وأربعين. تنجم تهزل أربعة دبابز بيرة بودوايزو، يعيشك؟", "coda": "معاك سي تكاهاشي في البيت نومرو خمسة تسعة واربعين. تنجم تهز لي اربعة دبابز بيرة بدوايز، يعيشك؟"}
+{"btec_id": "12131", "example_id": "1470", "dialect": "TUN", "pred_dialect": "TUN", "raw": "هذم سبعين دولار.", "coda": "هاذم سبعين دولار."}
+{"btec_id": "12140", "example_id": "1471", "dialect": "TUN", "pred_dialect": "TUN", "raw": "أمان كلملي لوتيل متاعي وقت تلقالي فليجاتي.", "coda": "امان كلم لي لوتيل متاعي وقت تلقا لي فليجاتي."}
+{"btec_id": "12150", "example_id": "1472", "dialect": "TUN", "pred_dialect": "TUN", "raw": "نحب فياقة غدوة في صباح مع ثمانية ونص، يعيشك.", "coda": "نحب فياقة غدوة في الصباح مع ثمانية ونص، يعيشك."}
+{"btec_id": "12167", "example_id": "1473", "dialect": "TUN", "pred_dialect": "TUN", "raw": "إي، إما هذا برشة وانا مزلت كي غير كليت.", "coda": "اي، اما هذا برشا وانا ما زلت كي غير كليت."}
+{"btec_id": "12172", "example_id": "1474", "dialect": "TUN", "pred_dialect": "TUN", "raw": "نحب على شوية غسول فم.", "coda": "نحب على شوية غسول فم."}
+{"btec_id": "12173", "example_id": "1475", "dialect": "TUN", "pred_dialect": "TUN", "raw": "مانيش قد بعضي.", "coda": "مانيش قد بعضي."}
+{"btec_id": "12182", "example_id": "1476", "dialect": "TUN", "pred_dialect": "TUN", "raw": "تبيع بالجملة؟", "coda": "تبيع بالجملة؟"}
+{"btec_id": "12193", "example_id": "1477", "dialect": "TUN", "pred_dialect": "TUN", "raw": "طوكيو صفر ثلاثة رباع تسعة أربعة خمسة ستة سبعة.", "coda": "طوكيو صفر ثلاثة رباع تسعة اربعة خمسة ستة سبعة."}
+{"btec_id": "12240", "example_id": "1478", "dialect": "TUN", "pred_dialect": "TUN", "raw": "تنجم تعاوني بش نلقى حديقة الحيوانات؟", "coda": "تنجم تعاونني باش نلقى حديقة الحيوانات؟"}
+{"btec_id": "12246", "example_id": "1479", "dialect": "TUN", "pred_dialect": "TUN", "raw": "تنجم تقلي كيفاش نريقلوه؟", "coda": "تنجم تقول لي كيفاش نريقلوه؟"}
+{"btec_id": "12247", "example_id": "1480", "dialect": "TUN", "pred_dialect": "TUN", "raw": "وقتاش جولة متاع كار مرة أخرى؟", "coda": "وقتاش الجولة متاع الكار مرة اخرى؟"}
+{"btec_id": "12254", "example_id": "1481", "dialect": "TUN", "pred_dialect": "TUN", "raw": "تعرف كيفاش تستعمل تلفون؟", "coda": "تعرف كيفاش تستعمل تلفون؟"}
+{"btec_id": "12259", "example_id": "1482", "dialect": "TUN", "pred_dialect": "TUN", "raw": "بالطبيعة. عنا شوية علامات متاع كتب امريكية اصلية محلاهم .", "coda": "بالطبيعة. عننا شوية علامات متاع كتب امريكية اصلية ما احلاهم."}
+{"btec_id": "12298", "example_id": "1483", "dialect": "TUN", "pred_dialect": "TUN", "raw": "بربي مشغل مكالمات يحكي ياباني، يعيشك.", "coda": "بربي مشغل مكالمات يحكي ياباني، يعيشك."}
+{"btec_id": "12331", "example_id": "1484", "dialect": "TUN", "pred_dialect": "DOH", "raw": "احنا مهتمين بالموضة.", "coda": "احنا مهتمين بالموضة."}
+{"btec_id": "12333", "example_id": "1485", "dialect": "TUN", "pred_dialect": "TUN", "raw": "تنجم دز بية؟", "coda": "تنجم تدز بي؟"}
+{"btec_id": "12345", "example_id": "1486", "dialect": "TUN", "pred_dialect": "DOH", "raw": "هذي مصحة اف؟", "coda": "هاذي مصحة اف؟"}
+{"btec_id": "12364", "example_id": "1487", "dialect": "TUN", "pred_dialect": "TUN", "raw": "عسلامة للا، ياماغوشي. الطرف الآخر عل خط. مكالمتك تقبلت. تفضل، يعيشك.", "coda": "عالسلامة للا، ياماغوشي. الطرف الآخر على الخط. مكالمتك تقبلت. تفضل، يعيشك."}
+{"btec_id": "12396", "example_id": "1488", "dialect": "TUN", "pred_dialect": "TUN", "raw": "وقتاش نوصلوا اللوس أنجلوس؟", "coda": "وقتاش نوصلوا للوس انجلوس؟"}
+{"btec_id": "12403", "example_id": "1489", "dialect": "TUN", "pred_dialect": "TUN", "raw": "كمل طول في خمسة دقايق وبعد دور عل يسر.", "coda": "كمل طول في خمسة دقايق وبعد دور عاليسر."}
+{"btec_id": "12416", "example_id": "1490", "dialect": "TUN", "pred_dialect": "TUN", "raw": "هذا طريق لشط.", "coda": "هذا الطريق للشط."}
+{"btec_id": "12420", "example_id": "1491", "dialect": "TUN", "pred_dialect": "TUN", "raw": "تاي هذا يخليك تبان صغير .", "coda": "التاي هذا يخليك تبان صغير."}
+{"btec_id": "12421", "example_id": "1492", "dialect": "TUN", "pred_dialect": "TUN", "raw": "هاذم مهمش مصنوعين فاليابان، مش هكا؟", "coda": "هاذم ماهمش مصنوعين فاليابان، مش هكا؟"}
+{"btec_id": "12443", "example_id": "1493", "dialect": "TUN", "pred_dialect": "TUN", "raw": "باهي. من هوني، يعيشك. بش نهزك البيتك.", "coda": "باهي. من هوني، يعيشك. باش نهزك لبيتك."}
+{"btec_id": "12479", "example_id": "1494", "dialect": "TUN", "pred_dialect": "TUN", "raw": "لزمني نخرج مل هوتيل قبل ضهر.", "coda": "لزمني نخرج مالهوتيل قبل الظهر."}
+{"btec_id": "12495", "example_id": "1495", "dialect": "TUN", "pred_dialect": "TUN", "raw": "زوز همبرغر وزوز قهاوي، يعيشك. نحب نهزهم معايا.", "coda": "زوز همبرغر وزوز قهاوي، يعيشك. نحب نهزهم معاي."}
+{"btec_id": "12510", "example_id": "1496", "dialect": "TUN", "pred_dialect": "TUN", "raw": "نجم نوصل لفاليجات هذم زوز؟", "coda": "ننجم نوصل لفاليجات هاذم زوز؟"}
+{"btec_id": "12527", "example_id": "1497", "dialect": "TUN", "pred_dialect": "TUN", "raw": "طلبت لحم، مش حوت. تنجم تبدل؟", "coda": "طلبت لحم، مش حوت. تنجم تبدل؟"}
+{"btec_id": "12546", "example_id": "1498", "dialect": "TUN", "pred_dialect": "TUN", "raw": "ولدي برسمي تعب.", "coda": "ولدي بالرسمي تعب."}
+{"btec_id": "12551", "example_id": "1499", "dialect": "TUN", "pred_dialect": "BEI", "raw": "مريض بمعدتي.", "coda": "مريض بمعدتي."}
