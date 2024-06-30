@@ -4,3 +4,7 @@ camel-tools
 datasets==2.5.1
 sentencepiece==0.1.99
 protobuf==3.20.3
+numpy==1.26.4
+evaluate
+jiwer
+
