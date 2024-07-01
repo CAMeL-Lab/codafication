@@ -14,7 +14,7 @@ from transformers import (
     AutoConfig,
     AutoModelForSeq2SeqLM,
     AutoTokenizer,
-    DataCollatorForSeq2SeqGEC,
+    DataCollatorForSeq2Seq,
     HfArgumentParser,
     M2M100Tokenizer,
     MBart50Tokenizer,
@@ -296,8 +296,8 @@ def main():
         )
 
     def preprocess_function(examples):
-        inputs = examples['src']
-        targets = examples['tgt']
+        inputs = examples['raw']
+        targets = examples['coda']
 
         model_inputs = tokenizer(inputs, max_length=data_args.max_source_length, padding=padding, truncation=True)
 
@@ -320,8 +320,8 @@ def main():
         with open(data_args.train_file) as f:
             raw_data = [json.loads(l) for l in f.readlines()]
 
-        dataset_dict = {'src': [ex['src'] for ex in raw_data],
-                        'tgt':  [ex['tgt'] for ex in raw_data]
+        dataset_dict = {'raw': [ex['raw'] for ex in raw_data],
+                        'coda':  [ex['coda'] for ex in raw_data]
                         }
 
         train_dataset = Dataset.from_dict(dataset_dict)
@@ -343,8 +343,8 @@ def main():
         with open(data_args.test_file) as f:
             raw_data = [json.loads(l) for l in f.readlines()]
 
-        dataset_dict = {'src': [ex['src'] for ex in raw_data],
-                        'tgt':  [ex['tgt'] for ex in raw_data]
+        dataset_dict = {'raw': [ex['raw'] for ex in raw_data],
+                        'coda':  [ex['coda'] for ex in raw_data]
                         }
 
         predict_dataset = Dataset.from_dict(dataset_dict)
@@ -367,7 +367,7 @@ def main():
     if data_args.pad_to_max_length:
         data_collator = default_data_collator
     else:
-        data_collator = DataCollatorForSeq2SeqGEC(
+        data_collator = DataCollatorForSeq2Seq(
             tokenizer,
             model=model,
             label_pad_token_id=label_pad_token_id,
