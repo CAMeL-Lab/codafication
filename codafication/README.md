@@ -59,6 +59,6 @@ We evaluate our models by using the MaxMax (M<sup>2</sup>) Scorer and Word Error
 
 In terms of the dialect-specific evaluation, you'd first need to run [scripts/get_dialect_pred.sh](scripts/get_dialect_pred.sh) [test-split] to get the dialect-specific predictions. Then you'd need to run [scripts/eval_dialect.sh](scripts/eval_dialect.sh) [test-split], where [test-split] is either `dev` or `test`.
 
-
+Moreover, we provide code to run approximate randomization [statistical significance](../utils/stat_significance) testing. You'd need first to obtain the sentence-level m2scores by running the [get_m2_scores.sh][../utils/stat_significance/get_m2_scores.sh] scripts. After then, you'd need to run `python significance.py --system1_scores /path/to/system1/m2scores --system2_scores /path/to/system2/m2scores`
 
     
