@@ -48,7 +48,7 @@ If you find the code or data in this repo helpful, please cite our [paper](https
     booktitle = "Proceedings of ArabicNLP 2024"
     month = "aug",
     year = "2024",
-    address = "Thailand",
+    address = "Bangkok, Thailand",
     abstract = "Dialectal Arabic is the primary spoken language used by native Arabic speakers in daily communication. The rise of social media platforms has notably expanded its use as a written language. However, Arabic dialects do not have standard orthographies. This, combined with the inherent noise in user-generated content on social media, presents a major challenge to NLP applications dealing with Dialectal Arabic. In this paper, we explore and report on the task of CODAfication, which aims to normalize Dialectal Arabic into the Conventional Orthography for Dialectal Arabic (CODA). We work with a unique parallel corpus of multiple Arabic dialects focusing on five major city dialects. We benchmark newly developed pretrained sequence-to-sequence models on the task of CODAfication. We further show that using dialect identification information improves the performance across all dialects. We make our code, data, and pretrained models publicly available.",
 }
 ```
