@@ -44,7 +44,7 @@ If you find the code or data in this repo helpful, please cite our [paper](https
       Nassar, Fatema and
       Eryani, Fadhl and
       Bouamor, Houda and
-      Habash, Houda",
+      Habash, Nizar",
     booktitle = "Proceedings of ArabicNLP 2024"
     month = "aug",
     year = "2024",
