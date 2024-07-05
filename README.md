@@ -20,7 +20,11 @@ pip install -r requirements.txt
 ```
 
 ## Experiments and Reproducibility:
+[data](data): includes all the data we used throughout our paper to train and test various systems. This includes alignments, m2edits, the MADAR CODA Corpus, and all the utilities we used.
 
+[codafication](codafication): includes the scripts needed to train and evaluate our codafication models.
+
+[utils](utils): includes various scripts used for evaluation and statistical significance.
 
 
 ## Hugging Face Integration:
