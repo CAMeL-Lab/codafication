@@ -2,9 +2,9 @@ for split in train dev test
 do
 
     python preprocess.py \
-        --input_file /home/ba63/coda-did/data/${split}/${split}.tsv \
+        --input_file /home/ba63/codafication/data/${split}/${split}.tsv \
         --control_token none \
-        --output_file /home/ba63/coda-did/data/${split}/${split}
+        --output_file /home/ba63/codafication/data/${split}/${split}
 
 done
 
@@ -15,10 +15,10 @@ do
     for token in msa_phrase da_phrase city digit
     do
         python preprocess.py \
-            --input_file /home/ba63/coda-did/data/${split}/${split}.tsv \
+            --input_file /home/ba63/codafication/data/${split}/${split}.tsv \
             --control_token $token \
             --mode gold \
-            --output_file /home/ba63/coda-did/data/${split}/${split}_${token}_gold
+            --output_file /home/ba63/codafication/data/${split}/${split}_${token}_gold
     done 
 done
 
@@ -29,10 +29,10 @@ do
     for token in msa_phrase da_phrase city digit
     do
         python preprocess.py \
-            --input_file /home/ba63/coda-did/data/${split}/${split}.tsv \
+            --input_file /home/ba63/codafication/data/${split}/${split}.tsv \
             --control_token $token \
             --mode pred \
-            --output_file /home/ba63/coda-did/data/${split}/${split}_${token}_pred \
+            --output_file /home/ba63/codafication/data/${split}/${split}_${token}_pred \
 
     done
 done
