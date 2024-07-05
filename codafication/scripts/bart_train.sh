@@ -40,7 +40,7 @@ OUTPUT_DIR=${OUTPUT_DIRS[$SLURM_ARRAY_TASK_ID]}
 STEPS=1500
 BATCH_SIZE=16
 
-python /home/ba63/codafication/run_coda.py \
+python /home/ba63/codafication/codafication/run_coda.py \
     --model_name_or_path $MODEL \
     --do_train \
     --optim adamw_torch \
