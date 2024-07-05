@@ -55,5 +55,10 @@ We also provide the scripts we used during inference to generate CODAfied output
 
 ## Evaluation:
 
+We evaluate our models by using the MaxMax (M<sup>2</sup>) Scorer and Word Error Rate (WER). Running [scripts/eval.sh](scripts/eval.sh) [eval-mode] [test-split] would evaluate the `Joint` models, where [eval-mode] is either `gold` or `pred` and [test-split] is either `dev` or `test`. Running [scripts/eval_ensemble.sh](scripts/eval_ensemble.sh) would evaluate all the `Ensemble` models.
+
+In terms of the dialect-specific evaluation, you'd first need to run [scripts/get_dialect_pred.sh](scripts/get_dialect_pred.sh) [test-split] to get the dialect-specific predictions. Then you'd need to run [scripts/eval_dialect.sh](scripts/eval_dialect.sh) [test-split], where [test-split] is either `dev` or `test`.
+
+
 
     
