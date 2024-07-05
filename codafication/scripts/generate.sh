@@ -82,7 +82,7 @@ pred_file=${pred_files[$SLURM_ARRAY_TASK_ID]}
 printf "Running inference on ${test_file}\n"
 printf "Generating outputs using: ${sys}\n"
 
-python /home/ba63/codafication/generate.py \
+python /home/ba63/codafication/codafication/generate.py \
         --model_name_or_path $sys \
         --source_lang src \
         --target_lang tgt \
