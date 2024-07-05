@@ -2,7 +2,7 @@
 
 
 This repo contains code and pretrained models to reproduce the results in our paper [Exploiting Dialect Identification
-in Automatic Dialectal Text Normalization](https://arxiv.org/pdf/2407.03020).
+in Automatic Dialectal Text Normalization](https://arxiv.org/abs/2407.03020).
 
 
 ## Requirements:
@@ -37,7 +37,7 @@ This repo is available under the MIT license. See the [LICENSE](LICENSE) for mor
 
 ## Citation
 
-If you find the code or data in this repo helpful, please cite our [paper](https://arxiv.org/pdf/2407.03020):
+If you find the code or data in this repo helpful, please cite our [paper](https://arxiv.org/abs/2407.03020):
 
 ```BibTeX
 @inproceedings{alhafni-etal-2024-exploiting,
