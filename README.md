@@ -28,7 +28,64 @@ pip install -r requirements.txt
 
 
 ## Hugging Face Integration:
-We make our CODAfication models publicly available on [Hugging Face]().
+We make our CODAfication models publicly available on [Hugging Face](https://huggingface.co/collections/CAMeL-Lab/codafication-6687ee4059e2d45fc20ce22b).
+
+```python
+from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
+from camel_tools.dialectid import DIDModel6
+import torch
+
+DID = DIDModel6.pretrained()
+DA_PHRASE_MAP = {'BEI': 'في بيروت منقول',
+                 'CAI': 'في القاهرة بنقول',
+                 'DOH': 'في الدوحة نقول',
+                 'RAB': 'في الرباط كنقولو',
+                 'TUN': 'في تونس نقولو'}
+
+
+def predict_dialect(sent):
+    """Predicts the dialect of a sentence using the
+       CAMeL Tools MADAR 6 DID model"""
+
+    predictions = DID.predict([sent])
+    scores = predictions[0].scores
+
+    if predictions[0].top != "MSA":
+        # get the highest pred
+        pred = sorted(scores.items(),
+                      key=lambda x: x[1], reverse=True)[0]
+    else:
+        # get the second highest pred
+        pred = sorted(scores.items(),
+                      key=lambda x: x[1], reverse=True)[1]
+
+    dialect = pred[0]
+    score = pred[1]
+
+    return dialect, score
+
+tokenizer = AutoTokenizer.from_pretrained('CAMeL-Lab/arat5-coda-did')
+model = AutoModelForSeq2SeqLM.from_pretrained('CAMeL-Lab/arat5-coda-did')
+
+text = 'اتنين هامبورجر و اتنين قهوة، لو سمحت. عايزهم تيك اواي.'
+
+pred_dialect, _ = predict_dialect(text)
+text = DA_PHRASE_MAP[pred_dialect] + ' ' + text
+
+inputs = tokenizer(text, return_tensors='pt')
+gen_kwargs = {'num_beams': 5, 'max_length': 200,
+              'num_return_sequences': 1,
+              'no_repeat_ngram_size': 0, 'early_stopping': False
+              }
+
+codafied_text = model.generate(**inputs, **gen_kwargs)
+codafied_text = tokenizer.batch_decode(codafied_text,
+                                       skip_special_tokens=True,
+                                       clean_up_tokenization_spaces=False)[0]
+
+print(codafied_text)
+"اثنين هامبورجر واثنين قهوة، لو سمحت. عايزهم تيك اوي."
+```
 
 
 ## License:
